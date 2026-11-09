@@ -108,7 +108,7 @@ These are the 427 images on the corrected ground truth. 39 have an error larger 
 | Airport | 4 |
 | Supermarket | 1 |
 
-They are mostly long queues: the ground truth is 18 to 70 people, and LineFinder reports 7 to 21. This is consistent with RANSAC keeping only one straight stretch of a long or bending queue.
+They are mostly long queues: the ground truth is 18 to 70 people, and LineFinder reports 7 to 21. *Correction (2026-11-09 rerun):* an earlier version of this report attributed this to RANSAC keeping only one straight stretch of the queue. That is wrong for most of these images. In 36 of the 40 seeded-rerun images with error over 10, the main loss is person detection: JointBDOE finds far fewer boxes than the GT count, and RANSAC rejects only a few. See `reports/2026-11-09/step4_large_errors.md`.
 
 | Image | Scene | GT | LineFinder | Error |
 |---|---|---:|---:|---:|

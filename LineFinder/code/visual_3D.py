@@ -384,8 +384,10 @@ def visualize_bbox_centers_3d(points_3d: np.ndarray,
 def ransac_line_3d(points_3d: np.ndarray,
                    num_iters: int = 1000,
                    dist_thresh: float = 0.8,
-                   min_inliers_ratio: float = 0.3):
+                   min_inliers_ratio: float = 0.3,
+                   seed=42):
     # print(f"RANSAC line fitting: dist_thresh={dist_thresh}, min_inliers_ratio={min_inliers_ratio}")
+    # seed: fixed (42) so every call is reproducible; pass seed=None for the old unseeded behaviour.
 
     N = points_3d.shape[0]
     if N < 2:
@@ -393,7 +395,7 @@ def ransac_line_3d(points_3d: np.ndarray,
 
     best_inliers = None
     best_count = 0
-    rng = np.random.default_rng()
+    rng = np.random.default_rng(seed)
 
     for _ in range(num_iters):
         idx = rng.choice(N, size=2, replace=False)
