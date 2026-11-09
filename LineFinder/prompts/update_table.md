@@ -1,0 +1,14 @@
+Decisions: update Tables 1, 2 and 3 to the corrected 427-image ground truth, and replace LineFinder's unreproducible counting numbers with recomputed ones. Commit the housekeeping fixes and the IMG_6728 outputs.
+
+1. Add a fixed random seed (42) to every RANSAC call and any other random step in LineFinder. Rerun the full LineFinder pipeline on all 427 images (counting, visibility, facing, start/end selection) and save the prediction files under a dated results folder. Upload them to the private HF dataset deansmile123/LineFinder.
+2. Recompute on the corrected 427 images, for all four methods:
+   - Table 1: all 7 fields plus overall, for each VLM and LineFinder.
+   - Table 2: start-person, end-person and overall description accuracy. Report which files hold the manual judgments and whether any of the 427 images lack one.
+   - Table 3: every metric.
+   Give one table with the paper's values next to the new ones.
+3. Facing labels: report the label set in each GT file group (old format, Luna, Olivia). Does any GT distinguish sideways-left from sideways-right? Confirm the VLM predictions were scored with the same sideways merge as LineFinder, and report facing accuracy with and without the merge for every method.
+4. For the images where LineFinder's count is off by more than 10: give the number of detected boxes next to the RANSAC inlier count and the GT. Classify each as mainly a detection miss (boxes well below GT) or mainly RANSAC rejection (boxes near GT, inliers well below). Also report each one's share of the total squared error.
+5. Write the reproduction commands into a REPRODUCE.md, commit and push.
+6. Timing, during the step-1 rerun: run on a dedicated GPU node, and record GPU, CPU, RAM, and the Python, PyTorch and CUDA versions. Load the models once and exclude loading from the times. Warm up on 5 images. Call torch.cuda.synchronize() around each GPU stage. Record the time per image for each stage (YOLO, DepthPro, JointBDOE, RANSAC plus endpoint logic, Gemini description call) and the total. If stages run as separate batch passes, time each image within each pass and say so. Confirm the timing code doesn't change any output.
+7. Timing, separate run: choose 100 of the 427 images at random with seed 42. Call Gemini 3 Flash, GPT-5.4 Mini High and Kimi-K2.5 Instant with the exact benchmark prompts and settings, and record end-to-end API time per image. Leave out failed calls and count them. Before running, estimate the cost and wait for my OK. Don't use these outputs for accuracy.
+8. Write the mean, median, standard deviation and p90 for every stage and model to timing_summary.md, along with the hardware details and the date.

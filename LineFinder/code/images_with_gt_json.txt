@@ -104,7 +104,6 @@ IMG_6784
 IMG_6785
 IMG_6786
 IMG_6787
-annotation_accuracy
 frame0002
 frame0004
 frame0006
@@ -309,7 +308,6 @@ frame0006
 /mnt/NAS/home/ds5725/linefinder/code/C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\outdoor_199_start_end.jpg
 /mnt/NAS/home/ds5725/linefinder/code/C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\outdoor_200_start_end.jpg
 /mnt/NAS/home/ds5725/linefinder/code/C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\outdoor_201_start_end.jpg
-outdoor_annotation_accuracy
 /mnt/NAS/home/ds5725/linefinder/code/olivia_start_end/supermarket_001_start_end.jpg
 /mnt/NAS/home/ds5725/linefinder/code/olivia_start_end/supermarket_002_start_end.jpg
 /mnt/NAS/home/ds5725/linefinder/code/olivia_start_end/supermarket_003_start_end.jpg

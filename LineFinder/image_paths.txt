@@ -89,6 +89,7 @@
 /mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6785.JPG
 /mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6786.JPG
 /mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6787.JPG
+/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6728.JPG
 /mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6729.JPG
 /mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6730.JPG
 /mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6731.JPG

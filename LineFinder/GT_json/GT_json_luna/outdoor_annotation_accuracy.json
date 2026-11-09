@@ -1,69 +1,69 @@
 {
     "summary": {
         "total_saved_images": 201,
-        "hard_images": 16,
-        "not_hard_images": 185
+        "hard_images": 22,
+        "not_hard_images": 179
     },
     "question_stats": {
         "Number of people in line": {
-            "correct": 53,
-            "wrong": 132,
-            "total": 185,
-            "accuracy": 0.2864864864864865
+            "correct": 52,
+            "wrong": 127,
+            "total": 179,
+            "accuracy": 0.2905027932960894
         },
         "What direction is the line facing": {
-            "correct": 144,
-            "wrong": 41,
-            "total": 185,
-            "accuracy": 0.7783783783783784
+            "correct": 141,
+            "wrong": 38,
+            "total": 179,
+            "accuracy": 0.7877094972067039
         },
         "Do we see the end of line?": {
-            "correct": 122,
-            "wrong": 63,
-            "total": 185,
-            "accuracy": 0.6594594594594595
+            "correct": 120,
+            "wrong": 59,
+            "total": 179,
+            "accuracy": 0.6703910614525139
         },
         "If yes, where is the end of the line in the image?": {
-            "correct": 112,
-            "wrong": 73,
-            "total": 185,
-            "accuracy": 0.6054054054054054
+            "correct": 109,
+            "wrong": 70,
+            "total": 179,
+            "accuracy": 0.6089385474860335
         },
         "If not, in what direction should you move camera to see the end of the line?": {
             "correct": 108,
-            "wrong": 77,
-            "total": 185,
-            "accuracy": 0.5837837837837838
+            "wrong": 71,
+            "total": 179,
+            "accuracy": 0.6033519553072626
         },
         "Description of the person at the end of the line": {
-            "correct": 109,
-            "wrong": 76,
-            "total": 185,
-            "accuracy": 0.5891891891891892
+            "correct": 106,
+            "wrong": 73,
+            "total": 179,
+            "accuracy": 0.5921787709497207
         },
         "Do we see the start of line?": {
-            "correct": 132,
-            "wrong": 53,
-            "total": 185,
-            "accuracy": 0.7135135135135136
+            "correct": 129,
+            "wrong": 50,
+            "total": 179,
+            "accuracy": 0.7206703910614525
         },
         "If yes, where is the start of the line in the image?": {
-            "correct": 103,
-            "wrong": 82,
-            "total": 185,
-            "accuracy": 0.5567567567567567
+            "correct": 101,
+            "wrong": 78,
+            "total": 179,
+            "accuracy": 0.5642458100558659
         },
         "If not, in what direction should you move camera to see the start of the line?": {
-            "correct": 127,
-            "wrong": 58,
-            "total": 185,
-            "accuracy": 0.6864864864864865
+            "correct": 124,
+            "wrong": 55,
+            "total": 179,
+            "accuracy": 0.6927374301675978
         },
         "Description of the person at the start of the line": {
-            "correct": 94,
-            "wrong": 91,
-            "total": 185,
-            "accuracy": 0.5081081081081081
+            "correct": 93,
+            "wrong": 86,
+            "total": 179,
+            "accuracy": 0.5195530726256983
         }
     }
 }
