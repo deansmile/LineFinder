@@ -1,0 +1,3588 @@
+IMG_5954.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 17,
+  "line_purpose": "unknown",
+  "start_person_description": "person wearing dark jacket and cap",
+  "end_person_description": "person wearing plaid shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5955.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing sideways",
+  "number_of_people_in_line": 20,
+  "line_purpose": "store entry",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person in white hoodie",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "other",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5956.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "store entry",
+  "start_person_description": "person in white t-shirt and red shorts",
+  "end_person_description": "person in white t-shirt and backpack",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5957.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "store entry",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person in blue jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5958.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 30,
+  "line_purpose": "store entry",
+  "start_person_description": "person wearing a hat and white shirt",
+  "end_person_description": "person wearing yellow shorts",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5959.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "store entry",
+  "start_person_description": "person with black jacket and backpack",
+  "end_person_description": "person with brown jacket and blue backpack",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5961.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "store entry",
+  "start_person_description": "person in striped shorts and dark top",
+  "end_person_description": "woman in floral dress",
+  "counter_person_description": "person in black uniform",
+  "boundary_present": "yes",
+  "boundary_types": "cones",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5962.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 16,
+  "line_purpose": "store entry",
+  "start_person_description": "person in white t-shirt",
+  "end_person_description": "person with backpack",
+  "counter_person_description": "person in black uniform",
+  "boundary_present": "yes",
+  "boundary_types": "cones",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5963.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "store entrance",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person with bicycle",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5964.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "unknown",
+  "start_person_description": "person wearing dark jacket and cap",
+  "end_person_description": "person wearing plaid shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5965.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "store entry",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in black jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "other",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5966.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing sideways",
+  "number_of_people_in_line": 9,
+  "line_purpose": "unknown",
+  "start_person_description": "person in green jacket",
+  "end_person_description": "person with orange bag",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "other",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5967.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 14,
+  "line_purpose": "waiting outside a building",
+  "start_person_description": "person with a backpack",
+  "end_person_description": "person in a blue jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5968.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing sideways",
+  "number_of_people_in_line": 18,
+  "line_purpose": "museum entrance",
+  "start_person_description": "woman with black jacket and bag",
+  "end_person_description": "person in green jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5969.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "bus stop",
+  "start_person_description": "person in red jacket",
+  "end_person_description": "person in black coat",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_5970.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "store entry",
+  "start_person_description": "person in red coat",
+  "end_person_description": "person with dog",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5971.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "security check",
+  "start_person_description": "person with black hoodie holding paper",
+  "end_person_description": "person with green hat and backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5972.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 30,
+  "line_purpose": "unknown",
+  "start_person_description": "person with umbrella",
+  "end_person_description": "person in blue covering",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5973.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "unknown",
+  "start_person_description": "person wearing a black hoodie",
+  "end_person_description": "woman wearing a pink jacket and mask",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5974.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "unknown",
+  "start_person_description": "man in a suit with a briefcase",
+  "end_person_description": "person with a hooded jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5975.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "entering a building",
+  "start_person_description": "bald man in a suit",
+  "end_person_description": "person in a red jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5977.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 8,
+  "line_purpose": "waiting",
+  "start_person_description": "woman in pink top holding paper",
+  "end_person_description": "person with blue bag",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5978.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "job fair",
+  "start_person_description": "woman with glasses holding folder",
+  "end_person_description": "person with red plaid shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5979.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "ticket booth",
+  "start_person_description": "man in black t-shirt and shorts",
+  "end_person_description": "woman with white hair and purple shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5980.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "food truck",
+  "start_person_description": "person wearing white shirt",
+  "end_person_description": "person wearing purple shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_5981.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "food truck",
+  "start_person_description": "person wearing black t-shirt and shorts",
+  "end_person_description": "person wearing white shirt and jeans",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5982.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 7,
+  "line_purpose": "food truck",
+  "start_person_description": "person wearing a green jacket",
+  "end_person_description": "person wearing a white shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_5983.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "food truck",
+  "start_person_description": "person wearing light jacket and jeans",
+  "end_person_description": "woman in blue dress",
+  "counter_person_description": "person serving food",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0001.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "ticket booth",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in green shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0002.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 9,
+  "line_purpose": "ticket booth",
+  "start_person_description": "person with long hair and black jacket",
+  "end_person_description": "person with camera around neck",
+  "counter_person_description": "person in black jacket",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0003.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 11,
+  "line_purpose": "waiting in lobby",
+  "start_person_description": "person in white jacket",
+  "end_person_description": "person in black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0004.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 7,
+  "line_purpose": "cafeteria",
+  "start_person_description": "person in white jacket with red bag",
+  "end_person_description": "person holding a green bottle",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0005.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "cafe",
+  "start_person_description": "person wearing black t-shirt",
+  "end_person_description": "person wearing red shirt",
+  "counter_person_description": "person wearing black t-shirt",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+frame0006.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 7,
+  "line_purpose": "cafe",
+  "start_person_description": "person with short hair and purple shirt",
+  "end_person_description": "person with long hair and purple shirt",
+  "counter_person_description": "person with short hair and black shirt",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+frame0007.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "event entry",
+  "start_person_description": "person with backpack",
+  "end_person_description": "person in blue jeans",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0100.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "zoo entrance",
+  "start_person_description": "woman with stroller",
+  "end_person_description": "person in green hoodie",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0102.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 8,
+  "line_purpose": "food stand",
+  "start_person_description": "person in brown jacket",
+  "end_person_description": "woman with sunglasses and black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0103.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 14,
+  "line_purpose": "waiting in lobby",
+  "start_person_description": "person in white jacket",
+  "end_person_description": "person in black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0104.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "cafeteria",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person holding a green bottle",
+  "counter_person_description": "person in red shirt and white cap",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0105.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "cafe queue",
+  "start_person_description": "person with backpack",
+  "end_person_description": "person in red shirt",
+  "counter_person_description": "person in black t-shirt",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0200.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "other",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "unknown",
+  "start_person_description": "person in green shirt",
+  "end_person_description": "person in white shirt",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0202.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 9,
+  "line_purpose": "ice cream stand",
+  "start_person_description": "person wearing brown jacket",
+  "end_person_description": "person wearing black pants",
+  "counter_person_description": "person wearing brown jacket",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0203.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "waiting for service",
+  "start_person_description": "person in white pants",
+  "end_person_description": "person in white jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0204.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "cafeteria",
+  "start_person_description": "man with a tray and striped shirt",
+  "end_person_description": "person holding a green bottle",
+  "counter_person_description": "person in a brown jacket",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0205.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "cafe",
+  "start_person_description": "person in black t-shirt",
+  "end_person_description": "person in red shirt",
+  "counter_person_description": "person in black t-shirt",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0294.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "food counter",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person in dark hoodie",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0300.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "other",
+  "line_facing_direction": "other",
+  "number_of_people_in_line": 10,
+  "line_purpose": "N/A",
+  "start_person_description": "person in green jacket",
+  "end_person_description": "person in black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0302.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 9,
+  "line_purpose": "ice cream stand",
+  "start_person_description": "person wearing brown jacket",
+  "end_person_description": "person wearing black t-shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0303.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "waiting for service",
+  "start_person_description": "person in white jacket",
+  "end_person_description": "person in black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0307.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "event entry",
+  "start_person_description": "person with backpack",
+  "end_person_description": "person in blue jeans",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0392.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 9,
+  "line_purpose": "ticket booth",
+  "start_person_description": "person pointing at the booth",
+  "end_person_description": "person wearing white shirt and jeans",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0400.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "ticket booth",
+  "start_person_description": "person in blue jacket",
+  "end_person_description": "person in green hoodie",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0405.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "cafe",
+  "start_person_description": "person wearing black t-shirt",
+  "end_person_description": "person wearing red shirt and jeans",
+  "counter_person_description": "person wearing black t-shirt",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0406.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 7,
+  "line_purpose": "cafe",
+  "start_person_description": "person wearing black shirt",
+  "end_person_description": "person wearing blue shirt",
+  "counter_person_description": "person with short hair",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0500.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "ticket booth",
+  "start_person_description": "man in gray shirt and shorts",
+  "end_person_description": "person in green jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0503.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "waiting for service",
+  "start_person_description": "person in white shirt and jeans",
+  "end_person_description": "person in black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0603.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "hotel check-in",
+  "start_person_description": "person in white jacket",
+  "end_person_description": "person in red hoodie",
+  "counter_person_description": "person in black shirt",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0605.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "cafe",
+  "start_person_description": "man in grey shirt and jeans",
+  "end_person_description": "person in red shirt",
+  "counter_person_description": "person with short hair",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0703.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 8,
+  "line_purpose": "hotel check-in",
+  "start_person_description": "woman in white jacket",
+  "end_person_description": "person in black t-shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0706.jpg
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 7,
+  "line_purpose": "cafe",
+  "start_person_description": "person in red shirt",
+  "end_person_description": "person in dark clothing",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame0807.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "event entry",
+  "start_person_description": "person in pink top",
+  "end_person_description": "person in blue jeans",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame1227.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "outdoor event",
+  "start_person_description": "person in blue shirt and backpack",
+  "end_person_description": "person in dark clothing",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+frame1787.jpg
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "event entry",
+  "start_person_description": "person in pink jacket",
+  "end_person_description": "person in green shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6669.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with luggage",
+  "end_person_description": "woman with child",
+  "counter_person_description": "person in uniform",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_6670.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with a backpack",
+  "end_person_description": "child with a suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6671.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "other",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "baggage claim",
+  "start_person_description": "person in white shirt standing",
+  "end_person_description": "person sitting on floor",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6672.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "airport check-in",
+  "start_person_description": "man with brown jacket and mask",
+  "end_person_description": "person with pink suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6673.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport check-in",
+  "start_person_description": "woman with blonde hair and gray jacket",
+  "end_person_description": "man in a suit with a suitcase",
+  "counter_person_description": "person with a cart",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6674.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with hat and luggage",
+  "end_person_description": "woman with black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6675.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport",
+  "start_person_description": "person wearing a mask and blue jacket",
+  "end_person_description": "person in white sneakers",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6676.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport",
+  "start_person_description": "person with backpack",
+  "end_person_description": "person sitting with phone",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6677.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "woman with bun and green shirt",
+  "end_person_description": "person with luggage",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6678.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with white shirt and backpack",
+  "end_person_description": "person with red shirt and shorts",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6679.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "passport control",
+  "start_person_description": "person with backpack",
+  "end_person_description": "person with black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "no",
+  "start_of_line_location_if_visible": "N/A",
+  "direction_to_turn_to_see_start_if_not_visible": "right",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6680.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 3,
+  "line_purpose": "airport check-in",
+  "start_person_description": "man in suit with suitcase",
+  "end_person_description": "woman with short hair and suitcase",
+  "counter_person_description": "woman in uniform with red scarf",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6681.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with black jacket and suitcase",
+  "end_person_description": "person with long coat and suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6682.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "man in blue shirt",
+  "end_person_description": "woman with backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6683.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 7,
+  "line_purpose": "baggage drop",
+  "start_person_description": "man with glasses holding luggage",
+  "end_person_description": "man with striped shirt",
+  "counter_person_description": "woman in uniform",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6684.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "airport",
+  "start_person_description": "person with brown jacket and backpack",
+  "end_person_description": "person with red backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6685.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with backpack and blue shirt",
+  "end_person_description": "person with long hair and blue sweater",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6686.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with short hair and glasses",
+  "end_person_description": "person with long hair and white sneakers",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6687.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "airport",
+  "start_person_description": "person with white hair and blue jacket",
+  "end_person_description": "person with curly hair and black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6688.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport",
+  "start_person_description": "man with luggage and green jacket",
+  "end_person_description": "person with luggage",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6689.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with a backpack",
+  "end_person_description": "child with a yellow waistband",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6690.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport security",
+  "start_person_description": "person in black t-shirt",
+  "end_person_description": "child in floral pants",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6691.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport services",
+  "start_person_description": "woman with white shirt and green pants",
+  "end_person_description": "girl with backpack and shorts",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6692.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "boarding gate",
+  "start_person_description": "person with luggage wearing a coat",
+  "end_person_description": "person holding a flag",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6693.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport",
+  "start_person_description": "person with backpack",
+  "end_person_description": "person with suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6694.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with luggage and dark coat",
+  "end_person_description": "person with backpack",
+  "counter_person_description": "person in uniform",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6695.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person in white outfit with yellow bag",
+  "end_person_description": "person in white hoodie",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6696.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport check-in",
+  "start_person_description": "woman with a cart",
+  "end_person_description": "man with a black suit",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6697.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with backpack and blue jacket",
+  "end_person_description": "woman with long hair and blue sweater",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6698.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "woman in beige hoodie with handbag",
+  "end_person_description": "man with backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6699.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport",
+  "start_person_description": "man with mask and brown jacket",
+  "end_person_description": "man with grey jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6700.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport",
+  "start_person_description": "person in light jacket",
+  "end_person_description": "person with bald head and backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6701.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with luggage",
+  "end_person_description": "person with backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6702.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with backpack and green jacket",
+  "end_person_description": "person with black hoodie and suitcase",
+  "counter_person_description": "person in black jacket",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_6703.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with blue suitcase",
+  "end_person_description": "person with black suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6704.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 25,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with backpack and beige coat",
+  "end_person_description": "person with red suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6705.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport",
+  "start_person_description": "person with backpack",
+  "end_person_description": "woman with white bag",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6706.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport security",
+  "start_person_description": "woman with mask and blue top",
+  "end_person_description": "person in white cap",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6707.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 50,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person in grey hoodie",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6708.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "security check",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in black vest",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6709.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in blue shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6710.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with black jacket and green bag",
+  "end_person_description": "person with blue jacket and cap",
+  "counter_person_description": "person with white shirt",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6711.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "woman in pink shirt",
+  "end_person_description": "man with suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_6712.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person with a backpack",
+  "end_person_description": "man with a suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "no",
+  "start_of_line_location_if_visible": "N/A",
+  "direction_to_turn_to_see_start_if_not_visible": "left",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6715.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "airport check-in",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person with orange suitcase",
+  "counter_person_description": "person in gray sweater",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6716.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport security",
+  "start_person_description": "person with backpack",
+  "end_person_description": "person with suitcase",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6717.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "baggage claim",
+  "start_person_description": "person in green jacket",
+  "end_person_description": "person in black pants",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6722.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "airport security",
+  "start_person_description": "person with light blue top and mask",
+  "end_person_description": "person with white top and backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6723.JPG
+```json
+{
+  "number_of_turns": 2,
+  "line_shape": "S-shaped",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 25,
+  "line_purpose": "border control",
+  "start_person_description": "person with backpack and red jacket",
+  "end_person_description": "person with backpack and grey hoodie",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6724.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "security check",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in black vest",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6763.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "bank",
+  "start_person_description": "man in blue shirt at counter",
+  "end_person_description": "woman with long hair and black pants",
+  "counter_person_description": "man in blue shirt",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_6764.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "bank queue",
+  "start_person_description": "man in striped shirt",
+  "end_person_description": "man in green shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_6765.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "bank service",
+  "start_person_description": "man in red and blue jacket",
+  "end_person_description": "man in orange turban",
+  "counter_person_description": "man in grey vest",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_6766.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "bank",
+  "start_person_description": "person in blue shirt",
+  "end_person_description": "person in plaid shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6767.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "bank service",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in camouflage jacket",
+  "counter_person_description": "person in pink shirt",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6768.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "ATM",
+  "start_person_description": "person in blue shirt",
+  "end_person_description": "person in orange shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6769.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "ATM",
+  "start_person_description": "person in grey shirt",
+  "end_person_description": "person in white dress",
+  "counter_person_description": "person using ATM",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6770.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "bank queue",
+  "start_person_description": "person in white shirt and glasses",
+  "end_person_description": "person in patterned dress",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6771.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "bank",
+  "start_person_description": "person in red shirt",
+  "end_person_description": "person in blue shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6772.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "bank ATM",
+  "start_person_description": "woman in red shirt and shorts",
+  "end_person_description": "man with blue backpack",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6773.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 18,
+  "line_purpose": "bank",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in red shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6774.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "bank",
+  "start_person_description": "person in white shirt",
+  "end_person_description": "person in red checkered shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6775.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 9,
+  "line_purpose": "bank entry",
+  "start_person_description": "man holding a baby",
+  "end_person_description": "man in checkered shirt",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6776.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "document submission",
+  "start_person_description": "man in light blue shirt",
+  "end_person_description": "man in white shirt",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6777.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "bank",
+  "start_person_description": "man in brown shirt with glasses",
+  "end_person_description": "person in dark clothing",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6778.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "security check",
+  "start_person_description": "man in uniform",
+  "end_person_description": "man in striped shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6779.WEBP
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 25,
+  "line_purpose": "ATM",
+  "start_person_description": "person in blue shirt",
+  "end_person_description": "person in striped shirt",
+  "counter_person_description": "person in uniform",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6780.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "bank",
+  "start_person_description": "woman with short hair and mask",
+  "end_person_description": "woman with short hair and floral shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6781.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 5,
+  "line_purpose": "bank service",
+  "start_person_description": "person in blue shirt",
+  "end_person_description": "person in striped shirt",
+  "counter_person_description": "person in black top",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6782.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 30,
+  "line_purpose": "bank",
+  "start_person_description": "person in light blue shirt",
+  "end_person_description": "person in black clothing",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6783.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 14,
+  "line_purpose": "bank",
+  "start_person_description": "man in blue shirt with backpack",
+  "end_person_description": "man in red and white striped shirt",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6784.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 30,
+  "line_purpose": "bank",
+  "start_person_description": "person in blue shirt",
+  "end_person_description": "person in white shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6785.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "ATM queue",
+  "start_person_description": "person in blue dress",
+  "end_person_description": "person in white shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6786.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Angled",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "bank",
+  "start_person_description": "person wearing a striped shirt",
+  "end_person_description": "person wearing a black jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6787.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 30,
+  "line_purpose": "bank",
+  "start_person_description": "person in white shirt near entrance",
+  "end_person_description": "person with red cap",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6728.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "checkout",
+  "start_person_description": "man in blue shirt with arms crossed",
+  "end_person_description": "man with shopping cart",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "full"
+}
+```
+
+IMG_6729.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 4,
+  "line_purpose": "checkout",
+  "start_person_description": "man in dark shirt with basket",
+  "end_person_description": "person in green shirt with basket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6730.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "woman in red coat",
+  "end_person_description": "woman in brown coat",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6731.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "person wearing light blue shirt and shorts",
+  "end_person_description": "person wearing white skirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6732.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 8,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "person with short hair and backpack",
+  "end_person_description": "woman with curly hair and yellow top",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6734.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "grocery store",
+  "start_person_description": "person in blue jacket",
+  "end_person_description": "person in black jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6735.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "person in blue jacket",
+  "end_person_description": "person with scarf and hat",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6736.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "food court",
+  "start_person_description": "person in purple shirt",
+  "end_person_description": "person in black t-shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6737.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "post office",
+  "start_person_description": "person in a long coat",
+  "end_person_description": "person in a dark jacket",
+  "counter_person_description": "N/A",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6738.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "grocery store",
+  "start_person_description": "person with a red hat",
+  "end_person_description": "person with a shopping cart",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6739.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 12,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "person with orange shirt",
+  "end_person_description": "person with plaid shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6740.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "person in dark clothing",
+  "end_person_description": "person wearing cap and jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6741.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "grocery store",
+  "start_person_description": "person with a mask and shopping cart",
+  "end_person_description": "person with a beanie and shopping cart",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "stanchions",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6742.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 6,
+  "line_purpose": "store entry",
+  "start_person_description": "person in black jacket",
+  "end_person_description": "person in white sweater",
+  "counter_person_description": "N/A",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6743.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 10,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "person in blue jacket",
+  "end_person_description": "person in white shirt",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6744.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 4,
+  "line_purpose": "grocery checkout",
+  "start_person_description": "person with short hair and light blue shirt",
+  "end_person_description": "person with long hair and mask",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6745.JPG
+```json
+{
+  "number_of_turns": 1,
+  "line_shape": "Curved",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 20,
+  "line_purpose": "store checkout",
+  "start_person_description": "person with glasses and white hoodie",
+  "end_person_description": "person with cap and mask",
+  "counter_person_description": "unknown",
+  "boundary_present": "yes",
+  "boundary_types": "rope dividers",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "center right",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+
+IMG_6746.JPG
+```json
+{
+  "number_of_turns": 0,
+  "line_shape": "Straight",
+  "line_facing_direction": "Facing towards",
+  "number_of_people_in_line": 15,
+  "line_purpose": "grocery store",
+  "start_person_description": "person with shopping cart",
+  "end_person_description": "man in dark jacket",
+  "counter_person_description": "unknown",
+  "boundary_present": "no",
+  "boundary_types": "none",
+  "end_of_line_visible": "yes",
+  "end_of_line_location_if_visible": "far right",
+  "direction_to_turn_to_see_end_if_not_visible": "N/A",
+  "start_of_line_visible": "yes",
+  "start_of_line_location_if_visible": "far left",
+  "direction_to_turn_to_see_start_if_not_visible": "N/A",
+  "line_completeness": "partial"
+}
+```
+

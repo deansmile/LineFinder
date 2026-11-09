@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_056",
+    "image_name": "themepark_056_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_056_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "23",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "right",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "no",
+        "If yes, where is the start of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the start of the line?": "left",
+        "Description of the person at the start of the line": "",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "23",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "right",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "no",
+        "If yes, where is the start of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the start of the line?": "left",
+        "Description of the person at the start of the line": "",
+        "Is this image too hard?": "yes"
+    }
+}

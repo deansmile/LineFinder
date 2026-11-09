@@ -1,0 +1,39 @@
+{
+    "line_shape": {
+        "turns": 0,
+        "description": "Straight"
+    },
+    "people": {
+        "number_of_people": 12,
+        "direction_they_are_facing": "Facing sideways",
+        "start_person_description": "woman in blue dress and white cardigan",
+        "end_person_description": "woman in white dress",
+        "counter_person_description": "none"
+    },
+    "boundary": {
+        "boundary_present": false,
+        "boundary_types": "none"
+    },
+    "start_of_line": {
+        "visible": "yes",
+        "location_if_visible": "center right",
+        "direction_to_turn_if_not_visible": "N/A"
+    },
+    "end_of_line": {
+        "visible": "yes",
+        "location_if_visible": "far left",
+        "direction_to_turn_if_not_visible": "N/A"
+    },
+    "line_purpose": "ATM",
+    "line_completeness": "full",
+    "line_coordinates": {
+        "start": {
+            "x": 36,
+            "y": 156
+        },
+        "end": {
+            "x": 421,
+            "y": 133
+        }
+    }
+}

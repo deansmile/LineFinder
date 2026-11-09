@@ -1,0 +1,97 @@
+# ---- Secrets ----
+.env
+!.env.example
+
+# ---- Nested upstream repo metadata (JointBDOE was a clone of hnuzhy/JointBDOE) ----
+.git.upstream/
+
+# ---- Python / notebooks / OS junk ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+
+# ---- Data, images, outputs, results ----
+LineFinder/Images/
+LineFinder/depth_map/
+LineFinder/luna_start_end/
+LineFinder/vis_start_end/
+LineFinder/bbox_orient/
+LineFinder/code/image_024/
+LineFinder/code/airport_queue/
+JointBDOE/res_images/
+JointBDOE/test_imgs/
+JointBDOE/images/
+ml-depth-pro/data/
+data/
+images/
+outputs/
+output/
+results/
+res_images/
+
+# Images
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.png
+*.PNG
+*.tif
+*.tiff
+*.TIF
+*.webp
+*.WEBP
+*.bmp
+*.gif
+*.heic
+*.HEIC
+
+# Arrays / numeric outputs
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Run logs (Slurm stdout)
+*.out
+
+# ---- Checkpoints / model weights ----
+checkpoints/
+weights/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+
+# ---- Archives ----
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.7z
+*.rar
+
+# ---- Keep: configs under data/ folders (JointBDOE yaml configs) ----
+!JointBDOE/data/
+!JointBDOE/data/*.yaml
+
+# ---- Individual files over 10 MB not covered above (appended automatically) ----
+
+# ---- Shannon-specific (this snapshot keeps data at the repo root, not under LineFinder/) ----
+lineenv/
+.cache/
+Images/
+depth_map/
+bbox_orient/
+airport_start_end/
+bank_start_end/
+outdoor_start_end/
+supermarket_start_end/
+themepark_start_end/
+code/image_024/
+code/airport_queue/

@@ -1,0 +1,109 @@
+direction_to_turn_to_see_end_if_not_visible,direction_to_turn_to_see_start_if_not_visible,end_of_line_location_if_visible,end_of_line_visible,gt_direction_to_turn_to_see_end_if_not_visible,gt_direction_to_turn_to_see_start_if_not_visible,gt_end_of_line_location_if_visible,gt_end_of_line_visible,gt_start_of_line_location_if_visible,gt_start_of_line_visible,image_id,image_path,start_of_line_location_if_visible,start_of_line_visible,status
+left,N/A,N/A,no,left,N/A,N/A,no,center right,yes,IMG_5954,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5954.JPG,center right,yes,ok
+left,right,N/A,no,left,right,N/A,no,N/A,no,IMG_5955,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5955.JPG,N/A,no,ok
+N/A,right,far left,yes,left,right,N/A,no,N/A,no,IMG_5956,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5956.JPG,N/A,no,ok
+left,N/A,N/A,no,N/A,N/A,far left,yes,N/A,no,IMG_5958,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5958.JPG,center,yes,ok
+N/A,N/A,center left,yes,N/A,N/A,far left,yes,center right,yes,IMG_5962,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5962.JPG,center right,yes,ok
+left,N/A,N/A,no,left,N/A,N/A,no,center right,yes,IMG_5964,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5964.JPG,center right,yes,ok
+right,right,N/A,no,left,right,N/A,no,N/A,no,IMG_5966,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5966.JPG,N/A,no,ok
+left,right,N/A,no,left,right,N/A,no,N/A,no,IMG_5968,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5968.JPG,N/A,no,ok
+N/A,N/A,far right,yes,N/A,N/A,far right,yes,far left,yes,IMG_5970,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5970.JPG,far left,yes,ok
+N/A,left,far right,yes,N/A,left,N/A,no,N/A,no,IMG_5972,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5972.JPG,N/A,no,ok
+N/A,right,far left,yes,left,right,N/A,no,N/A,no,IMG_5974,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5974.JPG,N/A,no,ok
+N/A,right,far left,yes,right,N/A,N/A,no,N/A,no,IMG_5978,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5978.JPG,N/A,no,ok
+N/A,N/A,center right,yes,N/A,N/A,N/A,no,center,yes,IMG_5980,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5980.JPG,center,yes,ok
+N/A,N/A,center left,yes,N/A,N/A,far right,yes,far left,yes,IMG_5982,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/IMG_5982.JPG,center,yes,ok
+N/A,N/A,far right,yes,N/A,N/A,far right,yes,far left,yes,frame0002,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/frame0002.jpg,far left,yes,ok
+N/A,N/A,center left,yes,N/A,N/A,far right,yes,far right,yes,frame0004,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/frame0004.jpg,far right,yes,ok
+N/A,N/A,far right,yes,N/A,N/A,far right,yes,far left,yes,frame0006,/scratch/ds5725/linefinder/LineFinder/Images/ImagesOnline/frame0006.jpg,far left,yes,ok
+N/A,left,center right,yes,N/A,N/A,center right,yes,center left,yes,IMG_6669,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6669.JPG,N/A,no,ok
+right,N/A,N/A,no,left,N/A,N/A,no,center right,yes,IMG_6670,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6670.JPG,center left,yes,ok
+N/A,N/A,far right,yes,right,left,N/A,no,N/A,no,IMG_6671,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6671.JPG,center,yes,ok
+N/A,right,far left,yes,left,right,N/A,no,N/A,no,IMG_6672,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6672.JPG,N/A,no,ok
+N/A,right,far right,yes,N/A,right,far left,yes,N/A,no,IMG_6673,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6673.JPG,N/A,no,ok
+N/A,right,center left,yes,N/A,right,far left,yes,N/A,no,IMG_6674,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6674.JPG,N/A,no,ok
+N/A,N/A,center right,yes,right,left,N/A,no,N/A,no,IMG_6675,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6675.JPG,far left,yes,ok
+left,right,N/A,no,left,right,N/A,no,N/A,no,IMG_6676,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6676.JPG,N/A,no,ok
+N/A,right,center left,yes,left,right,N/A,no,N/A,no,IMG_6677,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6677.JPG,N/A,no,ok
+N/A,right,far left,yes,left,right,N/A,no,N/A,no,IMG_6678,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6678.JPG,N/A,no,ok
+N/A,N/A,far right,yes,right,left,N/A,no,N/A,no,IMG_6679,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6679.JPG,center left,yes,ok
+N/A,N/A,far right,yes,N/A,N/A,far right,yes,far left,yes,IMG_6680,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6680.JPG,far left,yes,ok
+N/A,right,far left,yes,left,right,N/A,no,N/A,no,IMG_6681,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6681.JPG,N/A,no,ok
+N/A,left,center right,yes,right,left,N/A,no,N/A,no,IMG_6682,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6682.JPG,N/A,no,ok
+N/A,N/A,center right,yes,left,N/A,N/A,no,center right,yes,IMG_6683,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6683.JPG,far right,yes,ok
+left,right,N/A,no,left,right,N/A,no,N/A,no,IMG_6684,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6684.JPG,N/A,no,ok
+right,N/A,N/A,no,N/A,N/A,N/A,no,far right,yes,IMG_6685,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6685.JPG,far right,yes,ok
+right,right,N/A,no,right,left,N/A,no,N/A,no,IMG_6686,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6686.JPG,N/A,no,ok
+right,right,N/A,no,right,left,N/A,no,N/A,no,IMG_6687,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6687.JPG,N/A,no,ok
+N/A,N/A,far left,yes,left,right,N/A,no,N/A,no,IMG_6688,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6688.JPG,far right,yes,ok
+right,N/A,N/A,no,N/A,left,far right,yes,N/A,no,IMG_6689,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6689.JPG,center left,yes,ok
+N/A,N/A,center left,yes,N/A,right,center,yes,N/A,no,IMG_6690,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6690.JPG,center right,yes,ok
+N/A,N/A,far left,yes,left,right,N/A,no,N/A,no,IMG_6691,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6691.JPG,far right,yes,ok
+N/A,right,center,yes,left,right,N/A,no,N/A,no,IMG_6692,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6692.JPG,N/A,no,ok
+N/A,right,far left,yes,left,right,N/A,no,N/A,no,IMG_6693,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6693.JPG,N/A,no,ok
+N/A,N/A,center,yes,right,right,N/A,no,N/A,no,IMG_6694,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6694.JPG,far left,yes,ok
+N/A,N/A,far left,yes,left,N/A,N/A,no,far right,yes,IMG_6695,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6695.JPG,center,yes,ok
+N/A,right,far right,yes,N/A,right,far left,yes,N/A,no,IMG_6696,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6696.JPG,N/A,no,ok
+right,N/A,N/A,no,left,N/A,N/A,no,far right,yes,IMG_6697,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6697.JPG,far right,yes,ok
+left,right,N/A,no,left,right,N/A,no,N/A,no,IMG_6698,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6698.JPG,N/A,no,ok
+N/A,right,far left,yes,left,right,N/A,no,N/A,no,IMG_6699,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6699.JPG,N/A,no,ok
+N/A,N/A,center right,yes,right,left,N/A,no,N/A,no,IMG_6700,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6700.JPG,center left,yes,ok
+right,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6701,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6701.JPG,center left,yes,ok
+right,N/A,N/A,no,N/A,right,center left,yes,N/A,no,IMG_6702,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6702.JPG,far right,yes,ok
+N/A,left,center left,yes,right,left,N/A,no,N/A,no,IMG_6703,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6703.JPG,N/A,no,ok
+N/A,N/A,far right,yes,right,left,N/A,no,N/A,no,IMG_6704,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6704.JPG,far left,yes,ok
+right,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6705,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6705.JPG,center,yes,ok
+N/A,left,center right,yes,right,left,N/A,no,N/A,no,IMG_6706,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6706.JPG,N/A,no,ok
+left,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6707,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6707.JPG,center right,yes,ok
+left,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6708,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6708.JPG,center right,yes,ok
+N/A,N/A,center left,yes,left,right,N/A,no,N/A,no,IMG_6709,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6709.JPG,far right,yes,ok
+left,N/A,N/A,no,N/A,N/A,far left,yes,far right,yes,IMG_6710,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6710.JPG,center right,yes,ok
+N/A,left,center right,yes,right,left,N/A,no,N/A,no,IMG_6711,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6711.JPG,N/A,no,ok
+left,N/A,N/A,no,left,N/A,N/A,no,center right,yes,IMG_6712,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6712.JPG,far right,yes,ok
+N/A,N/A,far left,yes,N/A,right,center left,yes,N/A,no,IMG_6715,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6715.JPG,center left,yes,ok
+N/A,right,center left,yes,right,left,N/A,no,N/A,no,IMG_6716,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6716.JPG,N/A,no,ok
+N/A,N/A,far left,yes,N/A,right,far left,yes,N/A,no,IMG_6717,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6717.JPG,far right,yes,ok
+N/A,left,far right,yes,right,left,N/A,no,N/A,no,IMG_6722,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6722.JPG,N/A,no,ok
+N/A,left,center,yes,N/A,left,center,yes,N/A,no,IMG_6723,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6723.JPG,N/A,no,ok
+left,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6724,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInAirports/IMG_6724.JPG,center right,yes,ok
+N/A,N/A,center left,yes,N/A,N/A,center left,yes,far right,yes,IMG_6763,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6763.JPG,far right,yes,ok
+right,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6764,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6764.JPG,far left,yes,ok
+left,right,N/A,no,left,N/A,N/A,no,far right,yes,IMG_6765,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6765.JPG,N/A,no,ok
+left,right,N/A,no,left,right,N/A,no,N/A,no,IMG_6766,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6766.JPG,N/A,no,ok
+right,N/A,N/A,no,right,N/A,N/A,no,far left,yes,IMG_6767,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6767.JPG,center left,yes,ok
+N/A,right,far left,yes,left,N/A,N/A,no,far right,yes,IMG_6768,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6768.JPG,N/A,no,ok
+left,N/A,N/A,no,N/A,N/A,far left,yes,center right,yes,IMG_6769,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6769.JPG,center right,yes,ok
+left,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6770,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6770.JPG,far right,yes,ok
+N/A,N/A,far left,yes,N/A,N/A,far left,yes,far right,yes,IMG_6771,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6771.JPG,center right,yes,ok
+N/A,N/A,far right,yes,N/A,N/A,center right,yes,center left,yes,IMG_6772,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6772.JPG,far left,yes,ok
+N/A,right,center left,yes,left,N/A,N/A,no,far right,yes,IMG_6773,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6773.JPG,N/A,no,ok
+right,N/A,N/A,no,N/A,N/A,far right,yes,center,yes,IMG_6774,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6774.JPG,center right,yes,ok
+right,N/A,N/A,no,right,N/A,N/A,no,N/A,no,IMG_6775,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6775.JPG,far left,yes,ok
+N/A,right,center left,yes,left,right,N/A,no,N/A,no,IMG_6776,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6776.JPG,N/A,no,ok
+N/A,left,far right,yes,right,left,N/A,no,N/A,no,IMG_6777,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6777.JPG,N/A,no,ok
+N/A,right,far left,yes,left,N/A,N/A,no,N/A,no,IMG_6778,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6778.JPG,N/A,no,ok
+right,N/A,N/A,no,N/A,left,far right,yes,N/A,no,IMG_6780,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6780.JPG,far left,yes,ok
+N/A,N/A,far right,yes,N/A,N/A,far left,yes,far left,yes,IMG_6781,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6781.JPG,center,yes,ok
+left,N/A,N/A,no,left,N/A,N/A,no,center right,yes,IMG_6782,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6782.JPG,center right,yes,ok
+left,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6783,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6783.JPG,far right,yes,ok
+N/A,N/A,far left,yes,left,right,N/A,no,N/A,no,IMG_6784,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6784.JPG,center right,yes,ok
+left,N/A,N/A,no,left,N/A,N/A,no,center,yes,IMG_6785,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6785.JPG,center right,yes,ok
+N/A,right,center,yes,left,right,N/A,no,N/A,no,IMG_6786,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6786.JPG,N/A,no,ok
+right,N/A,N/A,no,right,N/A,N/A,no,N/A,no,IMG_6787,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInBanks/IMG_6787.JPG,far left,yes,ok
+right,right,N/A,no,right,left,N/A,no,N/A,no,IMG_6729,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6729.JPG,N/A,no,ok
+N/A,left,far right,yes,right,left,N/A,no,N/A,no,IMG_6730,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6730.JPG,N/A,no,ok
+right,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6731,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6731.JPG,far right,yes,ok
+right,left,N/A,no,right,left,N/A,no,N/A,no,IMG_6732,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6732.JPG,N/A,no,ok
+N/A,right,far right,yes,right,left,N/A,no,N/A,no,IMG_6734,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6734.JPG,N/A,no,ok
+right,N/A,N/A,no,N/A,left,N/A,no,N/A,no,IMG_6735,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6735.JPG,center,yes,ok
+right,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6736,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6736.JPG,center left,yes,ok
+right,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6737,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6737.JPG,center right,yes,ok
+left,N/A,N/A,no,left,right,N/A,no,N/A,no,IMG_6738,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6738.JPG,far right,yes,ok
+left,N/A,N/A,no,N/A,right,N/A,no,N/A,no,IMG_6739,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6739.JPG,center right,yes,ok
+right,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6740,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6740.JPG,far left,yes,ok
+N/A,right,far left,yes,N/A,right,far left,yes,N/A,no,IMG_6741,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6741.JPG,N/A,no,ok
+right,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6742,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6742.JPG,center right,yes,ok
+left,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6743,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6743.JPG,center,yes,ok
+right,N/A,N/A,no,right,left,N/A,no,N/A,no,IMG_6744,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6744.JPG,center,yes,ok
+N/A,left,center right,yes,N/A,left,center right,yes,N/A,no,IMG_6745,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6745.JPG,N/A,no,ok
+N/A,N/A,far right,yes,right,N/A,N/A,no,far left,yes,IMG_6746,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarkets/IMG_6746.JPG,far left,yes,ok

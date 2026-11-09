@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_065",
+    "image_name": "themepark_065_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_065_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "13",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Person with braided hair, black tee under a black‑and‑white striped top, black skirt, white flip‑flops, crossbody bag, and a camera slung at the side, standing sideways.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: person in a blue sun hat, blue printed sarong, green halter straps, white flip-flops, holding a towel.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "13",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Person with braided hair, black tee under a black‑and‑white striped top, black skirt, white flip‑flops, crossbody bag, and a camera slung at the side, standing sideways.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: person in a blue sun hat, blue printed sarong, green halter straps, white flip-flops, holding a towel.",
+        "Is this image too hard?": "yes"
+    }
+}

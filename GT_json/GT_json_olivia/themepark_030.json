@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_030",
+    "image_name": "themepark_030_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_030_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "16",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Adult in a black graphic T‑shirt and black face mask, short dark hair with sunglasses on head, holding the rope behind a child.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Sunglasses and blue mask; dark graphic tee, denim shorts, sneakers; walking forward.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "16",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Adult in a black graphic T‑shirt and black face mask, short dark hair with sunglasses on head, holding the rope behind a child.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Sunglasses and blue mask; dark graphic tee, denim shorts, sneakers; walking forward.",
+        "Is this image too hard?": "yes"
+    }
+}

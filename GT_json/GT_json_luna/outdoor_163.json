@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_163",
+    "image_name": "outdoor_163_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_163_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "10",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Short‑haired person wearing sunglasses, a blue/gray/white color‑block T‑shirt and light shorts, standing with hands on hips, back to camera.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Bearded person in a white fedora with black band, black T‑shirt, and sunglasses, seen from the side.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "10",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Short‑haired person wearing sunglasses, a blue/gray/white color‑block T‑shirt and light shorts, standing with hands on hips, back to camera.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Bearded person in a white fedora with black band, black T‑shirt, and sunglasses, seen from the side.",
+        "Is this image too hard?": "yes"
+    }
+}

@@ -1,0 +1,71 @@
+Our method result:
+Samples	432
+MAE	4.26
+RMSE	10.52
+Mean Signed Error	~0.00
+Relative Error	0.285
+Exact Match	23.6%
+±1 Accuracy	51.6%
+±2 Accuracy	63.5%
+Undercount Rate	42%
+Overcount Rate	37%
+
+
+GPT result:
+Total samples:               432
+
+MAE:                         3.89
+RMSE:                        7.14
+Mean signed error:           0.56
+Mean relative error:         0.320
+
+Exact match accuracy:        0.181
+Accuracy within ±1:          0.426
+Accuracy within ±2:          0.563
+
+Undercount rate:             0.354
+Overcount rate:              0.465
+
+Number of undercounts:       153
+Number of overcounts:        201
+Number of exact matches:     78
+
+
+Gemini result:
+Total samples:               431
+
+MAE:                         5.61
+RMSE:                        13.72
+Mean signed error:           3.81
+Mean relative error:         0.426
+
+Exact match accuracy:        0.269
+Accuracy within ±1:          0.464
+Accuracy within ±2:          0.599
+
+Undercount rate:             0.292
+Overcount rate:              0.438
+
+Number of undercounts:       126
+Number of overcounts:        189
+Number of exact matches:     116
+
+
+Kimi result:
+Total samples:               432
+
+MAE:                         4.49
+RMSE:                        11.16
+Mean signed error:           2.64
+Mean relative error:         0.345
+
+Exact match accuracy:        0.245
+Accuracy within ±1:          0.505
+Accuracy within ±2:          0.627
+
+Undercount rate:             0.273
+Overcount rate:              0.481
+
+Number of undercounts:       118
+Number of overcounts:        208
+Number of exact matches:     106

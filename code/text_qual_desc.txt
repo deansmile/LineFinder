@@ -1,0 +1,11 @@
+100.png 100.png
+Objects in A without a match in B:
+
+1. Bench near the corner
+2. Yellow lines on the road
+
+Objects in B without a match in A:
+
+1. Playground equipment on the right side
+2. Snow on the ground
+

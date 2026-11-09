@@ -1,0 +1,92 @@
+
+GPT:
+Matched 407 images between results and GT
+
+Per-field accuracy:
+  What direction is the line facing: 33.13%
+  Do we see the end of line?: 33.75%
+  If yes, where is the end of the line in the image?: 13.00%
+  If not, in what direction should you move camera to see the end of the line?: 31.58%
+  Do we see the start of line?: 52.32%
+  If yes, where is the start of the line in the image?: 23.22%
+  If not, in what direction should you move camera to see the start of the line?: 50.15%
+
+Overall accuracy: 33.88%
+
+Hard images: 84
+Not hard images (used for evaluation): 323
+
+start & end person:
+Not-too-hard images evaluated: 324
+Start total evaluated: 324
+Start Gemini-compared: 161
+Start accuracy: 15.43%
+End total evaluated: 324
+End Gemini-compared: 99
+End accuracy: 12.04%
+Overall accuracy: 13.73%
+
+
+Gemini:
+Loaded 410 GT json files
+Matched 408 images between results and GT
+Hard images: 84
+Not hard images (used for evaluation): 324
+
+Per-field accuracy:
+  What direction is the line facing: 55.25%
+  Do we see the end of line?: 36.73%
+  If yes, where is the end of the line in the image?: 13.89%
+  If not, in what direction should you move camera to see the end of the line?: 10.49%
+  Do we see the start of line?: 55.25%
+  If yes, where is the start of the line in the image?: 19.75%
+  If not, in what direction should you move camera to see the start of the line?: 21.60%
+
+Overall accuracy: 30.42%
+
+Not-too-hard images evaluated: 324
+Start total evaluated: 324
+Start Gemini-compared: 165
+Start accuracy: 12.65%
+End total evaluated: 324
+End Gemini-compared: 106
+End accuracy: 9.88%
+Overall accuracy: 11.27%
+
+Kimi:
+Loaded 408 result records
+Loaded 410 GT json files
+Matched 408 images between results and GT
+Hard images: 84
+Not hard images (used for evaluation): 324
+
+Per-field accuracy:
+  What direction is the line facing: 30.86%
+  Do we see the end of line?: 37.96%
+  If yes, where is the end of the line in the image?: 27.47%
+  If not, in what direction should you move camera to see the end of the line?: 34.88%
+  Do we see the start of line?: 59.57%
+  If yes, where is the start of the line in the image?: 45.68%
+  If not, in what direction should you move camera to see the start of the line?: 52.16%
+
+Overall accuracy: 41.23%
+
+Our method:
+Per-field accuracy:
+What direction is the line facing: 83.64%
+Do we see the end of line?: 68.83%
+If yes, where is the end of the line in the image?: 63.27%
+If not, in what direction should you move camera to see the end of the line?: 62.04%
+Do we see the start of line?: 66.98%
+If yes, where is the start of the line in the image?: 53.70%
+If not, in what direction should you move camera to see the start of the line?: 64.51%
+
+start & end person:
+Not-too-hard images evaluated: 324
+Start total evaluated: 324
+Start Gemini-compared: 148
+Start accuracy: 33.33%
+End total evaluated: 324
+End Gemini-compared: 94
+End accuracy: 25.00%
+Overall accuracy: 29.17%

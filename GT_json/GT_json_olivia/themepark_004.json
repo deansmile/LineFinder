@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_004",
+    "image_name": "themepark_004_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_004_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "15",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Blonde person in a light-blue dress, dark sunglasses, and black sandals, standing sideways.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: long blonde hair, blue ear headband, turquoise tank top, black capri leggings, blue sneakers, red/gray drawstring backpack.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "11",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Blonde woman in a light-blue dress, dark sunglasses, and black sandals, standing sideways.",
+        "Do we see the start of line?": "no",
+        "If yes, where is the start of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the start of the line?": "left",
+        "Description of the person at the start of the line": "",
+        "Is this image too hard?": "no"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_084",
+    "image_name": "outdoor_084_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_084_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "7",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Navy T-shirt with a Captain America logo, dark pants, black wristwatch, holding white plastic bags.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Black cap, white checkered short-sleeve shirt, blue pants, black shoes—standing side-on in line.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "3",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Person wearing a Dark shirt with blue jeans and beige boots with a white construction hat",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person with white construction cap, white checkered short-sleeve shirt, blue pants, and black shoes",
+        "Is this image too hard?": "no"
+    }
+}

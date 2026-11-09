@@ -1,0 +1,2131 @@
+Total JSON files checked: 410
+Files with different start or end person descriptions: 231
+
+================================================================================
+Image name: outdoor_001_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_001.json
+
+[Start person description differs]
+Prediction: Dark-haired ponytail with a white headscarf, black layered top, blue jeans, black shoes, stepping into a doorway.
+Annotation: man in gray suit, black shoes, short hair, black shoulder bag
+
+================================================================================
+Image name: outdoor_002_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_002.json
+
+[End person description differs]
+Prediction: White‑haired person in a light shirt, standing at the back with one hand on their hip.
+Annotation: 
+
+================================================================================
+Image name: outdoor_003_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_003.json
+
+[Start person description differs]
+Prediction: Maroon cap, ELON hoodie, gray sweatpants, black sneakers, backpack; eating from a takeout box.
+Annotation: Dark shirt, white and purple patterned pants, dark hair, white shoes
+
+================================================================================
+Image name: outdoor_004_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_004.json
+
+[Start person description differs]
+Prediction: Person in a gray pinstripe suit, red tie, glasses; short hair, side-on, holding a coat.
+Annotation: Person with black hair wearing black jacket, gray pants, black shoes
+
+[End person description differs]
+Prediction: Black-haired person with glasses, dark overcoat, gray trousers, black dress shoes, standing sideways in line.
+Annotation: 
+
+================================================================================
+Image name: outdoor_006_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_006.json
+
+[End person description differs]
+Prediction: Shoulder-length brown hair, dark coat, beige pants, brown crossbody bag; standing sideways.
+Annotation: 
+
+================================================================================
+Image name: outdoor_007_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_007.json
+
+[Start person description differs]
+Prediction: Blonde woman in a yellow hockey jersey, ripped jeans, white sneakers, walking with a child and toy.
+Annotation: Person with black shoes and white solers, blue jeans, greenish shirt, light hair
+
+================================================================================
+Image name: outdoor_008_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_008.json
+
+[Start person description differs]
+Prediction: Buzz-cut hair, dark top, viewed from behind.
+Annotation: dark hair, black bacpack, black shirt, gray pants
+
+================================================================================
+Image name: outdoor_010_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_010.json
+
+[End person description differs]
+Prediction: Black long-sleeve top, blue jeans, black backpack; short dark hair; standing with back turned.
+Annotation: woman with bun, red T-shirt, long black pants
+
+================================================================================
+Image name: outdoor_013_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_013.json
+
+[End person description differs]
+Prediction: 
+Annotation: person with black hair, glasses, white dress shirt, black pants
+
+================================================================================
+Image name: outdoor_014_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_014.json
+
+[End person description differs]
+Prediction: Short gray‑haired man in a black jacket over a green shirt, blue jeans, and brown shoes; backpack straps visible, hands in pockets, standing in line.
+Annotation: 
+
+================================================================================
+Image name: outdoor_016_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_016.json
+
+[End person description differs]
+Prediction: Black outfit, brown crossbody bag, holding pink paper, facing away.
+Annotation: Black hat, gray T-shirt, black long pants
+
+================================================================================
+Image name: outdoor_017_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_017.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Person in gray hoodie, dark long pants, white cross body bag
+
+================================================================================
+Image name: outdoor_018_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_018.json
+
+[End person description differs]
+Prediction: 
+Annotation: Person in long gray puffy coat, white bag, and black long pants
+
+================================================================================
+Image name: outdoor_019_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_019.json
+
+[Start person description differs]
+Prediction: Long red hair, peach blazer, light trousers, black heels, seen from behind.
+Annotation: Person with dark blue jeans, blue shirt, and black shoes
+
+================================================================================
+Image name: outdoor_020_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_020.json
+
+[Start person description differs]
+Prediction: Dark jacket and pants, black backpack, standing at the front of the line.
+Annotation: 
+
+================================================================================
+Image name: outdoor_022_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_022.json
+
+[Start person description differs]
+Prediction: Black silhouette with short hair, wearing a dress, standing front-facing.
+Annotation: 
+
+================================================================================
+Image name: outdoor_024_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_024.json
+
+[Start person description differs]
+Prediction: Short gray hair; navy blazer with light blue jeans; slip-on shoes; straw shoulder bag; standing side-on with arms crossed.
+Annotation: man with white sweater, beige long bangs, brown shoes, and gray hair
+
+[End person description differs]
+Prediction: Bald person in glasses, black shirt, red tartan kilt, white knee socks, black shoes, standing side-on.
+Annotation: Short gray hair; navy blazer with light blue jeans; slip-on shoes; straw shoulder bag; standing side-on with arms crossed.
+
+================================================================================
+Image name: outdoor_026_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_026.json
+
+[Start person description differs]
+Prediction: Short dark hair; burgundy bomber jacket over a yellow polo; grey Adidas joggers; holding two drinks while walking side-on.
+Annotation: 
+
+[End person description differs]
+Prediction: Dark‑haired person in a navy striped hoodie with “RF67,” wearing a polka‑dot backpack and crossbody strap, looking down.
+Annotation: 
+
+================================================================================
+Image name: outdoor_027_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_027.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Woman with brown mid-length hair, navy blazer, gray skirt, white bag, holding white phone
+
+[End person description differs]
+Prediction: Person in a gray pinstripe suit with a white shirt, short dark hair, side view facing right.
+Annotation: 
+
+================================================================================
+Image name: outdoor_028_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_028.json
+
+[Start person description differs]
+Prediction: Wearing a black hooded garment, head covered, looking left.
+Annotation: 
+
+================================================================================
+Image name: outdoor_029_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_029.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Man in gray beanie, light blue jacket with red shirt, blue denim pants, holding brown paper bag
+
+================================================================================
+Image name: outdoor_030_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_030.json
+
+[End person description differs]
+Prediction: Long cream patterned coat, green beanie, white sneakers; standing with hands clasped.
+Annotation: 
+
+================================================================================
+Image name: outdoor_031_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_031.json
+
+[Start person description differs]
+Prediction: Side view: short dark hair, black jacket and pants, black‑and‑white sneakers, backpack, standing and looking at a phone.
+Annotation: 
+
+================================================================================
+Image name: outdoor_032_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_032.json
+
+[Start person description differs]
+Prediction: Long brown hair; white cardigan and tan flared skirt; large beige handbag; side-facing, arms folded, smiling.
+Annotation: man with short black hair, light blue button-up long-sleeve shirt, black backpack, dark gray pants
+
+================================================================================
+Image name: outdoor_033_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_033.json
+
+[End person description differs]
+Prediction: Smiling woman in a beige skirt suit, nude heels, hair in a bun with side bangs, carrying a tan shoulder bag.
+Annotation: man with short black hair, white T-shirt, brown long pants, black sneakers, with black shoulder bag looking at phone
+
+================================================================================
+Image name: outdoor_036_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_036.json
+
+[End person description differs]
+Prediction: Glasses, hair in a high bun, black jacket, white earbuds, side-facing.
+Annotation: 
+
+================================================================================
+Image name: outdoor_037_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_037.json
+
+[Start person description differs]
+Prediction: Tall person in a dark suit, short hair, back to camera, standing in line.
+Annotation: 
+
+================================================================================
+Image name: outdoor_041_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_041.json
+
+[End person description differs]
+Prediction: Side-profile silhouette with short dark hair, wearing a light T‑shirt, head down, holding a phone.
+Annotation: Man in gray T-shirt and black shorts and sneakers sitting in chair
+
+================================================================================
+Image name: outdoor_042_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_042.json
+
+[End person description differs]
+Prediction: Back-facing person with long chunky twists, over‑ear headphones, black hoodie and black pants with a red shirt peeking out, slide sandals, hands in pockets.
+Annotation: 
+
+================================================================================
+Image name: outdoor_043_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_043.json
+
+[Start person description differs]
+Prediction: Back view: purple‑and‑white striped shirt, dark pants, short dark hair.
+Annotation: 
+
+================================================================================
+Image name: outdoor_044_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_044.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Person with light blue polo shirt and white pants holding white cup
+
+================================================================================
+Image name: outdoor_046_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_046.json
+
+[Start person description differs]
+Prediction: Blonde hair in a bun, black short-sleeve top and short skirt with black tights, standing side-on.
+Annotation: 
+
+[End person description differs]
+Prediction: 
+Annotation: Person with long brown hair and bun, black graphic shirt with blue design, long back pants
+
+================================================================================
+Image name: outdoor_047_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_047.json
+
+[End person description differs]
+Prediction: Black hoodie over white T‑shirt, blue jeans, white sneakers with red/blue accents; glasses; hood up, side-on, holding a water bottle across chest.
+Annotation: 
+
+================================================================================
+Image name: outdoor_049_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_049.json
+
+[Start person description differs]
+Prediction: Teal hooded sweatshirt, glasses, gray sweatpants, white slide sandals with socks; holding a black tote by a red rolling cart.
+Annotation: 
+
+================================================================================
+Image name: outdoor_050_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_050.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Girl with braids and light blue shirt standing behind table with yellow cloth
+
+================================================================================
+Image name: outdoor_052_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_052.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Man with glasses wearing denim jacket, blue long pants, and black shoes
+
+[End person description differs]
+Prediction: Person at the back: wearing a black hooded jacket with the hood up, face partly obscured, standing in profile.
+Annotation: 
+
+================================================================================
+Image name: outdoor_054_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_054.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Person with dark hair in bun, blue jacket with white sleeves, purple long pants, and red crossbody bag
+
+================================================================================
+Image name: outdoor_055_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_055.json
+
+[End person description differs]
+Prediction: Man in a black beanie and dark coat over a gray hoodie, with a tan backpack, facial hair, and a rolling suitcase, looking to the side.
+Annotation: 
+
+================================================================================
+Image name: outdoor_058_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_058.json
+
+[Start person description differs]
+Prediction: Person in an olive‑green quilted jacket over a collared shirt, short dark hair, facing left.
+Annotation: 
+
+[End person description differs]
+Prediction: Back view; dark navy fuzzy hooded coat with hood up.
+Annotation: 
+
+================================================================================
+Image name: outdoor_062_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_062.json
+
+[Start person description differs]
+Prediction: Light-gray long jacket, dark trousers, black shoes; short hair, back turned.
+Annotation: Person with short gray hair, black blazer, black pants, and black shoes
+
+================================================================================
+Image name: outdoor_063_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_063.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Man with short black hair wearing gray scarf, black puffy jacket, black pants, looking at phone
+
+[End person description differs]
+Prediction: Short dark hair, dark jacket over a light shirt, dark pants, white sneakers; standing sideways at the end of the line.
+Annotation: 
+
+================================================================================
+Image name: outdoor_065_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_065.json
+
+[End person description differs]
+Prediction: Side-profile person in a dark parka, light-blue pom‑pom beanie, dark pants, brown boots, and a crossbody bag.
+Annotation: 
+
+================================================================================
+Image name: outdoor_066_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_066.json
+
+[End person description differs]
+Prediction: Short dark hair; black graphic tee with green print; loose black pants; black sneakers; backpack strap with pink tag; arms crossed.
+Annotation: 
+
+================================================================================
+Image name: outdoor_070_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_070.json
+
+[Start person description differs]
+Prediction: Back-facing person in a white T-shirt, black shorts, and sneakers; short hair; standing casually.
+Annotation: 
+
+================================================================================
+Image name: outdoor_071_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_071.json
+
+[Start person description differs]
+Prediction: Long blond hair; gray striped tee; jacket tied at waist; blue jeans; black sneakers.
+Annotation: Man with short blonde hair and gray shirt
+
+================================================================================
+Image name: outdoor_072_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_072.json
+
+[Start person description differs]
+Prediction: Green beanie, orange sweater over a black‑and‑white striped shirt, smartwatch on wrist, side-facing at a counter.
+Annotation: 
+
+[End person description differs]
+Prediction: Back-turned person in a tan jacket with a purple hood and dark cap.
+Annotation: 
+
+================================================================================
+Image name: outdoor_073_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_073.json
+
+[Start person description differs]
+Prediction: Back view: dark green hooded parka, black beanie, khaki pants, standing at doorway.
+Annotation: 
+
+================================================================================
+Image name: outdoor_074_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_074.json
+
+[Start person description differs]
+Prediction: Long wavy blonde hair; white floral sleeveless top; light blue skinny jeans; white slip‑on sneakers; black crossbody bag; standing facing away.
+Annotation: Person wearing a black cap, green T-shirt, blue shorts, black flip flops
+
+[End person description differs]
+Prediction: Purple-and-black plaid short-sleeve shirt, tan cargo shorts with flap pockets, standing side-on.
+Annotation: 
+
+================================================================================
+Image name: outdoor_075_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_075.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Person wearing brown hat, red backpack, blue denim shorts, and white T-shirt
+
+================================================================================
+Image name: outdoor_081_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_081.json
+
+[Start person description differs]
+Prediction: Back view: shoulder-length brown hair, bright blue T‑shirt, beige cargo pants, casual shoes, hand on a stroller.
+Annotation: 
+
+================================================================================
+Image name: outdoor_082_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_082.json
+
+[Start person description differs]
+Prediction: Smiling child with long brown hair, blue‑striped shirt, chin on hand.
+Annotation: child facing away wearing turqoise pants and a white T-shirt with a dark blue stripe, red stripe, and light blue stripe
+
+================================================================================
+Image name: outdoor_083_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_083.json
+
+[Start person description differs]
+Prediction: Long dark hair; gray sleeveless top, maroon shorts, brown shoes; standing sideways, holding a phone to the ear.
+Annotation: person with long dark hair wearing red and blue tie die shirt, black shoulder bag, and black boots
+
+[End person description differs]
+Prediction: Short-haired person in a blue T-shirt, black shorts, red socks and black sneakers, standing with back to camera.
+Annotation: 
+
+================================================================================
+Image name: outdoor_084_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_084.json
+
+[Start person description differs]
+Prediction: Black cap, white checkered short-sleeve shirt, blue pants, black shoes—standing side-on in line.
+Annotation: Person with white construction cap, white checkered short-sleeve shirt, blue pants, and black shoes
+
+[End person description differs]
+Prediction: Navy T-shirt with a Captain America logo, dark pants, black wristwatch, holding white plastic bags.
+Annotation: Person wearing a Dark shirt with blue jeans and beige boots with a white construction hat
+
+================================================================================
+Image name: outdoor_085_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_085.json
+
+[Start person description differs]
+Prediction: Long dark puffer coat, black leggings, checkered socks, beige sneakers; hair in a bun, glasses, looking at a phone.
+Annotation: 
+
+[End person description differs]
+Prediction: Side-profile person with blond hair in a bun, pink scarf, black hooded coat and leggings, gray gloves, blue running shoes, looking at a phone.
+Annotation: 
+
+================================================================================
+Image name: outdoor_086_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_086.json
+
+[Start person description differs]
+Prediction: Short dark hair, white T‑shirt and blue jeans, backpack strap, standing side-on with hand on hip.
+Annotation: 
+
+[End person description differs]
+Prediction: Short dark hair; black oversized T‑shirt; light gray knee‑length shorts; black socks and gray sneakers; standing sideways with one hand near mouth.
+Annotation: 
+
+================================================================================
+Image name: outdoor_087_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_087.json
+
+[End person description differs]
+Prediction: Gray cap over an orange beanie, black athletic jacket and leggings, armband phone holder, sling backpack, tan shoes, glancing sideways.
+Annotation: 
+
+================================================================================
+Image name: outdoor_088_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_088.json
+
+[Start person description differs]
+Prediction: Back-facing person in a blue T-shirt, khaki cargo shorts, gray sneakers, and a black crossbody sling bag.
+Annotation: Person with white beard wearing a black cap, blue shirt, dark pants, and gray sneakers
+
+[End person description differs]
+Prediction: Person in a red T-shirt and brown cargo shorts, short light hair, hands clasped behind their back.
+Annotation: 
+
+================================================================================
+Image name: outdoor_089_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_089.json
+
+[Start person description differs]
+Prediction: Short-haired person in glasses, blue T-shirt and jeans, black sneakers; standing sideways with a hand on their hip.
+Annotation: Short-haired person in glasses, dark shirt, black pants, and black sandals withred crossbody bag
+
+================================================================================
+Image name: outdoor_091_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_091.json
+
+[Start person description differs]
+Prediction: Long dark hair, strapless patterned maxi dress, crossbody bag, standing with back to camera.
+Annotation: 
+
+================================================================================
+Image name: outdoor_092_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_092.json
+
+[Start person description differs]
+Prediction: Side-facing in a black coat and beanie, with a red bag, in snow.
+Annotation: 
+
+================================================================================
+Image name: outdoor_093_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_093.json
+
+[Start person description differs]
+Prediction: Side profile; slicked-back hair and full beard; wearing a dark suit and white shirt.
+Annotation: 
+
+[End person description differs]
+Prediction: Profile view: medium-length dark hair, glasses; gray suit with white pocket square, white shirt, black tie.
+Annotation: 
+
+================================================================================
+Image name: outdoor_094_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_094.json
+
+[Start person description differs]
+Prediction: Curly-haired person in an olive button-up and jeans, brown sandals, black crossbody satchel, standing side-on using a tablet.
+Annotation: 
+
+[End person description differs]
+Prediction: Bald person in a blue button-down and khaki chinos, glasses and earbuds, one hand in pocket, looking at a phone.
+Annotation: 
+
+================================================================================
+Image name: outdoor_095_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_095.json
+
+[Start person description differs]
+Prediction: Short gray-haired man in a light blue shirt, seen from the back.
+Annotation: 
+
+================================================================================
+Image name: outdoor_097_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_097.json
+
+[End person description differs]
+Prediction: Shaved head with sunglasses on top; teal polo, dark jeans, sneakers; hands in pockets, phone in back pocket.
+Annotation: 
+
+================================================================================
+Image name: outdoor_098_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_098.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Person with brown hair and beard looking at phone wearing a gray suit and a light blue tie
+
+================================================================================
+Image name: outdoor_099_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_099.json
+
+[Start person description differs]
+Prediction: Long brown hair, all-black outfit (long-sleeve top and pants), standing with back to camera.
+Annotation: Person with brown hair wearing glasses, navy shirt, beige pants with dark pants and black shoes
+
+[End person description differs]
+Prediction: Short‑haired man in a light blue dress shirt and dark slacks, arms crossed, looking upward.
+Annotation: 
+
+================================================================================
+Image name: outdoor_100_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_100.json
+
+[Start person description differs]
+Prediction: Green cap, short hair; black T‑shirt, dark jeans, black‑and‑white Adidas sneakers; pushing a stroller in side view.
+Annotation: 
+
+================================================================================
+Image name: outdoor_102_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_102.json
+
+[Start person description differs]
+Prediction: Person in a long dark parka with fur-trimmed hood, blue jeans, and white sneakers, standing side-on.
+Annotation: person in gray long sleeve shirt, black shoulder bag, brown pants
+
+[End person description differs]
+Prediction: Short gray hair, dark jacket, head turned to the side.
+Annotation: 
+
+================================================================================
+Image name: outdoor_103_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_103.json
+
+[Start person description differs]
+Prediction: Dark curly hair up; long beige overcoat; blue jeans; black lace-up boots; black shoulder bag; standing sideways.
+Annotation: 
+
+[End person description differs]
+Prediction: Short‑haired person in a bright blue jacket over a brown layer, dark trousers, blue socks and black shoes, standing turned away.
+Annotation: 
+
+================================================================================
+Image name: outdoor_104_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_104.json
+
+[Start person description differs]
+Prediction: Long gray ponytail, dark jacket, gray pants, black shoes; standing side-on near a door.
+Annotation: 
+
+================================================================================
+Image name: outdoor_106_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_106.json
+
+[Start person description differs]
+Prediction: Dark jacket, hair in a bun, olive crossbody strap, back turned.
+Annotation: 
+
+================================================================================
+Image name: outdoor_107_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_107.json
+
+[End person description differs]
+Prediction: Person with a blond ponytail, light-blue jeans, white sneakers, and a black backpack, seen from behind.
+Annotation: 
+
+================================================================================
+Image name: outdoor_108_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_108.json
+
+[Start person description differs]
+Prediction: Side view: long hair, sunglasses, orange top, black pants, gray sneakers, large shoulder bag.
+Annotation: person wearing gray T-shirt, blue jeans, and light blue jacket tied around waist
+
+================================================================================
+Image name: outdoor_110_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_110.json
+
+[Start person description differs]
+Prediction: Gray-bearded person with glasses, red apron, rolled-up sleeves.
+Annotation: person with short blonde hair wearing a blue long sleeve shirt and gray pants
+
+================================================================================
+Image name: outdoor_111_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_111.json
+
+[Start person description differs]
+Prediction: Back view: mustard-yellow sleeveless top, gray skinny jeans, shoulder-length wavy light hair, light-colored sneakers, standing in line.
+Annotation: 
+
+================================================================================
+Image name: outdoor_114_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_114.json
+
+[Start person description differs]
+Prediction: Long dark ponytail, strapless black outfit, behind railing, hand near mouth.
+Annotation: Bald person in a black jacket and pants with black shoes, wearing a dark face mask, standing side-on with hands together.
+
+[End person description differs]
+Prediction: Bald person in a black jacket and pants with black shoes, wearing a dark face mask, standing side-on with hands together.
+Annotation: 
+
+================================================================================
+Image name: outdoor_115_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_115.json
+
+[Start person description differs]
+Prediction: 
+Annotation: person with short dark hair and beard, wearing a brown jacket, blue denim pants, a black backpack and black sneakers
+
+[End person description differs]
+Prediction: Bearded person in a dark hooded jacket, blue jeans, and brown boots, standing sideways.
+Annotation: person with brown hair in bun, beige jacket, and black leather backpack
+
+================================================================================
+Image name: outdoor_116_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_116.json
+
+[Start person description differs]
+Prediction: 
+Annotation: person with short dark hair and beard, wearing a brown jacket, blue denim pants, and a black backpack
+
+================================================================================
+Image name: outdoor_119_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_119.json
+
+[End person description differs]
+Prediction: 
+Annotation: person wearing white T-shirt and long blue jeans
+
+================================================================================
+Image name: outdoor_120_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_120.json
+
+[End person description differs]
+Prediction: Smiling person in a burgundy rain jacket, curly hair, yellow cap, holding a yellow umbrella.
+Annotation: Person with white hair and yellow hat wearing a dark poncho staring right
+
+================================================================================
+Image name: outdoor_122_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_122.json
+
+[Start person description differs]
+Prediction: Short-haired person in a dark jacket and blue jeans, white sneakers, standing in line facing away.
+Annotation: 
+
+[End person description differs]
+Prediction: Long blond hair, black leather jacket, blue jeans, dark shoes; back to camera with arms folded.
+Annotation: 
+
+================================================================================
+Image name: outdoor_123_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_123.json
+
+[Start person description differs]
+Prediction: 
+Annotation: person with short dark hair and gray scarf wearing a black leather jacket and dark pants looking at phone
+
+[End person description differs]
+Prediction: 
+Annotation: person with black coat and black long pants
+
+================================================================================
+Image name: outdoor_125_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_125.json
+
+[Start person description differs]
+Prediction: Side view; short hair, glasses; dark jacket and pants with black shoes; arms crossed near a doorway.
+Annotation: Person with short blonde hair, light blue scart, black sleeveless shirt, and dark blue denim pants
+
+================================================================================
+Image name: outdoor_127_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_127.json
+
+[End person description differs]
+Prediction: Smiling blonde with long hair, light floral dress, leaning to the side.
+Annotation: 
+
+================================================================================
+Image name: outdoor_128_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_128.json
+
+[End person description differs]
+Prediction: Shirtless man with short curly hair and stubble, arms crossed, barefoot in dark cropped pants.
+Annotation: 
+
+================================================================================
+Image name: outdoor_129_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_129.json
+
+[Start person description differs]
+Prediction: Long curly hair; bright pink top; gray pants; dark shoes; holding a phone and leaning.
+Annotation: Person with voluminous curly hair, red cardigan over a yellow top, dark skinny jeans, brown ankle boots, standing sideways and looking at a phone.
+
+[End person description differs]
+Prediction: Person with voluminous curly hair, red cardigan over a yellow top, dark skinny jeans, brown ankle boots, standing sideways and looking at a phone.
+Annotation: Long curly hair; bright pink top; gray pants; dark shoes; holding a phone and leaning.
+
+================================================================================
+Image name: outdoor_131_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_131.json
+
+[Start person description differs]
+Prediction: Short dark hair, sunglasses; black jacket, blue jeans; holding a rolling suitcase.
+Annotation: 
+
+[End person description differs]
+Prediction: Dark hair in a bun, gray hoodie, black pants, black sneakers, walking left.
+Annotation: Dark hair, whie hoodie, black pants, black pants, white sneakers, standing near suitcases
+
+================================================================================
+Image name: outdoor_132_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_132.json
+
+[Start person description differs]
+Prediction: Balding person in a maroon‑white striped polo, navy sweatpants, black sneakers, looking down.
+Annotation: Shirtless, gray‑haired person in blue jeans and black shoes, arms crossed, side view.
+
+[End person description differs]
+Prediction: Shirtless, gray‑haired person in blue jeans and black shoes, arms crossed, side view.
+Annotation: Balding person in a maroon‑white striped polo, navy sweatpants, black sneakers, looking down.
+
+================================================================================
+Image name: outdoor_133_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_133.json
+
+[End person description differs]
+Prediction: Long wavy brown hair; black ruffled top and long black skirt; beige sneakers; pink shopping bag; holding a small book.
+Annotation: 
+
+================================================================================
+Image name: outdoor_135_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_135.json
+
+[Start person description differs]
+Prediction: Short hair, light gray long-sleeve shirt, black pants and black shoes, facing forward.
+Annotation: 
+
+[End person description differs]
+Prediction: Black sunhat, white striped sweatshirt, denim jacket tied at waist, black leggings, white sneakers, large printed tote, looking at a phone.
+Annotation: 
+
+================================================================================
+Image name: outdoor_136_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_136.json
+
+[End person description differs]
+Prediction: Long wavy light-brown hair, denim jacket, white skirt, black knee-high boots, facing away.
+Annotation: 
+
+================================================================================
+Image name: outdoor_138_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_138.json
+
+[Start person description differs]
+Prediction: Short gray hair; black jacket with white accents; blue jeans; dark sneakers; standing sideways at a doorway.
+Annotation: 
+
+================================================================================
+Image name: outdoor_139_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_139.json
+
+[End person description differs]
+Prediction: 
+Annotation: Person with short hair wearing long sleeve blue shirt, and beige long pants
+
+================================================================================
+Image name: outdoor_141_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_141.json
+
+[End person description differs]
+Prediction: Blue hoodie, black shorts, white sneakers, dark cap; side view with arms raised, mid-step.
+Annotation: 
+
+================================================================================
+Image name: outdoor_142_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_142.json
+
+[Start person description differs]
+Prediction: Person in a white graphic T-shirt and light shorts, dark cap, flip-flops; standing with back to camera.
+Annotation: Person in a white hat wearing short blue short, gray shirt, and white sneakers
+
+================================================================================
+Image name: outdoor_143_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_143.json
+
+[End person description differs]
+Prediction: Side view: helmet and mask, dark green shirt, olive shorts, black sandals, large bright‑green backpack.
+Annotation: 
+
+================================================================================
+Image name: outdoor_144_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_144.json
+
+[End person description differs]
+Prediction: 
+Annotation: Person with short blonde hair wearing gray striped shirt, and blue and white patterned pants
+
+================================================================================
+Image name: outdoor_145_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_145.json
+
+[End person description differs]
+Prediction: Short-haired person in a light blue T-shirt, faded blue jeans, tan sneakers, standing sideways with arms crossed.
+Annotation: 
+
+================================================================================
+Image name: outdoor_146_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_146.json
+
+[Start person description differs]
+Prediction: Short curly dark hair, light-blue striped shirt, seen from behind.
+Annotation: Person with black hair in bun wearing a gray T-shirt facing away
+
+================================================================================
+Image name: outdoor_152_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_152.json
+
+[Start person description differs]
+Prediction: Back-facing person with long brown hair in a black pantsuit.
+Annotation: Person with short hair wearing glasses, blue long sleeve shirt, white long pants, and black shoes
+
+[End person description differs]
+Prediction: Bald person in a light blue button-up, dark trousers, black shoes, standing side-on with arms crossed.
+Annotation: 
+
+================================================================================
+Image name: outdoor_153_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_153.json
+
+[Start person description differs]
+Prediction: Long dark hair, brown coat with fur-trim hood, blue jeans, black boots, seen from behind.
+Annotation: Long dark hair, puffy gray coat, blue jeans, pink sneakers pink bag, seen from behind.
+
+================================================================================
+Image name: outdoor_154_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_154.json
+
+[End person description differs]
+Prediction: 
+Annotation: Person with shirt black hair, blue denim jacket, black pants, and blue shoulder bag, seen from behind
+
+================================================================================
+Image name: outdoor_156_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_156.json
+
+[Start person description differs]
+Prediction: Back view: person in light-blue loose pants, light shirt/towel draped over head, standing at a door, wearing casual footwear.
+Annotation: 
+
+[End person description differs]
+Prediction: Back view: dark curly hair tied back; black-and-white patterned short dress; black shiny flats.
+Annotation: 
+
+================================================================================
+Image name: outdoor_157_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_157.json
+
+[Start person description differs]
+Prediction: 
+Annotation: child wearing yellow and white striped T-shirt, light blue jeans, and white sneakers
+
+================================================================================
+Image name: outdoor_159_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_159.json
+
+[Start person description differs]
+Prediction: Black jacket with a red hood, dark skinny jeans, sneakers; dark hair; standing with back to camera.
+Annotation: 
+
+[End person description differs]
+Prediction: Black leather jacket, blue jeans, dark green crossbody bag, black boots; hair in a bun with sunglasses on head.
+Annotation: 
+
+================================================================================
+Image name: outdoor_161_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_161.json
+
+[Start person description differs]
+Prediction: Person in a black cap and glasses, black T‑shirt, denim shorts, ordering.
+Annotation: Person with black braided hair wearing a black T-shirt and black shorts
+
+================================================================================
+Image name: outdoor_162_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_162.json
+
+[Start person description differs]
+Prediction: Side-on person in black jacket and pants, white face mask, black sneakers; orange layer peeking out; carrying a large black tote/backpack.
+Annotation: 
+
+[End person description differs]
+Prediction: Side view: long braids, orange scarf, black outfit/leggings, colorful sneakers, carrying a large burgundy tote and a black backpack.
+Annotation: 
+
+================================================================================
+Image name: outdoor_164_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_164.json
+
+[End person description differs]
+Prediction: Short dark hair; black puffer jacket over a light hoodie; gray pants and black sneakers; standing and looking down at a phone.
+Annotation: 
+
+================================================================================
+Image name: outdoor_165_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_165.json
+
+[Start person description differs]
+Prediction: Shoulder-length blonde with a backward cap, dark floral graphic tee, black leggings, white sneakers, and a backpack; walking.
+Annotation: 
+
+================================================================================
+Image name: outdoor_166_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_166.json
+
+[Start person description differs]
+Prediction: No person visible—just part of a food truck.
+Annotation: Person with black hair in bun, electric blue long sleeve shirt, long denim pants, black shoes, and a black backpack
+
+================================================================================
+Image name: outdoor_168_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_168.json
+
+[Start person description differs]
+Prediction: Dark-haired person wearing sunglasses and a dark top, leaning forward.
+Annotation: Person with blonde curly hair, tan shirt, and long black pants
+
+[End person description differs]
+Prediction: Side-on person in a white T-shirt and dark shorts, visor and sunglasses, ponytail, sneakers, holding a phone.
+Annotation: 
+
+================================================================================
+Image name: outdoor_169_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_169.json
+
+[End person description differs]
+Prediction: Back view: curly short hair, navy sweater, blue jeans, black shoes, yellow shoulder bag.
+Annotation: 
+
+================================================================================
+Image name: outdoor_170_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_170.json
+
+[End person description differs]
+Prediction: Side-view person in a blue T-shirt, khaki shorts, flip-flops, black cap, and sunglasses.
+Annotation: 
+
+================================================================================
+Image name: outdoor_171_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_171.json
+
+[Start person description differs]
+Prediction: Short-haired person in a light patterned short-sleeve shirt, blue jeans, and brown shoes, holding a purple tote and standing sideways, looking back.
+Annotation: Person with short blonde hair wearing an electric blue dress, an orange shoes
+
+[End person description differs]
+Prediction: Blond ponytail, bright blue top, turned away from camera.
+Annotation: Child wearing short red hair, gray T-shirt, blue denim jeans, and black sneakers
+
+================================================================================
+Image name: outdoor_172_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_172.json
+
+[Start person description differs]
+Prediction: Bright blue top and skirt, short dark hair, backpack straps; standing hands-on-hips in flats.
+Annotation: Person with short brown hair and light blue headband wearing blue T-shirt, blue leggings, and black sneakers
+
+[End person description differs]
+Prediction: Black‑and‑white striped shorts, maroon top, white sneakers, black knee brace; standing side‑on.
+Annotation: 
+
+================================================================================
+Image name: outdoor_173_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_173.json
+
+[Start person description differs]
+Prediction: Young man with short dark hair, white button-up shirt, backpack strap; side view, hand to cheek with mouth slightly open.
+Annotation: Man with short white hair and dark blue dress shirt
+
+================================================================================
+Image name: outdoor_174_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_174.json
+
+[End person description differs]
+Prediction: Back view: wide‑brim black hat, fitted black coat, cow‑print skirt, black heels.
+Annotation: 
+
+================================================================================
+Image name: outdoor_179_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_179.json
+
+[Start person description differs]
+Prediction: Back view: shoulder-length blonde hair, light hoodie, white pants, blue sneakers, large dark backpack.
+Annotation: Back view: bright orange cap, beige shirt, dark blue denim pants
+
+================================================================================
+Image name: outdoor_180_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_180.json
+
+[Start person description differs]
+Prediction: Short-haired person in a light blue dress shirt, hands clasped.
+Annotation: Short-haired person with dark hair and beard in a light green dress shirt, hands clasped.
+
+================================================================================
+Image name: outdoor_181_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_181.json
+
+[Start person description differs]
+Prediction: Back view: black beanie, dark hoodie, leaning forward.
+Annotation: Person wearing dark gray long-sleeved shirt, light gray long pants, and flip flops holding the door
+
+[End person description differs]
+Prediction: Dark‑haired person with hair tied back, wearing a dark jacket and black leggings, gray sneakers, a tan crossbody bag; holding an umbrella and looking left.
+Annotation: 
+
+================================================================================
+Image name: outdoor_183_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_183.json
+
+[Start person description differs]
+Prediction: Short-haired person in a light collared shirt, seen from behind.
+Annotation: 
+
+================================================================================
+Image name: outdoor_184_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_184.json
+
+[Start person description differs]
+Prediction: Light-gray hood up, black jacket, facing away at the front of the line.
+Annotation: 
+
+================================================================================
+Image name: outdoor_185_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_185.json
+
+[Start person description differs]
+Prediction: Back-turned person in a long dark coat over a white skirt, black leggings, white sneakers, gray shoulder bag, and a dark beanie.
+Annotation: 
+
+================================================================================
+Image name: outdoor_188_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_188.json
+
+[End person description differs]
+Prediction: Person with short brown hair in a blue puffer jacket, dark pants, gray sneakers, light tote, holding a shopping cart.
+Annotation: 
+
+================================================================================
+Image name: outdoor_189_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_189.json
+
+[Start person description differs]
+Prediction: Black coat and dark pants, hair tied back, facing away.
+Annotation: Person with short dark hair wearing long black coat over a white shirt, long black pants, and black shoes
+
+[End person description differs]
+Prediction: Back view: long dark coat, dark pants and shoes; long dark hair; holding a white plastic bag.
+Annotation: 
+
+================================================================================
+Image name: outdoor_191_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_191.json
+
+[Start person description differs]
+Prediction: Back view: dark purple jacket, blue jeans, ponytail, black-and-white sneakers, at queue front.
+Annotation: Back view: light pink jacket, black jeans, ponytail, black sneakers, and a white crossbody bag at queue front.
+
+[End person description differs]
+Prediction: Back view: dark sweater, gray loose trousers, black crossbody bag, dark hair tied back, maroon shoes.
+Annotation: Person with mid-length brown hair held by pink hairclip wearing a black dress over a brown shirt, white socks, and black shoes
+
+================================================================================
+Image name: outdoor_196_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_196.json
+
+[End person description differs]
+Prediction: Long wavy blonde hair; dark denim jacket over a short white dress; black tote by the legs; standing with back turned.
+Annotation: 
+
+================================================================================
+Image name: outdoor_198_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_198.json
+
+[Start person description differs]
+Prediction: Short dark hair, navy coat with a gray scarf, facing the door.
+Annotation: 
+
+================================================================================
+Image name: outdoor_199_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_199.json
+
+[Start person description differs]
+Prediction: Bald person in a black jacket over a light-blue shirt, dark pants, black shoes, brown shoulder bag, walking.
+Annotation: 
+
+[End person description differs]
+Prediction: Dark puffer jacket, black pants, light slip-on shoes; hair tied back; standing side-on.
+Annotation: Back-facing person in a brown varsity jacket with white sleeves, long wavy hair, black pants, and light slip-on shoes.
+
+================================================================================
+Image name: outdoor_201_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_luna/outdoor_201.json
+
+[End person description differs]
+Prediction: Short dark hair; black puffer jacket; gray joggers; black sneakers; head down using phone.
+Annotation: 
+
+================================================================================
+Image name: supermarket_001_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_001.json
+
+[End person description differs]
+Prediction: Long-haired person with glasses, light purple jacket and gray scarf, dark jeans, looking down at a phone.
+Annotation: Not visible. Last visible person seen is a woman wearing a blue coat and black pants.
+
+================================================================================
+Image name: supermarket_002_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_002.json
+
+[End person description differs]
+Prediction: Person with dark pulled-back hair, black jacket over a light top, facing forward.
+Annotation: Person with dark hair, black jacket over black top with white graphics, facing forward, holding a green bag.
+
+================================================================================
+Image name: supermarket_003_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_003.json
+
+[Start person description differs]
+Prediction: 
+Annotation: NA
+
+================================================================================
+Image name: supermarket_004_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_004.json
+
+[Start person description differs]
+Prediction: Smiling person with glasses, long dark hair, black blazer over a white top, and drop earrings.
+Annotation: Man with beard in black zip up, blue shorts, blue sneakers, and holding a basket of goods
+
+================================================================================
+Image name: supermarket_008_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_008.json
+
+[Start person description differs]
+Prediction: Hair in a bun, black jacket with tan fur collar, facing away.
+Annotation: 
+
+================================================================================
+Image name: supermarket_009_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_009.json
+
+[Start person description differs]
+Prediction: Black outfit, grey patterned headscarf, red belt; seen from behind.
+Annotation: 
+
+[End person description differs]
+Prediction: 
+Annotation: Man in dark blue pants, navy slides, and light blue polo shirt.
+
+================================================================================
+Image name: supermarket_012_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_012.json
+
+[Start person description differs]
+Prediction: Bald person with gray sides, in a dark coat, facing store shelves.
+Annotation: 
+
+================================================================================
+Image name: supermarket_017_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_017.json
+
+[Start person description differs]
+Prediction: Dark‑haired person with an orange backpack, seen through railings.
+Annotation: 
+
+[End person description differs]
+Prediction: Person in a red short‑sleeve shirt (only arm visible).
+Annotation: Man with short hair in gray shirt and blue jeans; holding phone.
+
+================================================================================
+Image name: supermarket_018_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_018.json
+
+[Start person description differs]
+Prediction: Short-cropped hair, black parka, white earbud, black gloves, hands clasped while standing.
+Annotation: 
+
+[End person description differs]
+Prediction: Short gray-haired person in a dark face mask and long black coat, standing sideways with hands clasped.
+Annotation: 
+
+================================================================================
+Image name: supermarket_019_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_019.json
+
+[Start person description differs]
+Prediction: Short light-brown hair; dark coat with raised collar; blue jeans; white sneakers; using a phone.
+Annotation: Black hair in a bun, dark green winter jacket with blonde fur trimming, dark blue shirt with red detailing, black leggings, blue shoes.
+
+================================================================================
+Image name: supermarket_021_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_021.json
+
+[End person description differs]
+Prediction: 
+Annotation: Blonde woman with hair in bun, in bright red trench coat, black pants, black and white scarf, and dark heels.
+
+================================================================================
+Image name: supermarket_024_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_024.json
+
+[End person description differs]
+Prediction: Short blonde hair; black puffer coat with fur-trimmed hood; back view.
+Annotation: 
+
+================================================================================
+Image name: supermarket_025_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_025.json
+
+[Start person description differs]
+Prediction: Short reddish hair, dark blue sweater, blue jeans, white sneakers; standing sideways with a hand to the face.
+Annotation: Short reddish hair, colorful sweater, blue jeans, white sneakers; standing sideways with a hand to the face.
+
+[End person description differs]
+Prediction: Buzz-cut person in glasses, dark hoodie, gray cargo shorts, and sneakers, standing sideways with arms crossed.
+Annotation: 
+
+================================================================================
+Image name: supermarket_028_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_028.json
+
+[End person description differs]
+Prediction: Blond-haired person in a blue patterned mask, navy puffer jacket, pink gloves, light jeans, holding a large snack bag, standing sideways.
+Annotation: 
+
+================================================================================
+Image name: supermarket_029_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_029.json
+
+[End person description differs]
+Prediction: Person with dark ponytail and glasses, in a white T‑shirt, leaning on a shopping cart and looking left.
+Annotation: 
+
+================================================================================
+Image name: supermarket_030_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_030.json
+
+[Start person description differs]
+Prediction: Back view: black beanie, dark jacket.
+Annotation: 
+
+================================================================================
+Image name: supermarket_035_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_035.json
+
+[Start person description differs]
+Prediction: Short white-haired person in a light sweater and dark capris, black sneakers, pushing a shopping cart.
+Annotation: Woman with short white hair, wearing a baby pink t-shirt, baby pink pants, and baby pink shoes.
+
+[End person description differs]
+Prediction: 
+Annotation: Person with a light brown bob, gray shirt wit sleeves rolled up, dark gray shorts, blakc sneakers, a fanny pack and sunglasses and a watch.
+
+================================================================================
+Image name: supermarket_040_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_040.json
+
+[Start person description differs]
+Prediction: Side-facing person in a bright yellow sleeveless top and black shorts.
+Annotation: 
+
+================================================================================
+Image name: supermarket_041_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_041.json
+
+[Start person description differs]
+Prediction: Short blond hair, blue-and-gray striped T-shirt, standing at a counter.
+Annotation: 
+
+================================================================================
+Image name: supermarket_046_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_046.json
+
+[Start person description differs]
+Prediction: Bald person in a dark jacket, seen from behind, facing store shelves.
+Annotation: 
+
+[End person description differs]
+Prediction: Gray‑haired person in a blue hoodie and long skirt, black flats, crossbody bag, holding a cane.
+Annotation: 
+
+================================================================================
+Image name: supermarket_049_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_049.json
+
+[Start person description differs]
+Prediction: Red-haired person in a dark apron over a pink top, side-parted hair, smiling and gesturing.
+Annotation: Black hair, beard and mustache, glasses, cream colored long sleeve shirt and glue jeans, hand on a cart, standing at the counter checking out
+
+[End person description differs]
+Prediction: Short salt-and-pepper hair, mustache; blue V-neck sweater over white tee and light beige pants; hands in pockets, standing sideways.
+Annotation: Short light brown hair, goatee; blue V-neck sweater over white tee and light beige pants; hands in pockets, standing sideways.
+
+================================================================================
+Image name: supermarket_050_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_050.json
+
+[Start person description differs]
+Prediction: Short white-haired person in a pale yellow top, black capris, and black sneakers, pushing a shopping cart.
+Annotation: White-haired woman with baby pink shirt, pants, and slides.
+
+[End person description differs]
+Prediction: 
+Annotation: Person with short brown hair, light gray shirt and dark gray pants, black shoes, with watch, sunglasses, and fanny pack.
+
+================================================================================
+Image name: supermarket_051_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_051.json
+
+[Start person description differs]
+Prediction: Back view; olive-green belted puffer vest with hood over gray sleeves, black pants, brown shoes; hair in a bun; pushing a cart.
+Annotation: 
+
+================================================================================
+Image name: supermarket_053_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_053.json
+
+[Start person description differs]
+Prediction: Burgundy coat, black face mask, crossbody bag; standing in line facing right.
+Annotation: 
+
+[End person description differs]
+Prediction: Person in a burgundy puffer jacket with dark pants, standing sideways at the back of the line.
+Annotation: 
+
+================================================================================
+Image name: supermarket_057_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_057.json
+
+[Start person description differs]
+Prediction: Teal T-shirt, white shorts, pink sun hat, glasses, sandals; holding a shopping bag, standing sideways.
+Annotation: 
+
+[End person description differs]
+Prediction: Older person in a cap and sunglasses, gray jacket over a light shirt, dark pants, tan shoes, standing sideways and holding a cane.
+Annotation: 
+
+================================================================================
+Image name: supermarket_060_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_060.json
+
+[Start person description differs]
+Prediction: Dark jacket/hoodie, light jeans, dark beanie; side/back view at the front of the line.
+Annotation: 
+
+[End person description differs]
+Prediction: Black puffer jacket with a gray hood up, seen from the back, by a shopping cart.
+Annotation: 
+
+================================================================================
+Image name: supermarket_064_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_064.json
+
+[Start person description differs]
+Prediction: Back view: dark hoodie, black baseball cap with white logo, short light hair.
+Annotation: person wearing gray beanie and gray long sleeve shirt
+
+================================================================================
+Image name: supermarket_067_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_067.json
+
+[Start person description differs]
+Prediction: White beanie, dark jacket, facing away, pushing a shopping cart.
+Annotation: 
+
+================================================================================
+Image name: supermarket_068_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_068.json
+
+[End person description differs]
+Prediction: Back view: black hoodie, light blue jeans, tan boots; hair in a ponytail; standing at the end of the line.
+Annotation: Person in white top and black hat.
+
+================================================================================
+Image name: supermarket_070_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_070.json
+
+[Start person description differs]
+Prediction: Back view: dark beanie, blue denim shirt, blue jeans, by a cart.
+Annotation: 
+
+================================================================================
+Image name: supermarket_078_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_078.json
+
+[Start person description differs]
+Prediction: Bald, wearing a navy blue hoodie, seen from the side.
+Annotation: Woman with long brown hair, orange cardigan, white shirt, and black pants; front view standing behind shopping cart.
+
+================================================================================
+Image name: supermarket_081_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_081.json
+
+[Start person description differs]
+Prediction: Shaved head, dark zip-up jacket, side profile at a checkout counter.
+Annotation: 
+
+================================================================================
+Image name: supermarket_082_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_082.json
+
+[Start person description differs]
+Prediction: Black hoodie and shorts, purple baseball cap, watch on left wrist; standing sideways.
+Annotation: Bald man with dark longsleeve shirt, dark blue jeans, and brown shoes. Back view standing behind cart.
+
+================================================================================
+Image name: supermarket_083_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_083.json
+
+[Start person description differs]
+Prediction: White T‑shirt, jean shorts, flip‑flops, dark baseball cap; pushing a cart.
+Annotation: Bald man with dark longsleeve shirt, dark blue jeans, and brown shoes. Back view standing behind cart.
+
+================================================================================
+Image name: supermarket_087_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_087.json
+
+[Start person description differs]
+Prediction: Short dark hair in a ponytail; blue top over light gray shirt; red cropped wide-leg pants; black sneakers; black crossbody bag; standing in line, back view.
+Annotation: 
+
+[End person description differs]
+Prediction: Grey T-shirt, black shorts, flip-flops; hair in a bun, face mask; crossbody strap; holding a yellow tote and grey basket, leaning toward the shelf.
+Annotation: 
+
+================================================================================
+Image name: supermarket_088_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_088.json
+
+[End person description differs]
+Prediction: Person with short dark hair and glasses, wearing a navy jacket and pants, carrying a red‑and‑white striped tote, standing by a shopping cart.
+Annotation: WOman with bright red trench coat, patterned black and white scarf, dark heels, and blond hair in a bun; standing turned left
+
+================================================================================
+Image name: supermarket_089_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_089.json
+
+[Start person description differs]
+Prediction: Long blond hair, glasses; white top, dark vest.
+Annotation: Old man with short brown hair and glasses, navy crewnech with lightblue collared shirt underneath, facing towards and looking in cart
+
+================================================================================
+Image name: supermarket_092_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_092.json
+
+[Start person description differs]
+Prediction: White beanie, cream long‑sleeve top, light pants, yellow crossbody strap; standing with hand near face.
+Annotation: Woman with short light brown hair, wearing patterned white and purple shirt, baackview.
+
+================================================================================
+Image name: supermarket_093_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_093.json
+
+[Start person description differs]
+Prediction: Person in a burgundy dress with black shoes, standing sideways facing left.
+Annotation: 
+
+[End person description differs]
+Prediction: Back view: long wavy hair, red T‑shirt, by a blue cart.
+Annotation: Back view: man with short gray hair, gray shirt and gray shorts, wearing sunglassing, holding box and looking into cart.
+
+================================================================================
+Image name: supermarket_098_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_098.json
+
+[End person description differs]
+Prediction: Person in a dark flat cap and navy jacket, looking ahead by a shopping cart.
+Annotation: Old woman with short white hair, long black coat, and red scarf, pushing cart; front view
+
+================================================================================
+Image name: supermarket_099_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_099.json
+
+[Start person description differs]
+Prediction: Bald man with a short beard, wearing a light floral shirt, facing sideways and holding something.
+Annotation: Side view of old man wearing dark blue jeans, bright blue top, black cap, and black shoes.
+
+================================================================================
+Image name: supermarket_101_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_101.json
+
+[Start person description differs]
+Prediction: Back view: blue jacket, light jeans, short balding hair, dark clogs, standing with a shopping basket.
+Annotation: 
+
+================================================================================
+Image name: supermarket_102_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_102.json
+
+[End person description differs]
+Prediction: Side-profile person in a ribbed knit beanie and black jacket, hands in pockets, waiting in line.
+Annotation: Man in black and white collared shirt, black belt, and bue jeans; facing cart, back view, short black hair, holding cart
+
+================================================================================
+Image name: supermarket_103_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/supermarket_103.json
+
+[End person description differs]
+Prediction: Side view: dark jacket, knitted beanie, standing in line.
+Annotation: Man in black and white collared shirt, black belt, and bue jeans; facing cart, back view, short black hair, holding cart
+
+================================================================================
+Image name: themepark_001_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_001.json
+
+[Start person description differs]
+Prediction: Long dark hair, white cap, red T-shirt, black pants, standing by a railing.
+Annotation: 
+
+================================================================================
+Image name: themepark_002_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_002.json
+
+[Start person description differs]
+Prediction: Blue mask, wavy hair, tie-dye T-shirt, high-waisted white shorts, white sneakers; standing relaxed facing forward, holding a folded paper.
+Annotation: 
+
+[End person description differs]
+Prediction: Blonde hair in a ponytail, blue mask; yellow short-sleeve shirt, black leggings, black sandals; holding a light green bag, standing sideways.
+Annotation: Man in black shorts and white shirt, short light hair; facing forward, mostly hidden behind girl.
+
+================================================================================
+Image name: themepark_003_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_003.json
+
+[Start person description differs]
+Prediction: Side view: light-brown shoulder-length hair, white sleeveless top, dark denim shorts, white sneakers, arms at sides.
+Annotation: 
+
+[End person description differs]
+Prediction: Back view: long purple hair with a white ear headband, purple tie‑dye T‑shirt, light blue jeans, white sneakers.
+Annotation: Back view: woman with short dark hair in ponytail, wearing gray t-shirt, blue jean shorts, black flipflops, black and red backpack, and glasses.
+
+================================================================================
+Image name: themepark_004_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_004.json
+
+[Start person description differs]
+Prediction: Back view: long blonde hair, blue ear headband, turquoise tank top, black capri leggings, blue sneakers, red/gray drawstring backpack.
+Annotation: 
+
+[End person description differs]
+Prediction: Blonde person in a light-blue dress, dark sunglasses, and black sandals, standing sideways.
+Annotation: Blonde woman in a light-blue dress, dark sunglasses, and black sandals, standing sideways.
+
+================================================================================
+Image name: themepark_008_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_008.json
+
+[Start person description differs]
+Prediction: Short-haired person in a gray T-shirt, navy shorts, and gray sneakers, shown side-on.
+Annotation: Man in bright red tshirt, black and white plaid shorts, black shoes, long black socks.
+
+================================================================================
+Image name: themepark_009_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_009.json
+
+[Start person description differs]
+Prediction: Child in a dark cap, gray T-shirt with yellow sleeves, green shorts, black sandals, arms outstretched.
+Annotation: 
+
+================================================================================
+Image name: themepark_010_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_010.json
+
+[Start person description differs]
+Prediction: Long wavy dark hair; gray sleeveless top, light blue jeans, white sneakers; bracelet/watch; standing with hands clasped behind back.
+Annotation: Person in bright red shirt, gray khaki pants, black shoes, back view.
+
+================================================================================
+Image name: themepark_012_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_012.json
+
+[Start person description differs]
+Prediction: Back view: curly high puff, yellow tank top, teal pants, white sneakers, small white backpack.
+Annotation: 
+
+[End person description differs]
+Prediction: Blonde hair in a ponytail, red T-shirt, dark shorts, black sneakers, sunglasses, holding a phone.
+Annotation: Woman with blonde hair in a braid, blue backpack, wearing black shorts and a maroon tank top.
+
+================================================================================
+Image name: themepark_014_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_014.json
+
+[Start person description differs]
+Prediction: Side-on person in a gray hoodie and black shorts, ponytail, hand near face.
+Annotation: 
+
+================================================================================
+Image name: themepark_017_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_017.json
+
+[Start person description differs]
+Prediction: Back view: short dark hair, sleeveless black dress, crossbody bag with green strap, standing barefoot.
+Annotation: 
+
+================================================================================
+Image name: themepark_018_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_018.json
+
+[Start person description differs]
+Prediction: Green T-shirt, light sun hat, sunglasses, red crossbody bag; arm raised.
+Annotation: 
+
+================================================================================
+Image name: themepark_019_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_019.json
+
+[End person description differs]
+Prediction: Long brown hair, navy T‑shirt, light jeans, black backpack, black-and-white sneakers; walking away.
+Annotation: 
+
+================================================================================
+Image name: themepark_022_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_022.json
+
+[Start person description differs]
+Prediction: Back view: short gray hair, white T‑shirt, green shorts, crossbody strap, blue bag.
+Annotation: Man with black tshirt, black shorts, white socks and black shoes, facing away, mostly in shadow.
+
+================================================================================
+Image name: themepark_023_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_023.json
+
+[Start person description differs]
+Prediction: Back view: sun hat, navy T‑shirt, light cargo shorts with belt and keys, white crew socks, black shoes.
+Annotation: 
+
+================================================================================
+Image name: themepark_024_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_024.json
+
+[End person description differs]
+Prediction: Blonde ponytail; oversized white T‑shirt; white sneakers; large black backpack; standing with back to camera.
+Annotation: 
+
+================================================================================
+Image name: themepark_025_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_025.json
+
+[Start person description differs]
+Prediction: Short‑haired person in a black T‑shirt and shorts, black sneakers, wearing a tan hiking backpack with gear attached, standing in line facing away.
+Annotation: 
+
+================================================================================
+Image name: themepark_026_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_026.json
+
+[Start person description differs]
+Prediction: Short-haired person in sunglasses, dark graphic T-shirt, khaki shorts, black sneakers; tattooed arms, standing sideways.
+Annotation: 
+
+[End person description differs]
+Prediction: Back view; gray T-shirt, black capri leggings, black sneakers with white soles; hair in a bun with sunglasses on top; hand on hip holding a small black pouch.
+Annotation: 
+
+================================================================================
+Image name: themepark_027_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_027.json
+
+[Start person description differs]
+Prediction: Standing by a rope; bare legs, black‑and‑white Nike sneakers, light crossbody strap hanging.
+Annotation: 
+
+[End person description differs]
+Prediction: Curly-haired person in a mustard button-up, black shorts, and black sneakers, carrying a tan backpack; leaning forward, reaching out with a bottle while holding keys and sunglasses.
+Annotation: 
+
+================================================================================
+Image name: themepark_029_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_029.json
+
+[End person description differs]
+Prediction: Short-haired person in black sunglasses, gray T-shirt, khaki shorts, black sneakers; hands clasped as if clapping.
+Annotation: 
+
+================================================================================
+Image name: themepark_031_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_031.json
+
+[End person description differs]
+Prediction: Wide-brim sun hat, dark graphic T-shirt, black pants, white sneakers, wristband, shoulder bag; hair tucked under hat, standing side-on.
+Annotation: 
+
+================================================================================
+Image name: themepark_032_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_032.json
+
+[Start person description differs]
+Prediction: Back view: short dark hair; white T-shirt, dark shorts, white sneakers; standing in line.
+Annotation: 
+
+================================================================================
+Image name: themepark_033_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_033.json
+
+[Start person description differs]
+Prediction: Short‑haired person in a beige shirt and pants, standing with hands clasped.
+Annotation: Sideview of man in blue long sleeve shirt, black pants, black shoes, with short brown hair.
+
+================================================================================
+Image name: themepark_034_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_034.json
+
+[Start person description differs]
+Prediction: Bright pink hijab and glasses, white long top, magenta pants, black sandals; side-on, arm raised.
+Annotation: 
+
+[End person description differs]
+Prediction: Red baseball cap, short dark hair, black graphic T-shirt, leaning on a yellow railing with back turned.
+Annotation: 
+
+================================================================================
+Image name: themepark_035_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_035.json
+
+[Start person description differs]
+Prediction: Shaved‑head person in a dark T‑shirt and light shorts, black shoes, carrying a camouflage bag, seen from behind.
+Annotation: 
+
+================================================================================
+Image name: themepark_036_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_036.json
+
+[Start person description differs]
+Prediction: Short dark hair; black top, khaki pants, blue-white sneakers; standing with back to camera.
+Annotation: 
+
+================================================================================
+Image name: themepark_038_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_038.json
+
+[Start person description differs]
+Prediction: Short black hair, facing away, wearing a dark T‑shirt.
+Annotation: Short black hair,  black T-shirt, faciung away, leaning on banister, black shorts.
+
+================================================================================
+Image name: themepark_041_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_041.json
+
+[Start person description differs]
+Prediction: Back view: short dark hair, grey T‑shirt, black striped track pants, blue sneakers.
+Annotation: 
+
+================================================================================
+Image name: themepark_042_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_042.json
+
+[Start person description differs]
+Prediction: Navy top, light shorts, white sneakers; short light hair, standing in line.
+Annotation: 
+
+================================================================================
+Image name: themepark_045_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_045.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Person wearing red, white, and blue bracelet, hiddem behind women in yellow shirt and green sweater wrapped around waist.
+
+[End person description differs]
+Prediction: 
+Annotation: Blonde woman with white sunglasses and white tote bag, wearing a pink tank top
+
+================================================================================
+Image name: themepark_049_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_049.json
+
+[End person description differs]
+Prediction: 
+Annotation: Man in bright orange shirt and bright blue shorts, short brown hair, balding
+
+================================================================================
+Image name: themepark_050_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_050.json
+
+[Start person description differs]
+Prediction: Person in a blue baseball cap with a long ponytail, white T‑shirt, black leggings, and purple sneakers, standing sideways and holding a phone.
+Annotation: 
+
+================================================================================
+Image name: themepark_051_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_051.json
+
+[End person description differs]
+Prediction: Light green polo, glasses, short dark hair, crossbody strap; dark pants and shoes; arms crossed.
+Annotation: Woman in pink T-shirt, white jean shorts, and a crossbody brown bag with a black strap; brown hair in pony-tail ad sunglasses
+
+================================================================================
+Image name: themepark_052_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_052.json
+
+[End person description differs]
+Prediction: Side-on person in a long olive puffer coat, light beanie, dark pants, holding a cart.
+Annotation: Man in blue jeans, black shoes, black jacket, and black baseball cap.
+
+================================================================================
+Image name: themepark_054_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_054.json
+
+[Start person description differs]
+Prediction: Blue‑capped LEGO minifigure in blue overalls, yellow face.
+Annotation: Person standing under the frame of the door, wearing light green tank top, white shorts, and black shoes. Short, light hair.
+
+[End person description differs]
+Prediction: Short-haired person in a teal T-shirt, blue denim shorts, dark sneakers, standing sideways with a black backpack.
+Annotation: 
+
+================================================================================
+Image name: themepark_055_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_055.json
+
+[Start person description differs]
+Prediction: Tan hoodie, light backpack, dark pants, white sneakers; back facing camera.
+Annotation: 
+
+[End person description differs]
+Prediction: Adult with short light hair, white sweatshirt, blue jeans, brown shoes, standing sideways holding a child’s hand.
+Annotation: 
+
+================================================================================
+Image name: themepark_057_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_057.json
+
+[Start person description differs]
+Prediction: Light gray hoodie, red shorts, red sneakers; mid-step.
+Annotation: Person in black pants, black shoes, white and black striped T-shirt, and with short hair, holding something in hand; side view.
+
+[End person description differs]
+Prediction: Blue T‑shirt, black shorts, black cap, black‑and‑white sneakers, seen from the back.
+Annotation: Woman in black shoes, blue jean shorts, loght colored T-shirt, and colorful backpack, with ark hair and a green hat.
+
+================================================================================
+Image name: themepark_058_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_058.json
+
+[Start person description differs]
+Prediction: Back view; dark jacket and pants, short hair, crossbody strap; standing in line.
+Annotation: 
+
+[End person description differs]
+Prediction: White‑haired person in a bright blue patterned jacket, black pants with orange/yellow accents, sneakers; standing sideways looking at a phone.
+Annotation: Man with short brown hair, cross body black bag, and holding black and green jacket in gray jeans, black shoes, light long sleeve shirt with collar.
+
+================================================================================
+Image name: themepark_060_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_060.json
+
+[Start person description differs]
+Prediction: Dark hair in a bun; navy patterned top, black leggings, black sneakers, tan crossbody strap; facing away.
+Annotation: 
+
+================================================================================
+Image name: themepark_063_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_063.json
+
+[End person description differs]
+Prediction: Short dark hair; denim jacket; black shorts; white high-top sneakers; holding a small colorful backpack.
+Annotation: 
+
+================================================================================
+Image name: themepark_066_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_066.json
+
+[Start person description differs]
+Prediction: Short dark hair; dark hoodie, red shorts, white crew socks, black-and-white sneakers; standing side-on.
+Annotation: 
+
+[End person description differs]
+Prediction: 
+Annotation: Man with short black hair facing away, wearing khaki shorts, blue shoes, a red T-shirt, blakc sunglasses, and a black backpack.
+
+================================================================================
+Image name: themepark_067_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_067.json
+
+[Start person description differs]
+Prediction: Back view: short-haired person with a light gray backpack, orange sleeveless top, olive cargo pants, and sandals.
+Annotation: 
+
+================================================================================
+Image name: themepark_068_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_068.json
+
+[Start person description differs]
+Prediction: 
+Annotation: Woman with long dark hair, wearing brown flipflops, white shorts, and dark blue long sleeve.
+
+================================================================================
+Image name: themepark_072_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_072.json
+
+[Start person description differs]
+Prediction: Person with medium dark hair, wearing a bright green long-sleeve top with a pattern, black leggings, and black sneakers, standing with back turned.
+Annotation: 
+
+[End person description differs]
+Prediction: Back view: light-brown wavy ponytail with a bright pink scrunchie, light gray T‑shirt.
+Annotation: 
+
+================================================================================
+Image name: themepark_074_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_074.json
+
+[End person description differs]
+Prediction: Gray-haired person in a low ponytail, black sunglasses, gray hoodie, side view.
+Annotation: 
+
+================================================================================
+Image name: themepark_075_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_075.json
+
+[End person description differs]
+Prediction: Person in a black “DAD” Stormtrooper T‑shirt, gray cargo shorts, flip‑flops; short dark hair, sunglasses, hands in pockets.
+Annotation: 
+
+================================================================================
+Image name: themepark_076_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_076.json
+
+[End person description differs]
+Prediction: Person in a bright green polo and dark pants, short dark hair, hands in pockets, standing by the rope.
+Annotation: 
+
+================================================================================
+Image name: themepark_078_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_078.json
+
+[End person description differs]
+Prediction: Out-of-focus person with long light-blonde hair and sunglasses perched on their head; face mostly obscured.
+Annotation: 
+
+================================================================================
+Image name: themepark_085_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_085.json
+
+[Start person description differs]
+Prediction: White cap, dark T‑shirt, blue jeans, black sneakers, crossbody strap; standing at the front.
+Annotation: 
+
+[End person description differs]
+Prediction: Yellow cap, light-blue shirt, khaki shorts, black backpack, dark sneakers; standing side-on.
+Annotation: 
+
+================================================================================
+Image name: themepark_087_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_087.json
+
+[Start person description differs]
+Prediction: Light blue T-shirt, dark shorts, white sneakers, black cap; standing side-on at the front.
+Annotation: Person in black shorts and blue top with black bag.
+
+[End person description differs]
+Prediction: Straw hat, black sleeveless top, denim shorts, blue drawstring backpack, white sneakers—standing with back to camera.
+Annotation: 
+
+================================================================================
+Image name: themepark_090_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_090.json
+
+[Start person description differs]
+Prediction: Long-haired, cap-wearing person in a white T-shirt, black leggings, purple sneakers, carrying a tote bag.
+Annotation: 
+
+================================================================================
+Image name: themepark_092_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_092.json
+
+[Start person description differs]
+Prediction: White T-shirt, black shorts, blue socks and sneakers; hair in a bun; leaning forward.
+Annotation: 
+
+================================================================================
+Image name: themepark_093_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_093.json
+
+[Start person description differs]
+Prediction: Short dark spiky hair; gray jacket; faded jeans; white sneakers; standing with one leg bent, back to camera.
+Annotation: Woman in teal shirt, mostly blocked from view by others, standing at window of kiosk, wearing gray pants and sneakers.
+
+[End person description differs]
+Prediction: Side-facing person in a dark polo and light blue jeans, tan hiking shoes, sunglasses; holding a black bag.
+Annotation: 
+
+================================================================================
+Image name: themepark_096_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_096.json
+
+[Start person description differs]
+Prediction: Short brown hair, light-gray jacket, seen from behind.
+Annotation: 
+
+================================================================================
+Image name: themepark_097_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_097.json
+
+[Start person description differs]
+Prediction: Beige cap, light teal T‑shirt, navy shorts, white crew socks and sneakers; standing with back to camera.
+Annotation: 
+
+================================================================================
+Image name: themepark_098_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_098.json
+
+[Start person description differs]
+Prediction: Back view: short dark hair, black long-sleeve top and pants, red crossbody strap, standing in line.
+Annotation: 
+
+================================================================================
+Image name: themepark_099_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_099.json
+
+[End person description differs]
+Prediction: Blue polo with a round sticker, khaki shorts, light-blue face mask, black sneakers; short gray hair, standing.
+Annotation: 
+
+================================================================================
+Image name: themepark_103_start_end.jpg
+JSON path: /mnt/NAS/home/ds5725/linefinder/GT_json/GT_json_olivia/themepark_103.json
+
+[Start person description differs]
+Prediction: Bearded person in navy T-shirt, light blue shorts, white slides; cap, sunglasses, pink bead necklace; walking.
+Annotation: 
+
+[End person description differs]
+Prediction: Navy T-shirt, light denim shorts, white sneakers; visible arm tattoo; standing with back to the camera.
+Annotation: 
+

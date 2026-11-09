@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_179",
+    "image_name": "outdoor_179_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_179_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "15",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Side-facing person wearing a black cap, navy hooded jacket over a tee, black pants and black sneakers, carrying a gray backpack with hands in pockets.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: shoulder-length blonde hair, light hoodie, white pants, blue sneakers, large dark backpack.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "10",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Side-facing person wearing a black cap, navy hooded jacket over a tee, black pants and black sneakers, carrying a gray backpack with hands in pockets.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: bright orange cap, beige shirt, dark blue denim pants",
+        "Is this image too hard?": "no"
+    }
+}

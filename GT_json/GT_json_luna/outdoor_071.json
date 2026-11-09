@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_071",
+    "image_name": "outdoor_071_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_071_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "13",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "left",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Long blond hair; gray striped tee; jacket tied at waist; blue jeans; black sneakers.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "13",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "left",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Man with short blonde hair and gray shirt",
+        "Is this image too hard?": "no"
+    }
+}

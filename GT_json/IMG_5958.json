@@ -1,0 +1,39 @@
+{
+    "line_shape": {
+        "turns": 0,
+        "description": "Straight"
+    },
+    "people": {
+        "number_of_people": 30,
+        "direction_they_are_facing": "Facing sideways",
+        "start_person_description": "N/A",
+        "end_person_description": "gray shirt green pants ",
+        "counter_person_description": "N/A"
+    },
+    "boundary": {
+        "boundary_present": true,
+        "boundary_types": "stanchions"
+    },
+    "end_of_line": {
+        "visible": "yes",
+        "location_if_visible": "far left",
+        "direction_to_turn_if_not_visible": "N/A"
+    },
+    "start_of_line": {
+        "visible": "no",
+        "location_if_visible": "center right",
+        "direction_to_turn_if_not_visible": "N/A"
+    },
+    "line_purpose": "N/A",
+    "line_completeness": "full",
+    "line_coordinates": {
+        "start": {
+            "x": 85,
+            "y": 310
+        },
+        "end": {
+            "x": 620,
+            "y": 271
+        }
+    }
+}

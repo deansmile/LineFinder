@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_007",
+    "image_name": "outdoor_007_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_007_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "15",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Bearded person in a gray T-shirt and dark joggers, camo baseball cap and sunglasses, holding a white plastic bag, standing side-on.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Blonde woman in a yellow hockey jersey, ripped jeans, white sneakers, walking with a child and toy.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "11",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Bearded person in a gray T-shirt and dark joggers, camo baseball cap and sunglasses, holding a white plastic bag, standing side-on.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person with black shoes and white solers, blue jeans, greenish shirt, light hair",
+        "Is this image too hard?": "no"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_028",
+    "image_name": "themepark_028_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_028_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "19",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Back-facing person with short dark hair, white T-shirt, dark jeans, white cloth in back pocket, holding a small plush/toy.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Short light-brown bob; black-and-white striped long-sleeve top, black pants, black sneakers; crossbody bag; standing with arms crossed.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "19",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Back-facing person with short dark hair, white T-shirt, dark jeans, white cloth in back pocket, holding a small plush/toy.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Short light-brown bob; black-and-white striped long-sleeve top, black pants, black sneakers; crossbody bag; standing with arms crossed.",
+        "Is this image too hard?": "yes"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "image_id": "supermarket_078",
+    "image_name": "supermarket_078_start_end.jpg",
+    "image_path": "olivia_start_end/supermarket_078_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "19",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Short gray-haired man, glasses, tan jacket with raised collar, seen from behind standing by a shopping cart.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Bald, wearing a navy blue hoodie, seen from the side.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "5",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Short gray-haired man, glasses, tan jacket with raised collar, seen from behind standing by a shopping cart.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Woman with long brown hair, orange cardigan, white shirt, and black pants; front view standing behind shopping cart.",
+        "Is this image too hard?": "no"
+    }
+}

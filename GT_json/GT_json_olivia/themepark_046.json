@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_046",
+    "image_name": "themepark_046_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_046_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "11",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Bald person in a white button-up shirt, dark jeans, and brown boots, shown side-on mid-step.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person in a yellow-and-white striped T-shirt, light blue jeans, and white sneakers, short hair, standing side-on at a counter.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "12",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Bald person in a white button-up shirt, dark jeans, and brown boots, shown side-on mid-step.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person in a yellow-and-white striped T-shirt, light blue jeans, and white sneakers, short hair, standing side-on at a counter.",
+        "Is this image too hard?": "no"
+    }
+}
