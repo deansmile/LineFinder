@@ -1,3 +1,4 @@
+from lf_paths import LINEFINDER_ROOT, lf_path  # LINEFINDER_ROOT env var
 import os
 import argparse
 import numpy as np
@@ -277,10 +278,10 @@ def process_one_image(image_path, root, vis_dir=None):
 # -----------------------------
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--root", default="/scratch/ds5725/linefinder/LineFinder")
+    ap.add_argument("--root", default=LINEFINDER_ROOT)
     ap.add_argument(
         "--vis_dir",
-        default="/scratch/ds5725/linefinder/LineFinder/start_end_vis",
+        default=lf_path("start_end_vis"),
         help="Directory to save visualization images. Set to empty string to disable."
     )
     args = ap.parse_args()

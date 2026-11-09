@@ -245,18 +245,7 @@ supermarket_082.jpg
 {"Number of people in line": 12, "What direction is the line facing": "towards", "Do we see the end of line?": "yes", "If yes, where is the end of the line in the image?": "far left", "If not, in what direction should you move camera to see the end of the line?": "N/A", "Description of the person at the end of the line": "older man in white shirt holding a phone, standing near the left edge", "Do we see the start of line?": "yes", "If yes, where is the start of the line in the image?": "far right", "If not, in what direction should you move camera to see the start of the line?": "N/A", "Description of the person at the start of the line": "person in blue shirt leaning toward the self-checkout kiosk"}
 
 supermarket_083.jpg
-{
-  "Number of people in line": 11,
-  "What direction is the line facing": "towards",
-  "Do we see the end of line?": "yes",
-  "If yes, where is the end of the line in the image?": "far left",
-  "If not, in what direction should you move camera to see the end of the line?": "N/A",
-  "Description of the person at the end of the line": "man in white shirt holding a phone, standing at far left",
-  "Do we see the start of line?": "yes",
-  "If yes, where is the start of the line in the image?": "far right",
-  "If not, in what direction should you move camera to see the start of the line?": "N/A",
-  "Description of the person at the start of the line": "man in dark blue shirt leaning near the self-checkout",
-}
+{"Number of people in line": 11, "What direction is the line facing": "towards", "Do we see the end of line?": "yes", "If yes, where is the end of the line in the image?": "far left", "If not, in what direction should you move camera to see the end of the line?": "N/A", "Description of the person at the end of the line": "man in white shirt holding a phone, standing at far left", "Do we see the start of line?": "yes", "If yes, where is the start of the line in the image?": "far right", "If not, in what direction should you move camera to see the start of the line?": "N/A", "Description of the person at the start of the line": "man in dark blue shirt leaning near the self-checkout"}
 
 supermarket_084.jpg
 {"Number of people in line": 9, "What direction is the line facing": "away", "Do we see the end of line?": "yes", "If yes, where is the end of the line in the image?": "far left", "Description of the person at the end of the line": "elderly man wearing sunglasses and a dark coat", "Do we see the start of line?": "yes", "If yes, where is the start of the line in the image?": "far right", "Description of the person at the start of the line": "older man in navy sweater and dark vest"}

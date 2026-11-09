@@ -1,3 +1,6 @@
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "..", "..", "LineFinder", "code"))
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import sys
 from pathlib import Path
 FILE = Path(__file__).absolute()
@@ -125,7 +128,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--list-path',
         type=str,
-        default='/scratch/ds5725/linefinder/LineFinder/code/olivia_luna_image_paths.txt',
+        default=lf_path("code/olivia_luna_image_paths.txt"),
         help='Text file with one image path per line'
     )
     parser.add_argument('--data', type=str, default='data/JointBDOE_weaklabel_coco.yaml')
@@ -142,7 +145,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--out-dir',
         type=str,
-        default='/scratch/ds5725/linefinder/LineFinder/bbox_orient',
+        default=lf_path("bbox_orient"),
         help='Folder to save *_bboxes.npy and *_orient.npy'
     )
 

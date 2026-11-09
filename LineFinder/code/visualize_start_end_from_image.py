@@ -1,3 +1,4 @@
+from lf_paths import LINEFINDER_ROOT  # LINEFINDER_ROOT env var
 import os
 import argparse
 
@@ -10,7 +11,7 @@ from identify_queue_start_end import (
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--image_path", required=True, help="Absolute path to the image")
-    ap.add_argument("--root", default="/scratch/ds5725/linefinder/LineFinder",
+    ap.add_argument("--root", default=LINEFINDER_ROOT,
                     help="Root folder that contains depth_map/, bbox_orient/, focal_length_px.txt")
     ap.add_argument("--out", default=None, help="Output image path (jpg/png). Default: <image_id>_start_end.jpg")
     ap.add_argument("--depth_dir", default=None, help="Optional override for depth_map dir")

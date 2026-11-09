@@ -1,3 +1,4 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 import csv
 import numpy as np
@@ -6,13 +7,13 @@ import cv2
 from identify_queue_start_end import identify_start_end_bboxes, load_fpx_from_txt
 
 # ---------- INPUTS ----------
-IMAGE_LIST_TXT = "olivia_luna_image_paths.txt"
+IMAGE_LIST_TXT = lf_path("image_paths.txt")
 
-DEPTH_DIR = "/scratch/ds5725/linefinder/LineFinder/depth_map"
-BBOX_ORIENT_DIR = "/scratch/ds5725/linefinder/LineFinder/bbox_orient"
-FOCAL_TXT = "/scratch/ds5725/linefinder/LineFinder/focal_length_px.txt"
+DEPTH_DIR = lf_path("depth_map")
+BBOX_ORIENT_DIR = lf_path("bbox_orient")
+FOCAL_TXT = lf_path("focal_length_px.txt")
 
-OUTPUT_CSV = "OL_line_visibility.csv"
+OUTPUT_CSV = "line_visibility_new.csv"
 
 
 # ---------- Helper ----------
@@ -22,13 +23,17 @@ def read_image_list(txt_path):
     return lines
 
 
-def _bbox_edge_flags(bbox_xyxy, W, H, margin_px):
+def _bbox_edge_flags_horizontal(bbox_xyxy, W):
     x1, y1, x2, y2 = [float(v) for v in bbox_xyxy.tolist()]
-    near_left   = x1 <= margin_px
-    near_right  = x2 >= (W - 1 - margin_px)
-    near_top    = y1 <= margin_px
-    near_bottom = y2 >= (H - 1 - margin_px)
-    touches_any = near_left or near_right or near_top or near_bottom
+    bbox_w = max(x2 - x1, 1.0)
+
+    dist_left = x1
+    dist_right = (W - 1) - x2
+
+    near_left = dist_left < bbox_w
+    near_right = dist_right < bbox_w
+    touches_any = near_left or near_right
+
     return touches_any, near_left, near_right
 
 
@@ -46,13 +51,11 @@ def _location_bucket_from_center_x(cx, W):
         return "far right"
 
 
-def endpoint_fields(bbox_xyxy, W, H, margin_px):
+def endpoint_fields(bbox_xyxy, W, H=None, margin_px=None):
     x1, y1, x2, y2 = [float(v) for v in bbox_xyxy.tolist()]
     cx = 0.5 * (x1 + x2)
 
-    touches_any, near_left, near_right = _bbox_edge_flags(
-        bbox_xyxy, W, H, margin_px
-    )
+    touches_any, near_left, near_right = _bbox_edge_flags_horizontal(bbox_xyxy, W)
 
     if touches_any:
         visible = "no"
@@ -65,8 +68,7 @@ def endpoint_fields(bbox_xyxy, W, H, margin_px):
 
     return visible, location, turn
 
-
-def process_one_image(img_path, margin_px=10):
+def process_one_image(img_path):
     image_id = os.path.splitext(os.path.basename(img_path))[0]
 
     depth_path  = os.path.join(DEPTH_DIR, image_id + ".npy")
@@ -103,8 +105,8 @@ def process_one_image(img_path, margin_px=10):
     start_bbox = res["start_bbox_xyxy"]
     end_bbox   = res["end_bbox_xyxy"]
 
-    end_visible, end_loc, end_turn = endpoint_fields(end_bbox, W, H, margin_px)
-    start_visible, start_loc, start_turn = endpoint_fields(start_bbox, W, H, margin_px)
+    end_visible, end_loc, end_turn = endpoint_fields(end_bbox, W)
+    start_visible, start_loc, start_turn = endpoint_fields(start_bbox, W)
 
     pred = {
         "image_id": image_id,
@@ -124,7 +126,12 @@ def process_one_image(img_path, margin_px=10):
 
 # ---------- MAIN ----------
 def main():
-    margin_px = 10
+
+    # img_path="$LINEFINDER_ROOT/Images/QueuesOutdoors/outdoor_003.jpg"
+    # pred, status = process_one_image(img_path)
+    # print(pred)
+    # exit()
+    
     image_paths = read_image_list(IMAGE_LIST_TXT)
 
     print(f"Loaded {len(image_paths)} image paths")
@@ -133,7 +140,7 @@ def main():
     failures = 0
 
     for img_path in image_paths:
-        pred, status = process_one_image(img_path, margin_px)
+        pred, status = process_one_image(img_path)
 
         if status != "ok":
             failures += 1

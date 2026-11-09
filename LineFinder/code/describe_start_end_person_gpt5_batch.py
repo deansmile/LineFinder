@@ -1,3 +1,4 @@
+from lf_paths import LINEFINDER_ROOT, lf_path  # LINEFINDER_ROOT env var
 import os
 try:  # load API keys from the repo-root .env (python-dotenv optional)
     from dotenv import load_dotenv, find_dotenv
@@ -142,23 +143,23 @@ def process_one_image(image_path, args):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--root", default="/scratch/ds5725/linefinder/LineFinder")
+    ap.add_argument("--root", default=LINEFINDER_ROOT)
     ap.add_argument("--model", default="gpt-5")
     ap.add_argument("--pad", type=int, default=8, help="Padding around bbox crop (pixels)")
     ap.add_argument("--ransac_dist_thresh", type=float, default=0.8)
     ap.add_argument("--ransac_min_inliers_ratio", type=float, default=0.3)
     ap.add_argument(
         "--output_csv",
-        default="/scratch/ds5725/linefinder/LineFinder/start_end_person_descriptions.csv",
+        default=lf_path("start_end_person_descriptions.csv"),
     )
     args = ap.parse_args()
 
     openai.api_key = os.getenv("OPENAI_API_KEY_PROJ") or os.getenv("OPENAI_API_KEY")
 
     image_dirs = [
-        "/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew",
-        "/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks",
-        "/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors",
+        lf_path("Images/QueuesInSupermarketNew"),
+        lf_path("Images/QueuesInThemeParks"),
+        lf_path("Images/QueuesOutdoors"),
     ]
 
     image_paths = list_all_images(image_dirs)

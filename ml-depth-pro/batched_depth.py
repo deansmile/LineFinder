@@ -1,3 +1,6 @@
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "..", "LineFinder", "code"))
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 import PIL.Image
 import depth_pro
@@ -6,10 +9,10 @@ import numpy as np
 from tqdm import tqdm
 
 # ------------- Paths & Config -------------
-IMAGE_LIST_PATH = "/scratch/ds5725/linefinder/LineFinder/code/olivia_luna_image_paths.txt"
+IMAGE_LIST_PATH = lf_path("code/olivia_luna_image_paths.txt")
 
-DEPTH_OUT_DIR = "/scratch/ds5725/linefinder/LineFinder/depth_map"
-FOCAL_TXT_PATH = "/scratch/ds5725/linefinder/LineFinder/focal_length_px.txt"
+DEPTH_OUT_DIR = lf_path("depth_map")
+FOCAL_TXT_PATH = lf_path("focal_length_px.txt")
 
 os.makedirs(DEPTH_OUT_DIR, exist_ok=True)
 

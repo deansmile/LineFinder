@@ -6,16 +6,27 @@ except ImportError:
     pass
 # import openai
 
-# openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # models = openai.Model.list()
 
 # for m in models["data"]:
 #     print(m["id"])
 
-from google import genai
+# from google import genai
 
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-for m in client.models.list():
-    print(m.name)
+# for m in client.models.list():
+#     print(m.name)
+
+from openai import OpenAI
+import os
+
+client = OpenAI(
+    api_key=os.getenv("MOONSHOT_API_KEY"),
+    base_url="https://api.moonshot.ai/v1",
+)
+
+models = client.models.list()
+
+for m in models.data:
+    print(m.id)

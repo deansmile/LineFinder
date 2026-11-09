@@ -1,7 +1,8 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 
 gt_folder = "/vast/ds5725/linefinder/LineFinder/GT_json"
-img_folder = "/scratch/ds5725/linefinder/LineFinder/Images"
+img_folder = lf_path("Images")
 output_txt = "images_without_gt.txt"
 
 # 1️⃣ Collect GT names

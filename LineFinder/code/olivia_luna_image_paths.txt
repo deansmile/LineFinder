@@ -181,7 +181,6 @@
 /scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_078.jpg
 /scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_079.jpg
 /scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_080.jpg
-/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_081.jpg
 /scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_082.jpg
 /scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_083.jpg
 /scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_084.jpg

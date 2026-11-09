@@ -16,7 +16,7 @@
         "Is this image too hard?": "no"
     },
     "annotation": {
-        "Number of people in line": "8",
+        "Number of people in line": "6",
         "What direction is the line facing": "away",
         "Do we see the end of line?": "yes",
         "If yes, where is the end of the line in the image?": "far left",

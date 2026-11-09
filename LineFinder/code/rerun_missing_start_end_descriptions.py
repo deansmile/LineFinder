@@ -1,3 +1,4 @@
+from lf_paths import LINEFINDER_ROOT, lf_path  # LINEFINDER_ROOT env var
 import os
 try:  # load API keys from the repo-root .env (python-dotenv optional)
     from dotenv import load_dotenv, find_dotenv
@@ -190,7 +191,7 @@ def process_missing_sides(image_id, roles_to_process, image_path, args):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--root", default="/scratch/ds5725/linefinder/LineFinder")
+    ap.add_argument("--root", default=LINEFINDER_ROOT)
     ap.add_argument("--model", default="gpt-5")
     ap.add_argument("--pad", type=int, default=8)
     ap.add_argument("--ransac_dist_thresh", type=float, default=0.8)
@@ -198,15 +199,15 @@ def main():
 
     ap.add_argument(
         "--slurm_out",
-        default="/scratch/ds5725/linefinder/LineFinder/code/slurm-4110108.out",
+        default=lf_path("code/slurm-4110108.out"),
     )
     ap.add_argument(
         "--input_csv",
-        default="/scratch/ds5725/linefinder/LineFinder/code/start_end_person_descriptions.csv",
+        default=lf_path("code/start_end_person_descriptions.csv"),
     )
     ap.add_argument(
         "--output_csv",
-        default="/scratch/ds5725/linefinder/LineFinder/code/start_end_person_descriptions_rerun.csv",
+        default=lf_path("code/start_end_person_descriptions_rerun.csv"),
     )
     args = ap.parse_args()
 

@@ -26,6 +26,6 @@
         "If yes, where is the start of the line in the image?": "N/A",
         "If not, in what direction should you move camera to see the start of the line?": "right",
         "Description of the person at the start of the line": "",
-        "Is this image too hard?": "no"
+        "Is this image too hard?": "yes"
     }
 }

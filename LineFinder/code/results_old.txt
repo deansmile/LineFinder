@@ -1,0 +1,70 @@
+GPT:
+Loaded 109 JSON files
+Per-key accuracy:
+number_of_turns                         : 76.85%
+line_shape                              : 70.37%
+line_facing_direction                   : 29.63%
+number_of_people_in_line                : 13.89%
+line_purpose                            : 16.67%
+start_person_description                : 0.00%
+end_person_description                  : 0.00%
+counter_person_description              : 46.30%
+boundary_present                        : 92.59%
+boundary_types                          : 76.85%
+end_of_line_visible                     : 25.00%
+end_of_line_location_if_visible         : 16.67%
+direction_to_turn_to_see_end_if_not_visible: 23.15%
+start_of_line_visible                   : 25.93%
+start_of_line_location_if_visible       : 18.52%
+direction_to_turn_to_see_start_if_not_visible: 27.78%
+line_completeness                       : 86.11%
+Overall accuracy: 38.02%
+start & end person
+Images with GT found: 108
+Start total evaluated: 108
+Start Gemini-compared: 103
+Start accuracy: 20.37%
+End total evaluated: 108
+End Gemini-compared: 103
+End accuracy: 17.59%
+Overall accuracy: 18.98%
+
+Gemini:
+Matched 108 images between results and GT
+Per-field accuracy:
+line_facing_direction                   : 61.11%
+end_of_line_visible                     : 38.89%
+end_of_line_location_if_visible         : 25.93%
+direction_to_turn_to_see_end_if_not_visible: 12.04%
+start_of_line_visible                   : 35.19%
+start_of_line_location_if_visible       : 19.44%
+direction_to_turn_to_see_start_if_not_visible: 28.70%
+Overall accuracy: 31.61%
+start & end person
+Start total evaluated: 108
+Start Gemini-compared: 98
+Start accuracy: 23.15%
+End total evaluated: 108
+End Gemini-compared: 93
+End accuracy: 16.67%
+Overall accuracy: 19.91%
+
+Kimi:
+Matched 108 images between results and GT
+Per-field accuracy:
+  line_facing_direction: 45.37%
+  end_of_line_visible: 48.15%
+  end_of_line_location_if_visible: 44.44%
+  direction_to_turn_to_see_end_if_not_visible: 34.26%
+  start_of_line_visible: 50.93%
+  start_of_line_location_if_visible: 39.81%
+  direction_to_turn_to_see_start_if_not_visible: 41.67%
+Overall accuracy: 43.52%
+start & end person
+Start total evaluated: 108
+Start Gemini-compared: 71
+Start accuracy: 13.89%
+End total evaluated: 108
+End Gemini-compared: 63
+End accuracy: 18.52%
+Overall accuracy: 16.20%

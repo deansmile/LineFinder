@@ -1,3 +1,4 @@
+from lf_paths import LINEFINDER_ROOT  # LINEFINDER_ROOT env var
 # line_visibility_location.py
 import argparse
 import json
@@ -65,7 +66,7 @@ def endpoint_fields(bbox_xyxy, W, H, margin_px):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--image_id", required=True)
-    ap.add_argument("--root", default="/scratch/ds5725/linefinder/LineFinder")
+    ap.add_argument("--root", default=LINEFINDER_ROOT)
     ap.add_argument("--margin_px", type=int, default=10,
                     help="Pixels to consider 'close to edge' (default 10)")
     ap.add_argument("--out_json", default=None, help="Optional output json path")

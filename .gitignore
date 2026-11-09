@@ -81,3 +81,12 @@ weights/
 !JointBDOE/data/*.yaml
 
 # ---- Individual files over 10 MB not covered above (appended automatically) ----
+
+# ---- Shannon-merged data folders (under LineFinder/ after the 2026-11 merge) ----
+lineenv/
+.cache/
+LineFinder/airport_start_end/
+LineFinder/bank_start_end/
+LineFinder/outdoor_start_end/
+LineFinder/supermarket_start_end/
+LineFinder/themepark_start_end/

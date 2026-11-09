@@ -1,3 +1,4 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 # batch_line_visibility.py
 import os
 import csv
@@ -9,12 +10,12 @@ from eval_gpt import load_all_json_recursive_with_paths  # same as your attached
 from identify_queue_start_end import identify_start_end_bboxes, load_fpx_from_txt
 
 
-GT_FOLDER = "/scratch/ds5725/linefinder/LineFinder/GT_json"
-IMG_FOLDER = "/scratch/ds5725/linefinder/LineFinder/Images"
+GT_FOLDER = lf_path("GT_json")
+IMG_FOLDER = lf_path("Images")
 
-DEPTH_DIR = "/scratch/ds5725/linefinder/LineFinder/depth_map"
-BBOX_ORIENT_DIR = "/scratch/ds5725/linefinder/LineFinder/bbox_orient"
-FOCAL_TXT = "/scratch/ds5725/linefinder/LineFinder/focal_length_px.txt"
+DEPTH_DIR = lf_path("depth_map")
+BBOX_ORIENT_DIR = lf_path("bbox_orient")
+FOCAL_TXT = lf_path("focal_length_px.txt")
 
 def flatten_and_fix_gt(gt_entry: dict) -> dict:
     """

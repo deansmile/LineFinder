@@ -1,3 +1,4 @@
+from lf_paths import LINEFINDER_ROOT  # LINEFINDER_ROOT env var
 import os
 try:  # load API keys from the repo-root .env (python-dotenv optional)
     from dotenv import load_dotenv, find_dotenv
@@ -69,7 +70,7 @@ def ask_gpt5_describe_person(img_b64_png: str, role_label: str, model: str = "gp
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--image_path", required=True)
-    ap.add_argument("--root", default="/scratch/ds5725/linefinder/LineFinder")
+    ap.add_argument("--root", default=LINEFINDER_ROOT)
     ap.add_argument("--model", default="gpt-5")
     ap.add_argument("--pad", type=int, default=8, help="Padding around bbox crop (pixels)")
     ap.add_argument("--ransac_dist_thresh", type=float, default=0.8)

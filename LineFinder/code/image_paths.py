@@ -1,9 +1,10 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 
 folders = [
-    "/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew",
-    "/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks",
-    "/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors",
+    lf_path("Images/QueuesInSupermarketNew"),
+    lf_path("Images/QueuesInThemeParks"),
+    lf_path("Images/QueuesOutdoors"),
 ]
 
 output_file = "olivia_luna_image_paths.txt"

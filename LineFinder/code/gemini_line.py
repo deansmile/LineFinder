@@ -113,18 +113,46 @@ def generate_reranking(image_paths, output_file):
 
 
 # =========================
-# Load images (same as before)
+# Image sets
 # =========================
-root = "/scratch/ds5725/linefinder/LineFinder/Images"
-subfolders = ["QueuesOutdoors","QueuesInSupermarketNew","QueuesInThemeParks"]
+IMAGE_SETS = {
+    # Original collection (airports, supermarkets, banks, online images)
+    "old": ["QueuesInAirports", "QueuesInSupermarkets", "QueuesInBanks", "ImagesOnline"],
+    # Luna/Olivia collection
+    "new": ["QueuesOutdoors", "QueuesInSupermarketNew", "QueuesInThemeParks"],
+}
+IMAGE_SETS["full"] = IMAGE_SETS["old"] + IMAGE_SETS["new"]
 
-all_files = []
-for sub in subfolders:
-    folder_path = os.path.join(root, sub)
-    for dirpath, _, filenames in os.walk(folder_path):
-        for f in filenames:
-            all_files.append(os.path.abspath(os.path.join(dirpath, f)))
+DEFAULT_OUTPUTS = {
+    "old": "gemini_line_old.jsonl",
+    "new": "gemini_line_luna_olivia.jsonl",
+    "full": "gemini_line_full.jsonl",
+}
 
-all_files.sort()
 
-generate_reranking(all_files, "gemini_line_luna_olivia.jsonl")
+def collect_images(root, subfolders):
+    all_files = []
+    for sub in subfolders:
+        folder_path = os.path.join(root, sub)
+        for dirpath, _, filenames in os.walk(folder_path):
+            for f in filenames:
+                all_files.append(os.path.abspath(os.path.join(dirpath, f)))
+    all_files.sort()
+    return all_files
+
+
+if __name__ == "__main__":
+    import argparse
+    from lf_paths import lf_path
+
+    ap = argparse.ArgumentParser(description="Ask Gemini the LineFinder questions for a set of images.")
+    ap.add_argument("--image_set", required=True, choices=sorted(IMAGE_SETS),
+                    help="old = airports/supermarkets/banks/online; new = outdoors/supermarket-new/theme parks; full = both")
+    ap.add_argument("--output", default=None,
+                    help="Output JSONL (default depends on --image_set)")
+    args = ap.parse_args()
+
+    files = collect_images(lf_path("Images"), IMAGE_SETS[args.image_set])
+    out = args.output or DEFAULT_OUTPUTS[args.image_set]
+    print(f"{args.image_set}: {len(files)} images -> {out}")
+    generate_reranking(files, out)

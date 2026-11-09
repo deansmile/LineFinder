@@ -1,3 +1,4 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 import json
 
@@ -276,7 +277,7 @@ if __name__ == "__main__":
     results = read_result_file("gpt_line_test.jsonl")
     print(f"Loaded {len(results)} records")
 
-    folder = "/scratch/ds5725/linefinder/LineFinder/GT_json"
+    folder = lf_path("GT_json")
     gt_dict, gt_paths = load_all_json_recursive_with_paths(folder)
     print(f"Loaded {len(gt_dict)} JSON files")
 
@@ -287,7 +288,7 @@ if __name__ == "__main__":
     write_image_paths_with_gt_json(
         gt_dict,
         output_txt="images_with_gt_json.txt",
-        image_root=None,  # e.g. "/scratch/ds5725/linefinder/LineFinder/Images"
+        image_root=None,  # e.g. "$LINEFINDER_ROOT/Images"
     )
     exit()
     # Optional: quick diff to see mismatches

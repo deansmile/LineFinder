@@ -1,3 +1,4 @@
+from lf_paths import LINEFINDER_ROOT  # LINEFINDER_ROOT env var
 import os
 import argparse
 import numpy as np
@@ -7,6 +8,7 @@ from visual_3D import (
     load_depth_npy,
     load_orientations_npy,
     bbox_centers_to_3d,
+    project_points_3d_to_2d,
     ransac_line_3d,
     estimate_queue_forward_direction,
 )
@@ -24,75 +26,145 @@ def load_fpx_from_txt(txt_path: str, image_id: str) -> float:
                 return float(v)
     raise KeyError(f"fpx not found for image_id={image_id} in {txt_path}")
 
+# def pick_start_end_indices(points_3d,
+#                            line_point,
+#                            queue_forward_dir_3d,
+#                            inlier_mask=None,
+#                            gap_scale=3.0,
+#                            max_gap=None):
+#     """
+#     Robust endpoint selection:
+#     - Project points onto queue direction -> 1D coordinate t
+#     - Sort by t
+#     - Split into contiguous segments using neighbor gaps
+#     - Take endpoints from the largest segment (the actual queue)
+    
+#     START = head (max t), END = tail (min t)
+
+#     gap_scale controls how strict contiguity is:
+#       max_gap = gap_scale * median_neighbor_gap (if max_gap is None)
+#     """
+#     q = np.asarray(queue_forward_dir_3d, dtype=np.float32)
+#     q = q / (np.linalg.norm(q) + 1e-8)
+
+#     t_vals = (points_3d - line_point[None, :]) @ q  # (N,)
+
+#     # restrict candidate points
+#     if inlier_mask is not None and inlier_mask.shape[0] == points_3d.shape[0]:
+#         idx_pool = np.flatnonzero(inlier_mask)
+#     else:
+#         idx_pool = np.arange(points_3d.shape[0])
+
+#     if idx_pool.size < 2:
+#         i = int(idx_pool[0]) if idx_pool.size == 1 else 0
+#         return i, i, t_vals
+
+#     # sort pool by t
+#     pool_t = t_vals[idx_pool]
+#     order = np.argsort(pool_t)
+#     idx_sorted = idx_pool[order]
+#     t_sorted = pool_t[order]
+
+#     gaps = np.diff(t_sorted)
+#     if gaps.size == 0:
+#         i = int(idx_sorted[0])
+#         return i, i, t_vals
+
+#     # auto threshold based on typical spacing along the line
+#     if max_gap is None:
+#         med_gap = float(np.median(gaps))
+#         med_gap = max(med_gap, 1e-3)
+#         max_gap = gap_scale * med_gap
+
+#     # find contiguous segments where gap <= max_gap
+#     breaks = np.where(gaps > max_gap)[0]
+#     seg_starts = np.r_[0, breaks + 1]
+#     seg_ends = np.r_[breaks, len(t_sorted) - 1]
+#     seg_lengths = seg_ends - seg_starts + 1
+
+#     # pick the largest segment = main queue chain
+#     best = int(np.argmax(seg_lengths))
+#     s0, s1 = int(seg_starts[best]), int(seg_ends[best])
+
+#     chain_idx = idx_sorted[s0:s1 + 1]
+#     chain_t = t_sorted[s0:s1 + 1]
+
+#     # endpoints within the chain
+#     start_idx = int(chain_idx[np.argmax(chain_t)])  # head
+#     end_idx   = int(chain_idx[np.argmin(chain_t)])  # tail
+#     return start_idx, end_idx, t_vals
+
 def pick_start_end_indices(points_3d,
+                           centers_uv,
+                           depth_shape,
+                           f_px,
                            line_point,
                            queue_forward_dir_3d,
                            inlier_mask=None,
-                           gap_scale=3.0,
-                           max_gap=None):
+                           axis_extent_3d=1.0):
     """
-    Robust endpoint selection:
-    - Project points onto queue direction -> 1D coordinate t
-    - Sort by t
-    - Split into contiguous segments using neighbor gaps
-    - Take endpoints from the largest segment (the actual queue)
-    
-    START = head (max t), END = tail (min t)
+    Pick queue endpoints in image space.
 
-    gap_scale controls how strict contiguity is:
-      max_gap = gap_scale * median_neighbor_gap (if max_gap is None)
+    Steps:
+    - Use the fitted 3D queue direction to build a short 3D axis around line_point.
+    - Project that 3D axis back to 2D using the same camera model.
+    - Project each candidate bbox center in 2D onto this 2D axis to get a 1D coordinate s.
+    - START = point with maximum s (head of queue).
+    - END   = point with minimum s (tail of queue).
+
+    This keeps the queue direction estimate in 3D, but makes the endpoint ordering
+    happen in the image plane after projection.
     """
     q = np.asarray(queue_forward_dir_3d, dtype=np.float32)
     q = q / (np.linalg.norm(q) + 1e-8)
 
-    t_vals = (points_3d - line_point[None, :]) @ q  # (N,)
-
-    # restrict candidate points
     if inlier_mask is not None and inlier_mask.shape[0] == points_3d.shape[0]:
         idx_pool = np.flatnonzero(inlier_mask)
     else:
         idx_pool = np.arange(points_3d.shape[0])
 
-    if idx_pool.size < 2:
-        i = int(idx_pool[0]) if idx_pool.size == 1 else 0
-        return i, i, t_vals
+    if idx_pool.size == 0:
+        return 0, 0, np.zeros((points_3d.shape[0],), dtype=np.float32), None, None
+    if idx_pool.size == 1:
+        i = int(idx_pool[0])
+        s_vals = np.full((points_3d.shape[0],), np.nan, dtype=np.float32)
+        s_vals[i] = 0.0
+        return i, i, s_vals, None, None
 
-    # sort pool by t
-    pool_t = t_vals[idx_pool]
-    order = np.argsort(pool_t)
-    idx_sorted = idx_pool[order]
-    t_sorted = pool_t[order]
+    # Build a short 3D axis centered on the fitted line point and aligned with the queue direction.
+    axis_pts_3d = np.stack([
+        line_point - axis_extent_3d * q,
+        line_point + axis_extent_3d * q,
+    ], axis=0)
+    axis_uv = project_points_3d_to_2d(axis_pts_3d, depth_shape, f_px)
 
-    gaps = np.diff(t_sorted)
-    if gaps.size == 0:
-        i = int(idx_sorted[0])
-        return i, i, t_vals
+    if axis_uv.shape[0] != 2:
+        # Fallback: if projection is degenerate, order directly in 3D.
+        t_vals = (points_3d - line_point[None, :]) @ q
+        pool_t = t_vals[idx_pool]
+        start_idx = int(idx_pool[np.argmax(pool_t)])
+        end_idx = int(idx_pool[np.argmin(pool_t)])
+        return start_idx, end_idx, t_vals.astype(np.float32), None, None
 
-    # auto threshold based on typical spacing along the line
-    if max_gap is None:
-        med_gap = float(np.median(gaps))
-        med_gap = max(med_gap, 1e-3)
-        max_gap = gap_scale * med_gap
+    axis_dir_2d = axis_uv[1] - axis_uv[0]
+    axis_norm = float(np.linalg.norm(axis_dir_2d))
+    if axis_norm < 1e-6:
+        t_vals = (points_3d - line_point[None, :]) @ q
+        pool_t = t_vals[idx_pool]
+        start_idx = int(idx_pool[np.argmax(pool_t)])
+        end_idx = int(idx_pool[np.argmin(pool_t)])
+        return start_idx, end_idx, t_vals.astype(np.float32), axis_uv[0], axis_uv[1]
 
-    # find contiguous segments where gap <= max_gap
-    breaks = np.where(gaps > max_gap)[0]
-    seg_starts = np.r_[0, breaks + 1]
-    seg_ends = np.r_[breaks, len(t_sorted) - 1]
-    seg_lengths = seg_ends - seg_starts + 1
+    axis_dir_2d = axis_dir_2d / axis_norm
 
-    # pick the largest segment = main queue chain
-    best = int(np.argmax(seg_lengths))
-    s0, s1 = int(seg_starts[best]), int(seg_ends[best])
+    s_vals = np.full((points_3d.shape[0],), np.nan, dtype=np.float32)
+    rel_uv = centers_uv - axis_uv[0][None, :]
+    s_vals[:] = rel_uv @ axis_dir_2d
 
-    chain_idx = idx_sorted[s0:s1 + 1]
-    chain_t = t_sorted[s0:s1 + 1]
-
-    # endpoints within the chain
-    start_idx = int(chain_idx[np.argmax(chain_t)])  # head
-    end_idx   = int(chain_idx[np.argmin(chain_t)])  # tail
-    return start_idx, end_idx, t_vals
-
-
+    pool_s = s_vals[idx_pool]
+    start_idx = int(idx_pool[np.argmax(pool_s)])
+    end_idx = int(idx_pool[np.argmin(pool_s)])
+    return start_idx, end_idx, s_vals, axis_uv[0], axis_uv[1]
 
 def identify_start_end_bboxes(
     image_path: str,
@@ -168,11 +240,14 @@ def identify_start_end_bboxes(
     )
 
     # Pick endpoints along the signed queue direction
-    start_valid_idx, end_valid_idx, t_vals = pick_start_end_indices(
+    start_valid_idx, end_valid_idx, s_vals, axis_uv_start, axis_uv_end = pick_start_end_indices(
         points_3d=points_3d,
+        centers_uv=centers_uv,
+        depth_shape=depth.shape,
+        f_px=f_px,
         line_point=line_point,
         queue_forward_dir_3d=queue_forward_dir_3d,
-        inlier_mask=inlier_mask
+        inlier_mask=inlier_mask,
     )
 
     start_orig_idx = int(valid_to_orig_idx[start_valid_idx])
@@ -184,7 +259,9 @@ def identify_start_end_bboxes(
         "line_point": line_point,
         "line_dir": line_dir,
         "inlier_mask": inlier_mask,
-        "t_vals": t_vals,
+        "s_vals": s_vals,
+        "axis_uv_start": axis_uv_start,
+        "axis_uv_end": axis_uv_end,
 
         "start_valid_idx": start_valid_idx,
         "end_valid_idx": end_valid_idx,
@@ -194,7 +271,6 @@ def identify_start_end_bboxes(
         "start_bbox_xyxy": bboxes_all[start_orig_idx],
         "end_bbox_xyxy": bboxes_all[end_orig_idx],
     }
-
 
 # -----------------------------
 # Optional: visualization
@@ -228,14 +304,14 @@ def visualize_start_end_on_image(image_path: str,
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--image_id", required=True)
-    ap.add_argument("--root", default="/scratch/ds5725/linefinder/LineFinder")
+    ap.add_argument("--root", default=LINEFINDER_ROOT)
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
     image_id = args.image_id
     root = args.root
 
-    image_path = os.path.join(root, "Images/QueuesInThemeParks", f"{image_id}.jpg")
+    image_path = os.path.join(root, "Images/QueuesOutdoors", f"{image_id}.jpg")
     depth_path = os.path.join(root, "depth_map", f"{image_id}.npy")
     bbox_path  = os.path.join(root, "bbox_orient", f"{image_id}_bboxes.npy")
     orient_path = os.path.join(root, "bbox_orient", f"{image_id}_orient.npy")
@@ -259,13 +335,12 @@ def main():
     print("start_orig_idx:", res["start_orig_idx"], "start_bbox:", res["start_bbox_xyxy"].tolist())
     print("end_orig_idx:",   res["end_orig_idx"],   "end_bbox:",   res["end_bbox_xyxy"].tolist())
 
-    if args.out is not None:
-        visualize_start_end_on_image(
-            image_path=image_path,
-            start_bbox=res["start_bbox_xyxy"],
-            end_bbox=res["end_bbox_xyxy"],
-            out_path=args.out,
-        )
+    visualize_start_end_on_image(
+        image_path=image_path,
+        start_bbox=res["start_bbox_xyxy"],
+        end_bbox=res["end_bbox_xyxy"],
+        out_path=args.out,
+    )
 
 if __name__ == "__main__":
     main()

@@ -1,7 +1,8 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 from PIL import Image
 
-folder = "/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew"
+folder = lf_path("Images/QueuesInSupermarketNew")
 
 valid_ext = (".avif", ".jpeg", ".jpg", ".png", ".webp")
 

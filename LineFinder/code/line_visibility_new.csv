@@ -1,0 +1,517 @@
+image_id,image_path,status,end_of_line_visible,end_of_line_location_if_visible,direction_to_turn_to_see_end_if_not_visible,start_of_line_visible,start_of_line_location_if_visible,direction_to_turn_to_see_start_if_not_visible
+IMG_5954,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5954.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_5955,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5955.JPG,ok,no,N/A,left,no,N/A,right
+IMG_5956,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5956.JPG,ok,yes,far left,N/A,yes,center right,N/A
+IMG_5958,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5958.JPG,ok,no,N/A,left,no,N/A,right
+IMG_5962,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5962.JPG,ok,no,N/A,left,no,N/A,right
+IMG_5964,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5964.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_5966,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5966.JPG,ok,no,N/A,left,no,N/A,right
+IMG_5968,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5968.JPG,ok,no,N/A,left,no,N/A,right
+IMG_5970,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5970.JPG,ok,no,N/A,right,yes,far left,N/A
+IMG_5972,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5972.JPG,ok,yes,far right,N/A,no,N/A,left
+IMG_5974,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5974.JPG,ok,no,N/A,left,no,N/A,right
+IMG_5978,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5978.JPG,ok,no,N/A,left,no,N/A,right
+IMG_5980,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5980.JPG,ok,yes,far right,N/A,yes,center,N/A
+IMG_5982,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/IMG_5982.JPG,ok,yes,center left,N/A,no,N/A,right
+frame0002,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/frame0002.jpg,ok,yes,far right,N/A,no,N/A,left
+frame0004,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/frame0004.jpg,ok,yes,center left,N/A,yes,far right,N/A
+frame0006,/mnt/NAS/home/ds5725/linefinder/Images/ImagesOnline/frame0006.jpg,ok,yes,far right,N/A,yes,far left,N/A
+IMG_6669,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6669.JPG,ok,yes,center right,N/A,no,N/A,left
+IMG_6670,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6670.JPG,ok,yes,center right,N/A,yes,far left,N/A
+IMG_6671,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6671.JPG,ok,no,N/A,right,yes,center,N/A
+IMG_6672,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6672.JPG,ok,yes,far left,N/A,no,N/A,right
+IMG_6673,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6673.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6674,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6674.JPG,ok,yes,center left,N/A,no,N/A,right
+IMG_6675,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6675.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6676,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6676.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6677,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6677.JPG,ok,yes,far left,N/A,no,N/A,right
+IMG_6678,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6678.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6679,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6679.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6680,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6680.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6681,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6681.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6682,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6682.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6683,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6683.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6684,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6684.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6685,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6685.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6686,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6686.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6687,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6687.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6688,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6688.JPG,ok,yes,far left,N/A,no,N/A,right
+IMG_6689,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6689.JPG,ok,yes,center right,N/A,yes,far left,N/A
+IMG_6690,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6690.JPG,ok,yes,center left,N/A,yes,far right,N/A
+IMG_6691,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6691.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6692,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6692.JPG,ok,yes,center left,N/A,no,N/A,right
+IMG_6693,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6693.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6694,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6694.JPG,ok,yes,center right,N/A,no,N/A,left
+IMG_6695,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6695.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_6696,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6696.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6697,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6697.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6698,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6698.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6699,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6699.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6700,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6700.JPG,ok,yes,center right,N/A,yes,far left,N/A
+IMG_6701,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6701.JPG,ok,no,N/A,right,yes,center left,N/A
+IMG_6702,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6702.JPG,ok,yes,center left,N/A,no,N/A,right
+IMG_6703,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6703.JPG,ok,yes,far left,N/A,no,N/A,right
+IMG_6704,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6704.JPG,ok,no,N/A,right,yes,far left,N/A
+IMG_6705,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6705.JPG,ok,no,N/A,right,yes,center left,N/A
+IMG_6706,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6706.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6707,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6707.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6708,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6708.JPG,ok,no,N/A,left,yes,far right,N/A
+IMG_6709,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6709.JPG,ok,no,N/A,left,yes,far right,N/A
+IMG_6710,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6710.JPG,ok,no,N/A,left,yes,far right,N/A
+IMG_6711,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6711.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6712,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6712.JPG,ok,no,N/A,left,yes,far right,N/A
+IMG_6715,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6715.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6716,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6716.JPG,ok,yes,center left,N/A,no,N/A,right
+IMG_6717,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6717.JPG,ok,yes,far left,N/A,yes,far right,N/A
+IMG_6722,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6722.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6723,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6723.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6724,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInAirports/IMG_6724.JPG,ok,no,N/A,left,yes,far right,N/A
+IMG_6763,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6763.JPG,ok,yes,center left,N/A,no,N/A,right
+IMG_6764,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6764.JPG,ok,no,N/A,right,yes,far left,N/A
+IMG_6765,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6765.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6766,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6766.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6767,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6767.JPG,ok,no,N/A,left,yes,center left,N/A
+IMG_6768,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6768.JPG,ok,yes,far left,N/A,no,N/A,right
+IMG_6769,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6769.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_6770,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6770.JPG,ok,no,N/A,left,yes,far right,N/A
+IMG_6771,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6771.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_6772,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6772.JPG,ok,no,N/A,right,yes,far left,N/A
+IMG_6773,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6773.JPG,ok,yes,center left,N/A,no,N/A,right
+IMG_6774,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6774.JPG,ok,yes,far right,N/A,yes,center,N/A
+IMG_6775,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6775.JPG,ok,no,N/A,right,yes,far left,N/A
+IMG_6776,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6776.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6777,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6777.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6778,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6778.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6780,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6780.JPG,ok,no,N/A,right,yes,far left,N/A
+IMG_6781,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6781.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6782,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6782.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_6783,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6783.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6784,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6784.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_6785,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6785.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6786,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6786.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6787,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInBanks/IMG_6787.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6729,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6729.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6730,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6730.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6731,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6731.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6732,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6732.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6734,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6734.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6735,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6735.JPG,ok,yes,center left,N/A,yes,center right,N/A
+IMG_6736,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6736.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6737,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6737.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_6738,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6738.JPG,ok,no,N/A,left,yes,far right,N/A
+IMG_6739,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6739.JPG,ok,no,N/A,left,yes,center right,N/A
+IMG_6740,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6740.JPG,ok,no,N/A,right,yes,far left,N/A
+IMG_6741,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6741.JPG,ok,yes,far left,N/A,no,N/A,right
+IMG_6742,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6742.JPG,ok,no,N/A,left,no,N/A,right
+IMG_6743,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6743.JPG,ok,no,N/A,right,yes,center,N/A
+IMG_6744,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6744.JPG,ok,no,N/A,right,yes,center,N/A
+IMG_6745,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6745.JPG,ok,no,N/A,right,no,N/A,left
+IMG_6746,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarkets/IMG_6746.JPG,ok,no,N/A,right,no,N/A,left
+supermarket_001,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_001.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_002,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_002.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_003,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_003.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_004,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_004.jpg,ok,yes,center,N/A,no,N/A,left
+supermarket_005,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_005.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_006,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_006.jpg,ok,yes,center,N/A,yes,center,N/A
+supermarket_007,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_007.jpg,ok,no,N/A,right,yes,far left,N/A
+supermarket_008,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_008.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_009,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_009.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_010,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_010.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_011,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_011.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_012,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_012.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_013,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_013.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_014,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_014.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_015,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_015.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_016,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_016.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_017,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_017.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_018,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_018.jpg,ok,yes,center right,N/A,no,N/A,left
+supermarket_019,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_019.jpg,ok,yes,center,N/A,no,N/A,right
+supermarket_020,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_020.jpg,ok,yes,center left,N/A,yes,center right,N/A
+supermarket_021,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_021.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_022,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_022.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_023,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_023.jpg,ok,yes,center left,N/A,yes,center right,N/A
+supermarket_024,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_024.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_025,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_025.jpg,ok,yes,center left,N/A,yes,center right,N/A
+supermarket_026,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_026.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_027,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_027.jpg,ok,yes,center,N/A,no,N/A,left
+supermarket_028,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_028.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_029,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_029.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_030,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_030.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_031,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_031.jpg,ok,no,N/A,left,yes,center,N/A
+supermarket_032,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_032.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_033,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_033.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_034,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_034.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_035,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_035.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_036,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_036.jpg,ok,yes,far right,N/A,yes,far left,N/A
+supermarket_037,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_037.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_038,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_038.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_039,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_039.jpg,ok,yes,center,N/A,no,N/A,right
+supermarket_040,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_040.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_041,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_041.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_042,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_042.jpg,ok,no,N/A,left,yes,center,N/A
+supermarket_043,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_043.jpg,ok,yes,far left,N/A,yes,center right,N/A
+supermarket_044,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_044.jpg,ok,yes,center left,N/A,no,N/A,right
+supermarket_045,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_045.jpg,ok,yes,center left,N/A,no,N/A,right
+supermarket_046,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_046.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_047,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_047.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_048,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_048.jpg,ok,yes,center right,N/A,no,N/A,left
+supermarket_049,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_049.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_050,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_050.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_051,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_051.jpg,ok,yes,far left,N/A,yes,far right,N/A
+supermarket_052,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_052.jpg,ok,yes,center,N/A,yes,center left,N/A
+supermarket_053,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_053.jpg,ok,yes,center left,N/A,no,N/A,right
+supermarket_054,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_054.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_055,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_055.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_056,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_056.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_057,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_057.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_058,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_058.jpg,ok,yes,center right,N/A,no,N/A,left
+supermarket_059,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_059.jpg,ok,yes,center,N/A,no,N/A,right
+supermarket_060,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_060.jpg,ok,yes,far right,N/A,yes,center left,N/A
+supermarket_061,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_061.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_062,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_062.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_063,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_063.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_064,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_064.jpg,ok,yes,center,N/A,yes,center,N/A
+supermarket_065,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_065.jpg,ok,no,N/A,left,yes,center,N/A
+supermarket_066,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_066.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_067,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_067.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_068,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_068.jpg,ok,yes,center left,N/A,no,N/A,right
+supermarket_069,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_069.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_070,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_070.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_071,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_071.jpg,ok,no,N/A,left,yes,center,N/A
+supermarket_072,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_072.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_073,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_073.jpg,ok,yes,far right,N/A,yes,far left,N/A
+supermarket_074,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_074.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_075,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_075.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_076,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_076.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_077,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_077.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_078,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_078.jpg,ok,no,N/A,right,yes,far left,N/A
+supermarket_079,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_079.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_080,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_080.jpg,ok,yes,far right,N/A,yes,center left,N/A
+supermarket_081,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_081.jpg,ok,no,N/A,right,yes,far left,N/A
+supermarket_082,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_082.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_083,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_083.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_084,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_084.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_085,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_085.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_086,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_086.jpg,ok,no,N/A,left,yes,center,N/A
+supermarket_087,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_087.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_088,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_088.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_089,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_089.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_090,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_090.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_091,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_091.jpg,ok,no,N/A,left,yes,center,N/A
+supermarket_092,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_092.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_093,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_093.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_094,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_094.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_095,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_095.jpg,ok,yes,center right,N/A,yes,center left,N/A
+supermarket_096,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_096.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_097,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_097.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_098,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_098.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_099,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_099.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_100,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_100.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_101,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_101.jpg,ok,yes,center right,N/A,yes,center left,N/A
+supermarket_102,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_102.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_103,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInSupermarketNew/supermarket_103.jpg,ok,yes,far left,N/A,no,N/A,right
+themepark_001,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_001.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_002,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_002.jpg,ok,yes,far left,N/A,yes,center,N/A
+themepark_003,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_003.jpg,ok,yes,far left,N/A,yes,far right,N/A
+themepark_004,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_004.jpg,ok,no,N/A,right,no,N/A,left
+themepark_005,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_005.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_006,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_006.jpg,ok,no,N/A,right,no,N/A,left
+themepark_007,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_007.jpg,ok,no,N/A,left,no,N/A,right
+themepark_008,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_008.jpg,ok,no,N/A,left,no,N/A,right
+themepark_009,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_009.jpg,ok,no,N/A,left,no,N/A,right
+themepark_010,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_010.jpg,ok,no,N/A,right,no,N/A,left
+themepark_011,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_011.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_012,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_012.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_013,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_013.jpg,ok,no,N/A,left,no,N/A,right
+themepark_014,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_014.jpg,ok,no,N/A,left,no,N/A,right
+themepark_015,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_015.jpg,ok,yes,center left,N/A,no,N/A,right
+themepark_016,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_016.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_017,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_017.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_018,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_018.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_019,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_019.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_020,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_020.jpg,ok,no,N/A,left,no,N/A,right
+themepark_021,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_021.jpg,ok,yes,center right,N/A,yes,far left,N/A
+themepark_022,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_022.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_023,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_023.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_024,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_024.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_025,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_025.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_026,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_026.jpg,ok,no,N/A,right,no,N/A,left
+themepark_027,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_027.jpg,ok,no,N/A,right,no,N/A,left
+themepark_028,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_028.jpg,ok,no,N/A,right,no,N/A,left
+themepark_029,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_029.jpg,ok,no,N/A,right,no,N/A,left
+themepark_030,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_030.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_031,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_031.jpg,ok,yes,center right,N/A,no,N/A,left
+themepark_032,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_032.jpg,ok,yes,center,N/A,yes,far left,N/A
+themepark_033,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_033.jpg,ok,no,N/A,left,no,N/A,right
+themepark_034,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_034.jpg,ok,no,N/A,left,no,N/A,right
+themepark_035,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_035.jpg,ok,yes,center,N/A,no,N/A,left
+themepark_036,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_036.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_037,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_037.jpg,ok,no,N/A,left,no,N/A,right
+themepark_038,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_038.jpg,ok,no,N/A,right,no,N/A,left
+themepark_039,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_039.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_040,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_040.jpg,ok,yes,far left,N/A,yes,far right,N/A
+themepark_041,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_041.jpg,ok,no,N/A,right,no,N/A,left
+themepark_042,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_042.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_043,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_043.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_044,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_044.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_045,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_045.jpg,ok,no,N/A,right,no,N/A,left
+themepark_046,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_046.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_047,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_047.jpg,ok,no,N/A,left,yes,center,N/A
+themepark_048,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_048.jpg,ok,no,N/A,right,no,N/A,left
+themepark_049,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_049.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_050,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_050.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_051,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_051.jpg,ok,yes,center right,N/A,no,N/A,right
+themepark_052,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_052.jpg,ok,yes,far left,N/A,yes,center,N/A
+themepark_053,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_053.jpg,ok,no,N/A,left,yes,center,N/A
+themepark_054,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_054.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_055,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_055.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_056,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_056.jpg,ok,no,N/A,right,no,N/A,left
+themepark_057,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_057.jpg,ok,yes,center left,N/A,yes,center right,N/A
+themepark_058,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_058.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_059,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_059.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_060,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_060.jpg,ok,no,N/A,right,no,N/A,left
+themepark_061,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_061.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_062,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_062.jpg,ok,no,N/A,left,no,N/A,right
+themepark_063,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_063.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_064,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_064.jpg,ok,yes,center right,N/A,no,N/A,left
+themepark_065,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_065.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_066,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_066.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_067,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_067.jpg,ok,no,N/A,left,no,N/A,right
+themepark_068,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_068.jpg,ok,no,N/A,right,no,N/A,left
+themepark_069,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_069.jpg,ok,no,N/A,left,no,N/A,right
+themepark_070,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_070.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_071,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_071.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_072,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_072.jpg,ok,yes,far left,N/A,yes,center right,N/A
+themepark_073,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_073.jpg,ok,no,N/A,right,no,N/A,left
+themepark_074,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_074.jpg,ok,no,N/A,right,no,N/A,left
+themepark_075,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_075.jpg,ok,no,N/A,right,no,N/A,left
+themepark_076,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_076.jpg,ok,no,N/A,left,no,N/A,right
+themepark_077,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_077.jpg,ok,yes,center,N/A,yes,far left,N/A
+themepark_078,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_078.jpg,ok,no,N/A,right,no,N/A,left
+themepark_079,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_079.jpg,ok,no,N/A,left,no,N/A,right
+themepark_080,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_080.jpg,ok,yes,center,N/A,yes,far right,N/A
+themepark_082,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_082.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_083,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_083.jpg,ok,no,N/A,right,no,N/A,left
+themepark_084,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_084.jpg,ok,yes,center,N/A,yes,far left,N/A
+themepark_085,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_085.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_086,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_086.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_087,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_087.jpg,ok,yes,center,N/A,yes,far left,N/A
+themepark_088,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_088.jpg,ok,no,N/A,left,no,N/A,right
+themepark_089,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_089.jpg,ok,no,N/A,right,yes,center,N/A
+themepark_090,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_090.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_091,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_091.jpg,ok,no,N/A,right,no,N/A,left
+themepark_092,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_092.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_093,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_093.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_094,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_094.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_095,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_095.jpg,ok,no,N/A,right,no,N/A,left
+themepark_096,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_096.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_097,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_097.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_098,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_098.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_099,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_099.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_100,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_100.jpg,ok,yes,far left,N/A,no,N/A,right
+themepark_101,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_101.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_102,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_102.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_103,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_103.jpg,ok,yes,center left,N/A,yes,far right,N/A
+themepark_104,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_104.jpg,ok,yes,center right,N/A,yes,center left,N/A
+themepark_105,/mnt/NAS/home/ds5725/linefinder/Images/QueuesInThemeParks/themepark_105.jpg,ok,yes,center left,N/A,yes,far right,N/A
+outdoor_001,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_001.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_002,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_002.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_003,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_003.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_004,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_004.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_005,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_005.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_006,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_006.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_007,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_007.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_008,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_008.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_009,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_009.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_010,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_010.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_011,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_011.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_012,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_012.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_013,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_013.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_014,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_014.jpg,ok,yes,far right,N/A,no,N/A,left
+outdoor_015,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_015.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_016,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_016.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_017,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_017.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_018,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_018.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_019,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_019.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_020,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_020.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_021,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_021.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_022,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_022.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_023,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_023.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_024,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_024.jpg,ok,yes,center left,N/A,no,N/A,right
+outdoor_025,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_025.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_026,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_026.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_027,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_027.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_028,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_028.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_029,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_029.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_030,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_030.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_031,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_031.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_032,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_032.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_033,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_033.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_034,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_034.jpg,ok,yes,center left,N/A,yes,center right,N/A
+outdoor_035,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_035.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_036,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_036.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_037,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_037.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_038,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_038.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_039,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_039.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_040,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_040.jpg,ok,yes,far right,N/A,no,N/A,left
+outdoor_041,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_041.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_042,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_042.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_043,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_043.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_044,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_044.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_045,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_045.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_046,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_046.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_047,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_047.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_048,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_048.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_049,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_049.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_050,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_050.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_051,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_051.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_052,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_052.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_053,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_053.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_054,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_054.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_055,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_055.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_056,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_056.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_057,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_057.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_058,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_058.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_059,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_059.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_060,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_060.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_061,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_061.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_062,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_062.jpg,ok,yes,center right,N/A,yes,far left,N/A
+outdoor_063,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_063.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_064,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_064.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_065,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_065.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_066,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_066.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_067,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_067.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_068,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_068.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_069,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_069.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_070,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_070.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_071,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_071.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_072,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_072.jpg,ok,yes,far left,N/A,no,N/A,right
+outdoor_073,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_073.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_074,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_074.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_075,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_075.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_076,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_076.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_077,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_077.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_078,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_078.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_079,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_079.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_080,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_080.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_081,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_081.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_082,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_082.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_083,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_083.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_084,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_084.jpg,ok,yes,center left,N/A,yes,center left,N/A
+outdoor_085,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_085.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_086,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_086.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_087,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_087.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_088,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_088.jpg,ok,no,N/A,left,yes,center left,N/A
+outdoor_089,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_089.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_090,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_090.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_091,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_091.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_092,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_092.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_093,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_093.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_094,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_094.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_095,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_095.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_096,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_096.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_097,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_097.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_098,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_098.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_099,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_099.jpg,ok,no,N/A,left,yes,center left,N/A
+outdoor_100,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_100.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_101,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_101.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_102,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_102.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_103,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_103.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_104,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_104.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_105,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_105.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_106,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_106.jpg,ok,no,N/A,left,yes,center left,N/A
+outdoor_107,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_107.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_108,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_108.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_109,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_109.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_110,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_110.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_111,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_111.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_112,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_112.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_113,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_113.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_114,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_114.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_115,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_115.jpg,ok,yes,center,N/A,no,N/A,left
+outdoor_116,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_116.jpg,ok,yes,center,N/A,no,N/A,left
+outdoor_117,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_117.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_118,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_118.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_119,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_119.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_120,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_120.jpg,ok,yes,center,N/A,yes,center right,N/A
+outdoor_121,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_121.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_122,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_122.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_123,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_123.jpg,ok,yes,center left,N/A,no,N/A,right
+outdoor_124,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_124.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_125,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_125.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_126,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_126.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_127,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_127.jpg,ok,yes,center left,N/A,no,N/A,right
+outdoor_128,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_128.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_129,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_129.jpg,ok,yes,far left,N/A,no,N/A,right
+outdoor_130,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_130.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_131,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_131.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_132,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_132.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_133,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_133.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_134,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_134.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_135,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_135.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_136,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_136.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_137,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_137.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_138,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_138.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_139,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_139.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_140,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_140.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_141,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_141.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_142,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_142.jpg,ok,no,N/A,left,yes,center left,N/A
+outdoor_143,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_143.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_144,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_144.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_145,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_145.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_146,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_146.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_147,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_147.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_148,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_148.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_149,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_149.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_150,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_150.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_151,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_151.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_152,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_152.jpg,ok,no,N/A,left,yes,center left,N/A
+outdoor_153,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_153.jpg,ok,yes,far right,N/A,yes,center,N/A
+outdoor_154,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_154.jpg,ok,yes,center,N/A,no,N/A,right
+outdoor_155,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_155.jpg,ok,yes,far left,N/A,yes,center left,N/A
+outdoor_156,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_156.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_157,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_157.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_158,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_158.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_159,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_159.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_160,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_160.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_161,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_161.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_162,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_162.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_163,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_163.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_164,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_164.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_165,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_165.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_166,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_166.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_167,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_167.jpg,ok,no,N/A,right,yes,center right,N/A
+outdoor_168,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_168.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_169,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_169.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_170,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_170.jpg,ok,yes,center,N/A,yes,far left,N/A
+outdoor_171,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_171.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_172,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_172.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_173,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_173.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_174,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_174.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_175,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_175.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_176,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_176.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_177,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_177.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_178,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_178.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_179,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_179.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_180,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_180.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_181,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_181.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_182,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_182.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_183,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_183.jpg,ok,yes,center left,N/A,yes,center right,N/A
+outdoor_184,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_184.jpg,ok,yes,center left,N/A,no,N/A,right
+outdoor_185,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_185.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_186,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_186.jpg,ok,yes,center,N/A,no,N/A,left
+outdoor_187,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_187.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_188,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_188.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_189,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_189.jpg,ok,yes,center right,N/A,no,N/A,right
+outdoor_190,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_190.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_191,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_191.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_192,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_192.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_193,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_193.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_194,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_194.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_195,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_195.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_196,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_196.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_197,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_197.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_198,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_198.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_199,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_199.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_200,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_200.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_201,/mnt/NAS/home/ds5725/linefinder/Images/QueuesOutdoors/outdoor_201.jpg,ok,no,N/A,right,no,N/A,left

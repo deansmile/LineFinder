@@ -1,3 +1,4 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 try:  # load API keys from the repo-root .env (python-dotenv optional)
     from dotenv import load_dotenv, find_dotenv
@@ -126,7 +127,7 @@ def generate_reranking(image_paths, res_file_name, temperature=0.2):
             sleep(0.5)
 
 
-root = "/scratch/ds5725/linefinder/LineFinder/Images"
+root = lf_path("Images")
 
 # Subfolders
 subfolders = ["QueuesOutdoors","QueuesInSupermarketNew","QueuesInThemeParks"]

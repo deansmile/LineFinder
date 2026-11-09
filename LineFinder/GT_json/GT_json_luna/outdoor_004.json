@@ -26,6 +26,6 @@
         "If yes, where is the start of the line in the image?": "center left",
         "If not, in what direction should you move camera to see the start of the line?": "N/A",
         "Description of the person at the start of the line": "Person with black hair wearing black jacket, gray pants, black shoes",
-        "Is this image too hard?": "no"
+        "Is this image too hard?": "yes"
     }
 }

@@ -1,3 +1,4 @@
+from lf_paths import lf_path  # LINEFINDER_ROOT env var
 import os
 import numpy as np
 
@@ -22,7 +23,7 @@ def load_image_paths(list_path: str):
                 paths.append(p)
     return paths
 
-IMAGE_LIST_PATH = "/scratch/ds5725/linefinder/LineFinder/code/olivia_luna_image_paths.txt"
+IMAGE_LIST_PATH = lf_path("code/olivia_luna_image_paths.txt")
 # Find matching images
 IMAGE_PATHS = load_image_paths(IMAGE_LIST_PATH)
 
@@ -65,11 +66,11 @@ def load_focal_lengths(txt_path):
     return focal_dict
 
 # Where the depth .npy and bbox/orient .npy files live
-DEPTH_DIR = "/scratch/ds5725/linefinder/LineFinder/depth_map"
-BBOX_ORIENT_DIR = "/scratch/ds5725/linefinder/LineFinder/bbox_orient"
+DEPTH_DIR = lf_path("depth_map")
+BBOX_ORIENT_DIR = lf_path("bbox_orient")
 
 # Focal length in pixels (set to whatever you used in 3D_visual.py)
-FOCAL_TXT = "/scratch/ds5725/linefinder/LineFinder/focal_length_px.txt"
+FOCAL_TXT = lf_path("focal_length_px.txt")
 focal_dict = load_focal_lengths(FOCAL_TXT)
 
 print(f"Loaded {len(focal_dict)} focal-length records")
