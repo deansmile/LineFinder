@@ -1,0 +1,39 @@
+{
+    "line_shape": {
+        "turns": 0,
+        "description": "Straight"
+    },
+    "people": {
+        "number_of_people": 15,
+        "direction_they_are_facing": "Facing sideways",
+        "start_person_description": "person with a colorful coat and a blue pants",
+        "end_person_description": "a man iwth a black coat and a white pants",
+        "counter_person_description": "none"
+    },
+    "boundary": {
+        "boundary_present": true,
+        "boundary_types": "stanchions"
+    },
+    "start_of_line": {
+        "visible": "no",
+        "location_if_visible": "N/A",
+        "direction_to_turn_if_not_visible": "right"
+    },
+    "end_of_line": {
+        "visible": "no",
+        "location_if_visible": "N/A",
+        "direction_to_turn_if_not_visible": "left"
+    },
+    "line_purpose": "unknown",
+    "line_completeness": "partial",
+    "line_coordinates": {
+        "start": {
+            "x": 37,
+            "y": 79
+        },
+        "end": {
+            "x": 529,
+            "y": 62
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "image_id": "supermarket_080",
+    "image_name": "supermarket_080_start_end.jpg",
+    "image_path": "olivia_start_end/supermarket_080_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "12",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Dark-haired person with shoulder-length hair, black puffer jacket over a white top, side-on, one hand in pocket, holding a cup by a shopping cart.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Bearded man in a dark coat with a blue-gray plaid scarf, side profile, pushing a shopping cart.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "12",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Dark-haired person with shoulder-length hair, black puffer jacket over a white top, side-on, one hand in pocket, holding a cup by a shopping cart.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Bearded man in a dark coat with a blue-gray plaid scarf, side profile, pushing a shopping cart.",
+        "Is this image too hard?": "yes"
+    }
+}

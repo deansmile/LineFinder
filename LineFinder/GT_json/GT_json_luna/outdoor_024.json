@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_024",
+    "image_name": "outdoor_024_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_024_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "9",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Bald person in glasses, black shirt, red tartan kilt, white knee socks, black shoes, standing side-on.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Short gray hair; navy blazer with light blue jeans; slip-on shoes; straw shoulder bag; standing side-on with arms crossed.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "9",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Short gray hair; navy blazer with light blue jeans; slip-on shoes; straw shoulder bag; standing side-on with arms crossed.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "man with white sweater, beige long bangs, brown shoes, and gray hair",
+        "Is this image too hard?": "no"
+    }
+}

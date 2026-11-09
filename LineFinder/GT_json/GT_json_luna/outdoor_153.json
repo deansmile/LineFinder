@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_153",
+    "image_name": "outdoor_153_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_153_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "10",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Ponytailed person in a black puffer vest over gray sleeves, dark pants, blue sneakers, holding a beige handbag.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Long dark hair, brown coat with fur-trim hood, blue jeans, black boots, seen from behind.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "10",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Ponytailed person in a black puffer vest over gray sleeves, dark pants, blue sneakers, holding a beige handbag.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Long dark hair, puffy gray coat, blue jeans, pink sneakers pink bag, seen from behind.",
+        "Is this image too hard?": "no"
+    }
+}

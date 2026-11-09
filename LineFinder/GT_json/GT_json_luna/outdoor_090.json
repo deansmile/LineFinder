@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_090",
+    "image_name": "outdoor_090_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_090_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "17",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Dark‑haired person in a black hoodie and black jeans, black sneakers, side view with hands in pockets.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "White T-shirt, black pants and shoes, black cap; medium wavy hair; holding napkins at the counter, facing away.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "17",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Dark‑haired person in a black hoodie and black jeans, black sneakers, side view with hands in pockets.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "White T-shirt, black pants and shoes, black cap; medium wavy hair; holding napkins at the counter, facing away.",
+        "Is this image too hard?": "yes"
+    }
+}

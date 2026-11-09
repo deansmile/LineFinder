@@ -1,0 +1,31 @@
+{
+    "image_id": "supermarket_034",
+    "image_name": "supermarket_034_start_end.jpg",
+    "image_path": "olivia_start_end/supermarket_034_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "18",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Curly dark-haired woman in a gray T-shirt, side view, standing at the back of the line.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Beige bucket hat, white shirt, pushing cart.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "18",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Curly dark-haired woman in a gray T-shirt, side view, standing at the back of the line.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Beige bucket hat, white shirt, pushing cart.",
+        "Is this image too hard?": "yes"
+    }
+}

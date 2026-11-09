@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_117",
+    "image_name": "outdoor_117_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_117_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "10",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "right",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person in sunglasses, red tank top, high‑waisted light jeans, white sneakers, pink backpack; leaning against a vehicle holding papers.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "11",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "right",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person in sunglasses, red tank top, high‑waisted light jeans, white sneakers, pink backpack; leaning against a vehicle holding papers.",
+        "Is this image too hard?": "no"
+    }
+}

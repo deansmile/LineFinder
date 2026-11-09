@@ -1,0 +1,39 @@
+{
+    "line_shape": {
+        "turns": 0,
+        "description": "Straight"
+    },
+    "people": {
+        "number_of_people": 16,
+        "direction_they_are_facing": "Facing sideways",
+        "start_person_description": "person wearing gray blazer and beige pants",
+        "end_person_description": "person wearing green jacket and blue denim pants",
+        "counter_person_description": "unknown"
+    },
+    "boundary": {
+        "boundary_present": false,
+        "boundary_types": "none"
+    },
+    "start_of_line": {
+        "visible": "no",
+        "location_if_visible": "N/A",
+        "direction_to_turn_if_not_visible": "right"
+    },
+    "end_of_line": {
+        "visible": "no",
+        "location_if_visible": "N/A",
+        "direction_to_turn_if_not_visible": "left"
+    },
+    "line_purpose": "airport",
+    "line_completeness": "partial",
+    "line_coordinates": {
+        "start": {
+            "x": 42,
+            "y": 167
+        },
+        "end": {
+            "x": 489,
+            "y": 174
+        }
+    }
+}

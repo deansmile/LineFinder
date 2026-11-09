@@ -1,0 +1,1224 @@
+supermarket_001.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "no", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a dark jacket at the far end of the visible line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a blue jacket and grey pants wearing a face mask."}
+
+supermarket_002.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "person in dark clothing at the far end of the aisle", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "woman with blonde hair wearing a beige jacket"}
+
+supermarket_003.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "Small child with long blonde hair wearing a light blue shirt and dark blue jeans.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man with dreadlocks wearing a tan patterned shirt and brown pants, holding a shopping basket."}
+
+supermarket_004.jpg
+{"number_of_people": 15, "line_direction": "towards", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "A person in a red shirt at the far end of the aisle.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A bearded man in a black jacket and blue shorts holding a basket."}
+
+supermarket_005.jpg
+{"number_of_people": 11, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman in a blue shirt with a shopping cart at the back of the line", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Older man in a maroon polo shirt and khaki shorts at the front of the line"}
+
+supermarket_006.jpg
+{"number_of_people": 20, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person with blonde hair wearing a grey jacket with a fur-lined hood, seen from behind, pushing a shopping cart full of groceries.", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+supermarket_007.jpg
+{"number_of_people": 4, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "man in a black t-shirt with a stroller"}
+
+supermarket_008.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a black jacket and dark pants, seen from behind at the end of the queue.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man with glasses wearing a black puffer jacket, standing at the front of the line."}
+
+supermarket_009.jpg
+{"number_of_people": 8, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "man in a light blue t-shirt, dark blue shorts, and striped sandals", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+supermarket_010.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the queue.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person in a dark puffer jacket standing at the front of the line relative to the camera."}
+
+supermarket_011.jpg
+{"number_of_people": 8, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "person in a black jacket standing at the end of the aisle", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "man with a beard wearing a brown jacket and a white face mask"}
+
+supermarket_012.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A person in a dark jacket standing at the front of the queue near the checkout counters.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A woman with grey hair wearing a long purple coat and dark trousers, standing with a shopping trolley."}
+
+supermarket_013.jpg
+{"number_of_people": 20, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a grey polo shirt and khaki pants", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+supermarket_014.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in a black jacket and dark pants standing at the far end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman wearing a light blue sweatshirt, black leggings, and a white face mask, looking at her phone."}
+
+supermarket_015.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A person in a white shirt standing at the checkout counter in the distance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person wearing a grey shirt and a purple backpack, seen from the back."}
+
+supermarket_016.jpg
+{"number_of_people": 4, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a dark jacket standing at the end of the line behind a shopping cart.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A man in a black coat standing at the front of the line, holding a water bottle."}
+
+supermarket_017.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "A man in a white t-shirt and black shorts and a woman in an orange top and black pants standing with a shopping cart."}
+
+supermarket_018.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "Man with headphones, black jacket, and green shopping basket"}
+
+supermarket_019.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "Woman wearing a pink beanie, a brown puffer jacket with a fur-lined hood, and a red and black skirt.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A person in the background wearing a dark jacket and a dark hat."}
+
+supermarket_020.jpg
+{"number_of_people": 9, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "left", "end_person_description": "Woman in a black coat with a fur-trimmed hood, standing at the checkout counter.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "Woman wearing a black coat, black pants, and a white beanie."}
+
+supermarket_021.jpg
+{"number_of_people": 9, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman in a black puffer jacket and dark pants facing left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man in a black coat and blue jeans holding some items, facing left."}
+
+supermarket_022.jpg
+{"number_of_people": 11, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "Man in a blue puffer jacket standing at the back of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "Person in a dark jacket at the front of the queue near the checkout counter."}
+
+supermarket_023.jpg
+{"number_of_people": 6, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a green tank top with his hand on his head", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "man in a white shirt standing near the entrance"}
+
+supermarket_024.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in a dark jacket at the far end of the supermarket aisle.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A person wearing a blue jacket and a dark beanie, facing away from the camera."}
+
+supermarket_025.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man wearing a black hoodie and camouflage shorts", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "woman wearing a black and white striped sweater"}
+
+supermarket_026.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a black shirt at the far end of the line near the checkout area", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "a person with long dark hair wearing a dark blue shirt and grey pants"}
+
+supermarket_027.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A man in the foreground wearing a black flat cap and a dark jacket, seen from behind.", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+supermarket_028.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "A person in a black jacket and dark pants standing at the end of the queue.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A person wearing a light grey hooded puffer jacket and black leggings."}
+
+supermarket_029.jpg
+{"number_of_people": 5, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "Man in a blue shirt standing at the end of the line.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "Woman in a white shirt with her arms crossed standing at the front of the line."}
+
+supermarket_030.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person with blonde curly hair wearing a black puffer jacket.", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+supermarket_031.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in dark clothing standing near the glass wall at the far end of the aisle.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "Man in a black jacket and blue baseball cap, seen from behind."}
+
+supermarket_032.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A man in a light blue polo shirt and dark trousers, standing with his arms crossed and looking to the right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A young man in a grey long-sleeved shirt leaning on a metal shopping cart."}
+
+supermarket_033.jpg
+{"number_of_people": 7, "line_direction": "towards", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "woman in a yellow sleeveless shirt and dark pants holding a phone and a white tote bag", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "person in a red shirt standing at the front of the line near a shopping cart"}
+
+supermarket_034.jpg
+{"number_of_people": 11, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "a woman in a dark shirt at the back of the line for checkout 3", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "a man in a white t-shirt and a tan bucket hat at the front of the line for checkout 2"}
+
+supermarket_035.jpg
+{"number_of_people": 4, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman with brown hair wearing a grey short-sleeved shirt and black shorts, with a black bag around her waist, holding a shopping cart", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "woman with white hair wearing a pink shirt and pink pants, standing at a checkout counter"}
+
+supermarket_036.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A person in a black jacket at the far end of the queue.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A blonde woman in a black jacket pushing a full shopping cart."}
+
+supermarket_037.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "person in a white shirt at the checkout counter", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "person with a purple backpack and light blue pants"}
+
+supermarket_038.jpg
+{"number_of_people": 5, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "left", "end_person_description": "Man in a dark blue short-sleeved shirt and tan pants.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "Man in a black suit, white shirt, and tie, holding a white package."}
+
+supermarket_039.jpg
+{"number_of_people": 8, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "person in a peach-colored jacket at the checkout counter", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "woman with long brown hair wearing a grey vest and a tan shoulder bag"}
+
+supermarket_040.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "no", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A person in the distance, barely visible as the line curves out of sight.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A man with dark hair wearing a black t-shirt, seen from behind."}
+
+supermarket_041.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "man in a white short-sleeved shirt and dark pants", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "woman in a white floral dress"}
+
+supermarket_042.jpg
+{"number_of_people": 12, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person wearing a purple jacket and dark pants, standing with a shopping cart on the far right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person wearing a grey jacket and dark pants, standing at the front of a line on the far left."}
+
+supermarket_043.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "person in a red shirt standing at the end of the line in the background", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "woman with white hair wearing a purple long-sleeved shirt"}
+
+supermarket_044.jpg
+{"number_of_people": 20, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Person in a dark jacket standing at the end of the line near a yellow bin.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "Person in a dark jacket at the front of the line near the store entrance stairs."}
+
+supermarket_045.jpg
+{"number_of_people": 6, "line_direction": "towards", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "Woman in a white t-shirt and face mask, looking at her phone while pushing a full shopping cart."}
+
+supermarket_046.jpg
+{"number_of_people": 11, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a dark jacket and a flat cap standing at the end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person in a white coat standing at the checkout counter."}
+
+supermarket_047.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A woman with dark hair wearing a plaid shirt and brown pants, holding a shopping basket.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "A young child with long blonde hair wearing blue overalls."}
+
+supermarket_048.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "person in a grey jacket and dark pants at the back of the line", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "woman in a dark jacket and black pants holding a paper"}
+
+supermarket_049.jpg
+{"number_of_people": 3, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "Man in a white long-sleeved shirt at the front of the line, holding a phone to pay.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man in a blue sweater and khaki pants standing at the back of the line."}
+
+supermarket_050.jpg
+{"number_of_people": 4, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "Woman with white hair wearing a pink top and pink pants, standing at a checkout counter.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "Woman in a grey sleeveless shirt and black shorts, pushing a shopping cart."}
+
+supermarket_051.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A man in a blue cap and dark jacket standing at the end of the queue.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A person in dark clothing at the front of the queue near the store entrance."}
+
+supermarket_052.jpg
+{"number_of_people": 7, "line_direction": "towards", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "a person in a red jacket at the back of the line", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "a woman in a black jacket talking on a cell phone while pushing a shopping cart"}
+
+supermarket_053.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in the foreground wearing a dark beanie, glasses, a black face mask, and a black jacket with a fur-lined hood.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A person at the far end of the aisle wearing a dark jacket and facing away from the camera."}
+
+supermarket_054.jpg
+{"number_of_people": 20, "line_direction": "towards", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "young man wearing a blue baseball cap, a red shirt, and a white hoodie"}
+
+supermarket_055.jpg
+{"number_of_people": 5, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a black suit and tie holding a package of toilet paper", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "man in a dark polo shirt and khaki pants holding a purple shopping basket"}
+
+supermarket_056.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman in a yellow shirt and a black and white patterned skirt", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "man in a black shirt and dark pants at the front of the queue"}
+
+supermarket_057.jpg
+{"number_of_people": 7, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman wearing a blue shirt and a pink sun hat", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "older woman with white hair in a black top and dark skirt leaning on a shopping cart"}
+
+supermarket_058.jpg
+{"number_of_people": 6, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the aisle.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A person wearing a blue hoodie and a tan beanie, seen from the back."}
+
+supermarket_059.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A person wearing a pink shirt and black pants standing at the checkout counter.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a dark jacket and a grey beanie standing at the back of the line."}
+
+supermarket_060.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the line.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "back", "start_person_description": "A man in a black hoodie and tan pants."}
+
+supermarket_061.jpg
+{"number_of_people": 4, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a black hoodie facing away from the camera at the front of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a grey polo shirt and blue shorts holding a green shopping bag at the back of the line."}
+
+supermarket_062.jpg
+{"number_of_people": 40, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "customers at the checkout counters", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "woman in a grey patterned shirt leaning on a shopping cart"}
+
+supermarket_063.jpg
+{"number_of_people": 5, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A woman wearing a black shirt, pink shorts, and a yellow crossbody bag strap, seen from behind while pushing a shopping cart.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A person wearing a red shirt standing at the checkout counter at the front of the line."}
+
+supermarket_064.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "woman wearing a blue sweater and a green cap"}
+
+supermarket_065.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A dense crowd of shoppers at the far end of the aisle.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A man with grey hair wearing a tan jacket, seen from behind."}
+
+supermarket_066.jpg
+{"number_of_people": 6, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A woman with brown hair wearing a grey tank top and black shorts, pushing a shopping cart.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "An elderly woman with white hair wearing a pink top and pants, standing at a checkout counter."}
+
+supermarket_067.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the line near the warehouse shelving.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A woman with dark hair in a ponytail wearing a black shirt, standing behind a shopping cart."}
+
+supermarket_068.jpg
+{"number_of_people": 20, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the supermarket aisle.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A woman in a blue puffer jacket, green scarf, and black skirt holding a shopping basket."}
+
+supermarket_069.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "Man in a light blue polo shirt and dark pants with arms crossed, looking towards the right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Young man in a grey long-sleeved shirt leaning on a metal shopping cart."}
+
+supermarket_070.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a dark shirt at the front of the line near the checkout counters", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "man in a red polo shirt and dark pants"}
+
+supermarket_071.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A customer at the checkout counter being served.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A person in a purple jacket standing with a shopping cart."}
+
+supermarket_072.jpg
+{"number_of_people": 80, "line_direction": "away", "end_visible": "no", "end_location": "far right", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A man in a dark green jacket standing at the front of the line with his back to the camera."}
+
+supermarket_073.jpg
+{"number_of_people": 9, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in dark clothing at the end of the queue in the distance.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A blonde woman in a black jacket leaning on a shopping cart."}
+
+supermarket_074.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "people standing in a queue far in the background", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "woman in a white long-sleeved shirt and black pants loading a shopping cart"}
+
+supermarket_075.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a white shirt and dark pants standing at the far end of the queue near the checkouts.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A woman with long dark hair wearing a white t-shirt and denim shorts, standing at the back of the line in the foreground."}
+
+supermarket_076.jpg
+{"number_of_people": 14, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A woman wearing a black and white patterned top, a denim skirt, and white sneakers.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A man in a black t-shirt and khaki pants leaning over a shopping cart."}
+
+supermarket_077.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a white t-shirt and khaki pants, facing towards the camera and slightly to his left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "Woman in a blue shirt and dark pants, standing with her back to the camera."}
+
+supermarket_078.jpg
+{"number_of_people": 4, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "a person at the checkout counter", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "a man in a tan jacket standing with a shopping cart"}
+
+supermarket_079.jpg
+{"number_of_people": 4, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "person at the checkout counter", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "man in a white shirt, back to camera"}
+
+supermarket_080.jpg
+{"number_of_people": 4, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "Woman in a blue puffer jacket and black pants, facing away from the camera.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Man in a grey sweater and khaki pants, facing away from the camera at a checkout counter."}
+
+supermarket_081.jpg
+{"number_of_people": 30, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "Woman with dark hair in a ponytail wearing a maroon shirt and dark pants, looking at her phone.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man wearing a black jacket and dark pants standing at the far left near the food court menu."}
+
+supermarket_082.jpg
+{"number_of_people": 4, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "Person in a dark blue long-sleeved shirt and blue jeans, pushing a shopping cart at the front of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man in a white t-shirt and blue jeans, standing at the back of the line."}
+
+supermarket_083.jpg
+{"number_of_people": 6, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "Person in a dark shirt using the self-checkout kiosk", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man in a white t-shirt and blue jeans standing at the back of the line"}
+
+supermarket_084.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a blue sweater and dark jacket at the front of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Person in a black jacket and sunglasses at the back of the line."}
+
+supermarket_085.jpg
+{"number_of_people": 5, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Person in a white shirt standing at the back of the queue.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "left", "start_person_description": "Man in a light blue button-down shirt leaning over a shopping cart full of groceries."}
+
+supermarket_086.jpg
+{"number_of_people": 3, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a dark jacket and light-colored pants pushing a shopping cart", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "a person with long brown hair wearing a dark maroon coat and a patterned scarf"}
+
+supermarket_087.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "A person wearing a black t-shirt and patterned shorts, standing at the front of the visible queue.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A person in a grey t-shirt and black shorts, carrying a large yellow shopping bag, at the back of the queue."}
+
+supermarket_088.jpg
+{"number_of_people": 11, "line_direction": "towards", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a black jacket and blue jeans holding a white shopping bag", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "woman in a black jacket and black trousers facing right"}
+
+supermarket_089.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A man in a grey t-shirt and black shorts with a grey stripe, pushing a shopping cart.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A man in a dark blue long-sleeved shirt, standing at the checkout counter."}
+
+supermarket_090.jpg
+{"number_of_people": 15, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a black jacket at the back of the line on the far right", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "woman in a brown jacket at the front of the line on the far left"}
+
+supermarket_091.jpg
+{"number_of_people": 30, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the aisle.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A man in a black flat cap and dark jacket facing away from the camera."}
+
+supermarket_092.jpg
+{"number_of_people": 3, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in a blue shirt standing near the exit doors.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A woman with long black hair wearing a bright pink dress and carrying a black purse."}
+
+supermarket_093.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "person at the far end of the line facing away from the camera", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "man in a grey t-shirt and grey shorts standing by a shopping cart"}
+
+supermarket_094.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a red t-shirt and grey shorts", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "man in a white long-sleeved shirt and blue jeans"}
+
+supermarket_095.jpg
+{"number_of_people": 15, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman in a dark brown coat standing next to a shopping cart", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "woman in a red jacket and blue jeans standing at the checkout"}
+
+supermarket_096.jpg
+{"number_of_people": 20, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "woman in a green jacket and blue jeans standing at the back of the line", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "woman in a green plaid jacket and blue jeans pushing a shopping cart"}
+
+supermarket_097.jpg
+{"number_of_people": 6, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "person in a black jacket and grey pants at the back of the line", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "person in a white jacket and grey pants at the front of the line"}
+
+supermarket_098.jpg
+{"number_of_people": 15, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A man in a bright blue jacket and dark trousers pushing a shopping cart at the back of the line.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "An older man with grey hair and glasses, wearing a dark blue jacket with yellow accents, pushing a shopping cart at the front of the line."}
+
+supermarket_099.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "Man in a blue jacket and grey pants pushing a shopping cart at the checkout.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "Person in a blue cap and light jacket standing at the end of the queue."}
+
+supermarket_100.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a grey polo shirt and tan pants standing behind a shopping cart", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+supermarket_101.jpg
+{"number_of_people": 30, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a grey jacket and a light green baseball cap", "start_visible": "no", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "crowd of people at the far end of the aisle"}
+
+supermarket_102.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "man in a grey long-sleeved shirt and blue jeans leaning on a shopping cart", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "man in an orange jacket and blue jeans standing next to a shopping cart"}
+
+supermarket_103.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "Man in an orange jacket and blue jeans standing at the front of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "Man in a grey shirt and blue jeans leaning on a shopping cart at the back of the line."}
+
+themepark_001.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a grey t-shirt, black shorts, and white sneakers standing at the end of the line.", "start_visible": "no", "start_location": "far left", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+themepark_002.jpg
+{"number_of_people": 28, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A person in a white shirt and dark pants standing far in the background.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A woman with blonde hair wearing a pink jacket and a blue face mask, looking down at her phone."}
+
+themepark_003.jpg
+{"number_of_people": 45, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "A man in a grey t-shirt and black shorts standing near a brown trash receptacle.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman wearing a grey t-shirt, denim shorts, and a backpack with red straps, standing at the back of the line."}
+
+themepark_004.jpg
+{"number_of_people": 15, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a light blue shirt, black shorts, and a tan cap standing with arms crossed at the end of the queue.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Group of people standing under the wooden awning, facing away from the camera towards the entrance."}
+
+themepark_005.jpg
+{"number_of_people": 60, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A child in a blue and white striped shirt.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "People entering the park through the gates."}
+
+themepark_006.jpg
+{"number_of_people": 75, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "People in various casual clothes standing near the entrance gates under a green roofed structure.", "start_visible": "no", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A man in a bright pink t-shirt and blue jeans standing near a black stroller."}
+
+themepark_007.jpg
+{"number_of_people": 50, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a dark shirt entering the building in the background", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "a woman in a pink dress standing at the beginning of the line on the left"}
+
+themepark_008.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A group of people entering the building entrance in the background.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A woman wearing a white t-shirt, bright pink pants, and a black sun hat."}
+
+themepark_009.jpg
+{"number_of_people": 25, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "Man in a white tank top and red hat, facing away from the camera.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man in a white t-shirt, blue shorts, and a black backpack."}
+
+themepark_010.jpg
+{"number_of_people": 120, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "People at the front of the lines passing through the entrance turnstiles under the canopy.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A man in the foreground wearing a white t-shirt, a black backpack, and a black baseball cap."}
+
+themepark_011.jpg
+{"number_of_people": 45, "line_direction": "sideways-right", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man wearing a tan sun hat and a dark blue shirt"}
+
+themepark_012.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A group of people in the distance, mostly obscured by the crowd.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman wearing a red shirt, black shorts, and a red backpack."}
+
+themepark_013.jpg
+{"number_of_people": 25, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A man in a blue t-shirt and dark shorts walking towards the entrance gates on the far right.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A woman in a purple dress with a floral backpack facing away from the camera."}
+
+themepark_014.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A group of people standing in the distance near a green building", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A man with a black Adidas backpack, grey hoodie, and black shorts"}
+
+themepark_015.jpg
+{"number_of_people": 50, "line_direction": "towards", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A woman in a black tank top and denim shorts walking towards the right at the front of the line."}
+
+themepark_016.jpg
+{"number_of_people": 80, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "a group of people at the end of the queue near a white circular sign", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "a man in a blue shirt and khaki shorts with a black backpack at the front of the queue"}
+
+themepark_017.jpg
+{"number_of_people": 75, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "A man wearing a blue t-shirt and a blue baseball cap, standing at the end of the queue.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A large group of people entering the attraction area in the far background."}
+
+themepark_018.jpg
+{"number_of_people": 50, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A man in a black t-shirt with a grey backpack, facing away from the camera at the end of the queue.", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "The front of the line is not visible as it continues into the crowded background area."}
+
+themepark_019.jpg
+{"number_of_people": 40, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a grey t-shirt and blue shorts standing at the end of the visible line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "People at the front of the queue near the entrance turnstiles."}
+
+themepark_020.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a blue shirt and dark cap", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "people entering the Disney California Adventure gates"}
+
+themepark_021.jpg
+{"number_of_people": 80, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "woman in a grey t-shirt and black leggings walking away"}
+
+themepark_022.jpg
+{"number_of_people": 20, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "people entering the ride under the archway in the distance", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "woman in a white shirt and woman in a blue shirt in the foreground"}
+
+themepark_023.jpg
+{"number_of_people": 40, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A person in a blue shirt and white shorts standing near the building entrance under green umbrellas.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a grey t-shirt, khaki shorts, and a tan hat standing at the back of the line."}
+
+themepark_024.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "Small figures in the distance at the end of the queue.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man in a red t-shirt, red baseball cap, and black face mask."}
+
+themepark_025.jpg
+{"number_of_people": 26, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center", "end_camera_direction": "left", "end_person_description": "A man in a blue and white plaid shirt and dark pants, facing left at the end of the line.", "start_visible": "no", "start_location": "far left", "start_camera_direction": "N/A", "start_person_description": "The front of the line which is obscured by distance and trees on the far left."}
+
+themepark_026.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "man in a grey t-shirt and dark shorts", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "woman in a white t-shirt and blue jeans leaning forward"}
+
+themepark_027.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "no", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A small child in a camouflage shirt and a black baseball cap", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A man in a blue long-sleeved shirt, khaki shorts, and a baseball cap"}
+
+themepark_028.jpg
+{"number_of_people": 80, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A woman in a white t-shirt and denim shorts with a black backpack standing at the end of the queue.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person in a dark shirt at the ticket window at the front of the line."}
+
+themepark_029.jpg
+{"number_of_people": 38, "line_direction": "sideways-left", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Woman in a black tank top with a Minnie Mouse graphic, blue denim shorts, sunglasses, and a patterned face mask"}
+
+themepark_030.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "People entering the PeopleMover attraction area", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "left", "start_person_description": "Man in a red t-shirt, blue pants, and a grey baseball cap"}
+
+themepark_031.jpg
+{"number_of_people": 16, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "A person in dark clothing at the far end of the queue in the background.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a light green t-shirt and khaki shorts, partially visible on the far left."}
+
+themepark_032.jpg
+{"number_of_people": 35, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "A woman in a black top and blue pants standing near the front of the visible queue segment.", "start_visible": "no", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person in a blue shirt partially visible at the far left edge where the line extends off-camera."}
+
+themepark_033.jpg
+{"number_of_people": 12, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a white jacket and blue jeans", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "man in a blue long-sleeved shirt and dark pants"}
+
+themepark_034.jpg
+{"number_of_people": 20, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A person wearing a pink hijab and a white shirt standing at the far right of the foreground line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A young boy in a black t-shirt standing at the far left of the foreground line."}
+
+themepark_035.jpg
+{"number_of_people": 30, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "a person in dark clothing walking towards the castle entrance", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "a man with a blue baseball cap and grey shirt"}
+
+themepark_036.jpg
+{"number_of_people": 30, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "people standing near a large red barrel", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "a person wearing a brown plaid shirt and tan leggings"}
+
+themepark_037.jpg
+{"number_of_people": 84, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "people entering the park through the gates", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "woman in a grey t-shirt and denim shorts"}
+
+themepark_038.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man with glasses wearing a blue shirt and a backpack, looking towards the left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A man in a black t-shirt with his back to the camera, standing near a green railing."}
+
+themepark_039.jpg
+{"number_of_people": 80, "line_direction": "away", "end_visible": "no", "end_location": "far right", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person in a light grey jacket and blue jeans standing at the beginning of the line on the left."}
+
+themepark_040.jpg
+{"number_of_people": 15, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A woman with short dark hair wearing a light-colored patterned blouse and dark trousers.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A person wearing a white shirt and a dark backpack, standing at the front of the queue."}
+
+themepark_041.jpg
+{"number_of_people": 18, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a black t-shirt and black shorts at the end of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "A man in a grey t-shirt and blue jeans at the front of the line near the entrance."}
+
+themepark_042.jpg
+{"number_of_people": 42, "line_direction": "sideways-right", "end_visible": "no", "end_location": "far left", "end_camera_direction": "N/A", "end_person_description": "People at the far left edge of the frame where the line continues out of view.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A woman wearing a black short-sleeved shirt and blue pants at the front of the visible queue."}
+
+themepark_043.jpg
+{"number_of_people": 16, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "Woman in a black top and blue jeans standing at the front of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man in a black long-sleeved shirt and grey pants at the back of the line."}
+
+themepark_044.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Man in a blue and white plaid shirt and light blue jeans standing at the back of the line.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "Man in a red shirt standing at the service window at the front of the line."}
+
+themepark_045.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "woman with a red bandana and yellow top", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "blonde woman in a pink top and sunglasses"}
+
+themepark_046.jpg
+{"number_of_people": 12, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "a child in a yellow and white striped shirt and blue jeans", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "a man in a white button-down shirt, dark jeans, and brown shoes"}
+
+themepark_047.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "woman in a pink shirt and denim shorts", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "woman holding a baby"}
+
+themepark_048.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A man in a blue t-shirt and jeans standing at the back of a line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A person in a dark shirt at the front of the leftmost ticket window."}
+
+themepark_049.jpg
+{"number_of_people": 60, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a bright orange t-shirt and blue patterned shorts", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "person in a white shirt standing at the entrance gate"}
+
+themepark_050.jpg
+{"number_of_people": 19, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A woman wearing a white t-shirt, a purple jacket tied around her waist, and black pants, standing at the end of the line on the far right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person in a blue shirt standing at the front of the line on the far left."}
+
+themepark_051.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "people entering the ice cave", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "woman in a pink shirt and white shorts"}
+
+themepark_052.jpg
+{"number_of_people": 20, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A person in a black jacket and blue jeans standing at the back of the line on the far left.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A person in a dark jacket entering the building through the arched doorway."}
+
+themepark_053.jpg
+{"number_of_people": 50, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a white shirt and blue shorts walking through the entrance gate", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "a man wearing a tan shirt and a yellow baseball cap seen from behind"}
+
+themepark_054.jpg
+{"number_of_people": 50, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A group of people, including adults and children, entering the building through glass doors.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a blue shirt and dark pants standing at the beginning of the queue."}
+
+themepark_055.jpg
+{"number_of_people": 35, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A man in a white long-sleeved shirt and blue jeans standing next to a stroller.", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+themepark_056.jpg
+{"number_of_people": 35, "line_direction": "sideways-left", "end_visible": "no", "end_location": "far left", "end_camera_direction": "N/A", "end_person_description": "The front of the line is obscured by the structure and other people on the far left.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A boy in a grey t-shirt and grey shorts at the end of the line on the right."}
+
+themepark_057.jpg
+{"number_of_people": 14, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "a man in a plaid shirt and dark pants walking towards the right", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "a woman in a grey hoodie and a small child in a blue jacket"}
+
+themepark_058.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "man in a blue patterned jacket and black pants standing with his back to the camera", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "man in a black jacket and black pants standing with his back to the camera"}
+
+themepark_059.jpg
+{"number_of_people": 55, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in a dark t-shirt and dark shorts at the back of the line.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A person in a white shirt and dark pants at the front of the line near the entrance."}
+
+themepark_060.jpg
+{"number_of_people": 20, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "left", "end_person_description": "Woman in a white top and bright red pants standing near the turnstile entrance.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "Man in a dark grey hoodie and black shorts standing at the back of the queue."}
+
+themepark_061.jpg
+{"number_of_people": 22, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "man in a white t-shirt and black shorts", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "people standing at the entrance of the ride"}
+
+themepark_062.jpg
+{"number_of_people": 40, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman in a grey t-shirt and denim shorts standing on the far left", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "people at the entrance gates in the distance"}
+
+themepark_063.jpg
+{"number_of_people": 18, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A man in a black shirt and dark trousers walking away from the camera.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man with glasses wearing a black t-shirt and a backpack, looking towards the right."}
+
+themepark_064.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A young girl wearing a light blue top and a yellow hat walking towards the right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman in a purple and white striped shirt and blue jeans standing on the left."}
+
+themepark_065.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "People at the front of the line near the entrance gate.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man in a green tank top and white cap."}
+
+themepark_066.jpg
+{"number_of_people": 18, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a red t-shirt, grey shorts, and blue sneakers", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "person in a white shirt and dark pants standing at the entrance gate"}
+
+themepark_067.jpg
+{"number_of_people": 25, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "People at the front of the line, further away and facing right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman in a purple tank top and a man in a brown polo shirt at the back of the line."}
+
+themepark_068.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "Man in a grey t-shirt standing at the back of the line.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "Woman in a grey long-sleeved top and blue jeans standing at the front of the line."}
+
+themepark_069.jpg
+{"number_of_people": 18, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A person in a white shirt at the far end of the queue entering the building.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "A man in a light blue short-sleeved shirt and a dark baseball cap."}
+
+themepark_070.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman in a black and white plaid jacket and jeans", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "people at the front of the queue near the entrance gates"}
+
+themepark_071.jpg
+{"number_of_people": 15, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A man in a white t-shirt, blue shorts, and yellow sneakers, wearing a grey face mask.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a black t-shirt and black shorts, walking towards the right side of the frame."}
+
+themepark_072.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A person in a light-colored shirt at the far end of the queue near the entrance under the green awning.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A man in a bright blue t-shirt and khaki shorts standing at the beginning of the line on the left side of the frame."}
+
+themepark_073.jpg
+{"number_of_people": 35, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a yellow shirt and dark shorts standing near the center of the crowd", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "a person in a grey t-shirt and dark shorts standing on the far left"}
+
+themepark_074.jpg
+{"number_of_people": 40, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "a person in a white t-shirt and blue jeans at the front of the line", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "a person in a dark blue shirt with a white stripe on the sleeve"}
+
+themepark_075.jpg
+{"number_of_people": 15, "line_direction": "sideways-right", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a brown short-sleeved button-down shirt, tan cargo shorts, a tan baseball cap, and black sandals, talking on a cell phone."}
+
+themepark_076.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "a person in a light colored shirt at the far end of the queue", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "a woman with glasses and a blue shirt carrying a purple backpack"}
+
+themepark_077.jpg
+{"number_of_people": 20, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "A person in a dark shirt at the back of the line near the center of the boardwalk.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A person in a blue shirt at the front of the line on the far right."}
+
+themepark_078.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a blue short-sleeved button-down shirt looking down at something in his hands", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+themepark_079.jpg
+{"number_of_people": 38, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "People at the front of the line at the ticket booths, seen from behind.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "back", "start_person_description": "A person in a white shirt and dark pants entering the queue area."}
+
+themepark_080.jpg
+{"number_of_people": 11, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "A young boy in a yellow t-shirt and blue jeans walking towards the left at the end of the queue.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A person in a purple garment and head covering standing at the ticket window."}
+
+themepark_082.jpg
+{"number_of_people": 15, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman in a dark blue and grey shirt with a white stripe on the sleeve and dark pants", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "Person in a white t-shirt and dark shorts standing at the front of the line under the orange canopy"}
+
+themepark_083.jpg
+{"number_of_people": 15, "line_direction": "towards", "end_visible": "no", "end_location": "far right", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A man in a blue short-sleeved button-down shirt and glasses."}
+
+themepark_084.jpg
+{"number_of_people": 35, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "a person in a white t-shirt and dark shorts standing at the end of the queue near a trash can", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "a person in a blue shirt standing at the service counter under the blue awning"}
+
+themepark_085.jpg
+{"number_of_people": 80, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a light blue t-shirt, khaki shorts, and a black backpack standing at the end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person in a white shirt standing near a white circular sign at the front of the line."}
+
+themepark_086.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "no", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A group of people walking through a stone archway in the distance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A woman in a white t-shirt and black leggings walking away from the camera on the left side of the path."}
+
+themepark_087.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "left", "end_person_description": "person with a blue backpack and dark clothing", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "person in a blue shirt and shorts"}
+
+themepark_088.jpg
+{"number_of_people": 50, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a white t-shirt, black shorts, and black sneakers, standing at the front of the line."}
+
+themepark_089.jpg
+{"number_of_people": 150, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "a person with a black and white patterned backpack", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "people at the front of the line near the entrance gates"}
+
+themepark_090.jpg
+{"number_of_people": 19, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman in a white t-shirt and dark pants with a purple jacket tied around her waist.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man in a blue t-shirt and blue jeans standing at the front of the queue."}
+
+themepark_091.jpg
+{"number_of_people": 25, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "left", "end_person_description": "woman in a black and white patterned shirt and blue shorts", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "boy in a bright orange t-shirt and black shorts"}
+
+themepark_092.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a white shirt standing at the entrance of the building", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "a woman in a peach t-shirt and dark shorts"}
+
+themepark_093.jpg
+{"number_of_people": 18, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "person wearing a blue shirt and blue shorts at the far right of the group", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "child wearing a lime green dress and white socks"}
+
+themepark_094.jpg
+{"number_of_people": 50, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a pink shirt and white shorts at the front of the line on the far right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman in a red shirt, denim shorts, and a white baseball cap standing at the end of the line on the far left."}
+
+themepark_095.jpg
+{"number_of_people": 20, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a light blue polo shirt and jeans eating an ice cream cone", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "woman in a blue tank top and white pants"}
+
+themepark_096.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in the distance walking towards the Disneyland entrance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A man in a black t-shirt and jeans walking away from the camera on the left side."}
+
+themepark_097.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman wearing a white t-shirt and red shorts", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "man wearing a dark blue t-shirt and a dark cap entering the building"}
+
+themepark_098.jpg
+{"number_of_people": 40, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "a woman in a white long-sleeved shirt and denim shorts on the far right edge", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "people in red shirts standing under the Radiator Springs Racers archway"}
+
+themepark_099.jpg
+{"number_of_people": 18, "line_direction": "sideways-left", "end_visible": "no", "end_location": "far right", "end_camera_direction": "N/A", "end_person_description": "people in the distance on the right side of the path", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "woman in a pink shirt and black shorts looking at her phone"}
+
+themepark_100.jpg
+{"number_of_people": 100, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A man in a grey t-shirt and blue cap standing on the far right foreground."}
+
+themepark_101.jpg
+{"number_of_people": 28, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "A person in a purple shirt standing at the end of the queue.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person in a blue shirt at the front of the line near the blue umbrella."}
+
+themepark_102.jpg
+{"number_of_people": 50, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A woman in a green tank top and denim shorts with a brown bag.", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "N/A"}
+
+themepark_103.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "A man in a purple shirt, grey baseball cap, and black backpack, standing at the end of the line.", "start_visible": "no", "start_location": "N/A", "start_camera_direction": "N/A", "start_person_description": "The front of the line is obscured by the crowd in the distance."}
+
+themepark_104.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "people standing near the entrance gate further back", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "woman in a grey jacket and dark leggings"}
+
+themepark_105.jpg
+{"number_of_people": 40, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A crowd of people in the distance near the entrance gate.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A group of four people walking away, including a woman with a blue backpack."}
+
+outdoor_001.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "man in a grey suit with a backpack entering the restaurant", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "man in a black jacket looking at his phone"}
+
+outdoor_002.jpg
+{"number_of_people": 25, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a bright blue t-shirt facing away from the camera", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "man in a dark blue polo shirt and shorts"}
+
+outdoor_003.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "A person in a black shirt and patterned pants standing at the service window of the food truck.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person in a dark jacket and backpack, facing right, at the back of the line."}
+
+outdoor_004.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman in a tan trench coat and dark trousers, facing left", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "man in a long black coat and grey trousers, facing left towards the train door"}
+
+outdoor_005.jpg
+{"number_of_people": 6, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a red jersey with number 12", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "woman in a plaid shirt and blue jeans"}
+
+outdoor_006.jpg
+{"number_of_people": 35, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "woman in a long white puffer coat and black boots", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "people in dark coats standing near the entrance door"}
+
+outdoor_007.jpg
+{"number_of_people": 11, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man wearing a grey t-shirt, a baseball cap, and dark pants, standing at the back of the line on the far right.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A woman wearing a yellow sports jersey and holding a young child, positioned at the front of the line."}
+
+outdoor_008.jpg
+{"number_of_people": 8, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "A person in dark clothing standing at the service counter inside the shop.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A woman with reddish-brown hair in a bun, wearing a white blouse, tan trousers, and a white face mask."}
+
+outdoor_009.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Man in a grey jacket and dark pants, standing at the back of the line on the far left.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "Person at the front of the line at the service window, mostly obscured, wearing black pants and white sneakers."}
+
+outdoor_010.jpg
+{"number_of_people": 21, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in a maroon shirt and dark pants standing at the end of the line, facing left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person in a blue t-shirt and white shorts using an ATM, facing away from the camera."}
+
+outdoor_011.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Woman with short dark hair, wearing a turquoise shirt and white pants.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "Woman with long dark hair, wearing a black t-shirt and blue jeans."}
+
+outdoor_012.jpg
+{"number_of_people": 20, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A person in dark clothing entering the building at the top of the stairs.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A woman with blonde hair wearing a grey textured sweater and carrying a white tote bag."}
+
+outdoor_013.jpg
+{"number_of_people": 6, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a white short-sleeved shirt and dark trousers at the end of the line", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "man in a white short-sleeved shirt and dark trousers at the front of the line"}
+
+outdoor_014.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "no", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Small, blurry figures at the end of the line in the distance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A man in a black jacket partially visible on the far left foreground."}
+
+outdoor_015.jpg
+{"number_of_people": 9, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman in a white coat and black leggings", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "Woman in a pink jacket with a blue backpack and grey pants"}
+
+outdoor_016.jpg
+{"number_of_people": 13, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a grey jacket and dark pants at the far end of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A person in a light-colored jacket and black pants, wearing a mask and looking at their phone."}
+
+outdoor_017.jpg
+{"number_of_people": 3, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person wearing a bright red puffer jacket and a green backpack.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "A person in a grey hoodie and green pants, facing the restaurant entrance."}
+
+outdoor_018.jpg
+{"number_of_people": 6, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "woman in a black puffer coat and black pants, looking at her phone", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "person in a black jacket and dark pants standing at the front of the line"}
+
+outdoor_019.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A man with dark hair in a bun, wearing a light blue shirt and white trousers, standing at the back of the line.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A person in a dark suit standing at the front of the line, partially obscured by the woman in the pink top."}
+
+outdoor_020.jpg
+{"number_of_people": 16, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "woman in a long black coat and white sneakers", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "man in a red puffer jacket and dark pants"}
+
+outdoor_021.jpg
+{"number_of_people": 6, "line_direction": "towards", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Man with a beard wearing a green and white striped shirt, black cargo pants, and a black backpack.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Person in a red jacket and blue jeans standing at the front of the line near a building entrance."}
+
+outdoor_022.jpg
+{"number_of_people": 7, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "left", "end_person_description": "woman in a purple and white floral dress and a black fascinator", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "woman in a short white dress and red heels"}
+
+outdoor_023.jpg
+{"number_of_people": 8, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a grey jacket, blue jeans, and a black backpack", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "Woman in a red jacket and black pants standing behind a desk"}
+
+outdoor_024.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "Woman in a black jacket and light blue jeans, standing at the end of the line.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Man in a white sweater and tan trousers, standing in front of a portable toilet."}
+
+outdoor_025.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman with long dark hair wearing a light pink blazer and tan trousers, looking down at a tablet.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Woman with curly brown hair wearing a tan short-sleeved top and a dark green pleated skirt, looking down at her phone."}
+
+outdoor_026.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A group of people in the distance at the end of the queue.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A man in a maroon jacket and yellow shirt holding a white cup."}
+
+outdoor_027.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "Woman with long dark hair, wearing a dark blue blazer, grey trousers, and holding a white handbag and a phone.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Man with dark hair and glasses, wearing a white long-sleeved shirt, brown belt, blue trousers, and holding a black bag and a phone."}
+
+outdoor_028.jpg
+{"number_of_people": 16, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in a red and white patterned robe facing left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a light blue shirt and dark pants facing right."}
+
+outdoor_029.jpg
+{"number_of_people": 9, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "man in a light blue jacket, white beanie, and blue jeans, looking down at a phone and holding a brown bag", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "woman in a black puffer jacket and black pants, facing away from the camera"}
+
+outdoor_030.jpg
+{"number_of_people": 12, "line_direction": "towards", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A person at the far end of the line wearing dark clothing.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A woman wearing a yellow beanie, a plaid scarf, a dark jacket, blue jeans, and brown boots."}
+
+outdoor_031.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "person in a black jacket and dark pants with a black backpack, facing right", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "person in a black jacket and dark pants carrying a white bag, facing right"}
+
+outdoor_032.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a white t-shirt and tan pants, looking at his phone and carrying a black bag.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man in a light blue button-down shirt and black pants, wearing a backpack."}
+
+outdoor_033.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "young man in a blue button-down shirt and black pants, wearing a backpack", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "young man in a white t-shirt and tan pants, looking at his phone"}
+
+outdoor_034.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A woman in a blue denim jacket and a long beige skirt, looking up towards a door.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a white t-shirt and khaki trousers, standing at the back of the line."}
+
+outdoor_035.jpg
+{"number_of_people": 60, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A person in a red top and dark pants standing at the top of the stairs by a door.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A young man with curly brown hair wearing a black shirt and a blue strap with a red bag."}
+
+outdoor_036.jpg
+{"number_of_people": 6, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman in a dark jacket, black pants, and black boots, carrying a tan bag and looking at her phone", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "man in a dark blue jacket, blue jeans, and a black backpack, facing left towards the food cart"}
+
+outdoor_037.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "The line extends far into the distance under the covered walkway and the end is not clearly visible.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "A man in a black jacket and black backpack standing closest to the camera at the tail of the line."}
+
+outdoor_038.jpg
+{"number_of_people": 16, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "A man in a grey coat and dark pants walking towards the right side of the frame.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a black hat and a long black coat, looking at their hands."}
+
+outdoor_039.jpg
+{"number_of_people": 14, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A man in a red t-shirt and khaki trousers standing at an ATM.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a white short-sleeved shirt, grey trousers, and a white cap."}
+
+outdoor_040.jpg
+{"number_of_people": 35, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Small figures in the distance standing near the end of the building.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A woman in a white jacket and black pants walking towards the left."}
+
+outdoor_041.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a black t-shirt and blue jeans standing further down the sidewalk near a Target sign.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a grey t-shirt sitting in a folding chair on the sidewalk."}
+
+outdoor_042.jpg
+{"number_of_people": 8, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "Woman with long dark braids, wearing a black top and black pants, standing at the back of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man in a light grey shirt and dark pants, standing at the front of the line near a doorway."}
+
+outdoor_043.jpg
+{"number_of_people": 60, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "people standing in line in the distance", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "man in a white button-down shirt and blue jeans"}
+
+outdoor_044.jpg
+{"number_of_people": 3, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman with long brown hair wearing a light pink long-sleeved shirt.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "Black man in a light blue short-sleeved shirt holding a white cup."}
+
+outdoor_045.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A man in a white t-shirt and camouflage backpack standing at the front of the line near the restaurant entrance."}
+
+outdoor_046.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "A person in a black outfit standing near the portable toilets at the front of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "A woman with long brown hair wearing a colorful patterned top and black pants at the back of the line."}
+
+outdoor_047.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman in a beige jacket and black pants", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "person in a black hoodie and blue pants"}
+
+outdoor_048.jpg
+{"number_of_people": 11, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman with dark hair in a ponytail wearing a white top", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "man in a dark blue jacket and tan pants holding papers"}
+
+outdoor_049.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "no", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A person partially visible on the far left wearing a blue jacket and grey pants.", "start_visible": "no", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A person wearing a black hooded jacket, facing right at the far right of the frame."}
+
+outdoor_050.jpg
+{"error": "invalid_json", "raw": null}
+
+outdoor_051.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman in a blue t-shirt and black shorts", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "person at the front of the line under the red umbrella"}
+
+outdoor_052.jpg
+{"number_of_people": 8, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "Man in a blue denim jacket and blue jeans standing at the front of the line by the bus door.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "Person in a black jacket standing at the very back of the line near the bus stop sign."}
+
+outdoor_053.jpg
+{"number_of_people": 14, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "a person in a light-colored top entering the white trailer", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "a woman in a black top and black pants standing at the back of the line"}
+
+outdoor_054.jpg
+{"number_of_people": 10, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "Woman in a blue jacket with a bright orange scarf entering the bus door.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Woman with sunglasses and a blue top at the far left end of the line."}
+
+outdoor_055.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a dark jacket and glasses standing next to a large black suitcase, facing towards the left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a bright red hooded sweatshirt and black pants, facing towards the right."}
+
+outdoor_056.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A person wearing a yellow top and black trousers, facing right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a red shirt and ripped blue jeans, facing right."}
+
+outdoor_057.jpg
+{"number_of_people": 12, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person wearing a black jacket, dark pants, and a scarf, looking towards the left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a blue jacket and dark pants, facing towards the right."}
+
+outdoor_058.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "person in a black coat and a green and white beanie", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "person in a black jacket and a grey knit beanie"}
+
+outdoor_059.jpg
+{"number_of_people": 19, "line_direction": "sideways-right", "end_visible": "no", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "person in a white top partially visible", "start_visible": "no", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "person in a dark jacket partially visible"}
+
+outdoor_060.jpg
+{"number_of_people": 16, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person wearing a patterned shirt, dark pants, and a light-colored backpack.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a white t-shirt and dark pants."}
+
+outdoor_061.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman in a light grey coat and blue scarf, facing left, standing at the end of the line on the far right.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "Man in a purple jacket and grey pants with his back to the camera, standing at the front of the line near the restaurant entrance."}
+
+outdoor_062.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "man in a bright blue jacket and khaki pants", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "woman in a beige top and dark skirt interacting with a staff member"}
+
+outdoor_063.jpg
+{"number_of_people": 30, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A man in a blue puffer jacket and a striped scarf looking down at his phone."}
+
+outdoor_064.jpg
+{"number_of_people": 7, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman in a black jacket and blue jeans looking at her phone", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "man in a black jacket and black pants"}
+
+outdoor_065.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A person wearing a green jacket and dark pants at the back of the line on the far left.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A person in a long black coat facing towards the building entrance."}
+
+outdoor_066.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "person in a black t-shirt and black pants with arms crossed", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "woman in a floral top and blue jeans facing right"}
+
+outdoor_067.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a dark grey t-shirt and khaki shorts standing with a young girl in a pink tank top.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "Man in a blue and white plaid shirt and blue jeans standing at the food truck window."}
+
+outdoor_068.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "person in a black shirt", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "man in a green shirt"}
+
+outdoor_069.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in a blue shirt standing at the entrance of the building.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a grey shirt and black pants standing at the beginning of the line."}
+
+outdoor_070.jpg
+{"number_of_people": 48, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in dark clothing standing at the end of the line on the far right.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person in dark clothing at the front of the line on the far left."}
+
+outdoor_071.jpg
+{"number_of_people": 13, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A young boy in a dark blue long-sleeved shirt and blue jeans.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A man in a white t-shirt and blue jeans."}
+
+outdoor_072.jpg
+{"number_of_people": 4, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "person in a black leather jacket and blue jeans entering the shop", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "woman with long dark hair, wearing a black jacket and grey pants, standing with a dog"}
+
+outdoor_073.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "Person in a green jacket with 'radio' on the back, standing at the entrance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Woman in a black puffer jacket, green leggings, and white sneakers."}
+
+outdoor_074.jpg
+{"number_of_people": 10, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman in a yellow t-shirt and denim shorts", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "man in a green t-shirt and grey shorts at the food truck window"}
+
+outdoor_075.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "Woman with a red backpack, white t-shirt, denim shorts, and a patterned headwrap interacting with the food truck window.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Woman with blonde hair in a ponytail, wearing a black backpack, black t-shirt, and black shorts."}
+
+outdoor_076.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man wearing a grey beanie and a dark jacket, standing at the back of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "N/A", "start_person_description": "A man wearing a green New York Yankees baseball cap and a dark navy blue coat."}
+
+outdoor_077.jpg
+{"number_of_people": 35, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "a person in dark clothing at the far end of the line", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "a man in a blue hoodie and black shorts"}
+
+outdoor_078.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Person in a light-colored jacket and dark pants, standing on the far left.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "Man in a dark blue jacket and a black face mask, standing on the far right."}
+
+outdoor_079.jpg
+{"number_of_people": 5, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "left", "end_person_description": "woman in a bright blue outfit and headwrap, looking down at her phone", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "man in a brown t-shirt, blue jeans, and a black baseball cap, standing with arms crossed"}
+
+outdoor_080.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "A person in a grey hoodie and blue jeans at the far end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person in a black jacket and blue jeans, partially visible on the far left."}
+
+outdoor_081.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "Woman with short brown hair, wearing a light-colored ruffled top and a dark polka-dot skirt, carrying a dark backpack.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "back", "start_person_description": "A person in a white top and white pants entering the doorway."}
+
+outdoor_082.jpg
+{"number_of_people": 4, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A boy wearing a blue and white gradient t-shirt, seen from behind as he faces left.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "A boy in a white t-shirt with horizontal stripes of blue, yellow, and pink, facing left towards the lemonade stand."}
+
+outdoor_083.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "woman in a patterned shirt and dark shorts standing at the service window", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "man in a blue and white plaid shirt and khaki shorts"}
+
+outdoor_084.jpg
+{"number_of_people": 4, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "person in a blue shirt and shorts standing at the food cart window", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "man in a blue shirt and white hard hat drinking from a bottle at the back of the line"}
+
+outdoor_085.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A person in a black puffer jacket and black pants, looking at a phone.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A person in a black coat, black leggings, blue sneakers, and a pink scarf."}
+
+outdoor_086.jpg
+{"number_of_people": 30, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "man in a red shirt and dark pants", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "person in dark clothing"}
+
+outdoor_087.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "a person wearing a black jacket and a white cap at the end of the line", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "a person in a black jacket standing at the food truck window"}
+
+outdoor_088.jpg
+{"number_of_people": 11, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "person in a red shirt and blue shorts at the back of the line", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "woman with blonde hair in a white t-shirt standing at the food truck window"}
+
+outdoor_089.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "woman with white hair in a black top and black pants looking at the menu", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "woman in a green tank top and denim shorts"}
+
+outdoor_090.jpg
+{"number_of_people": 14, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person wearing a white long-sleeved shirt and blue jeans, standing at the very end of the line on the far right.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A person wearing a white t-shirt and black pants, standing at the front of the line at the food truck."}
+
+outdoor_091.jpg
+{"number_of_people": 14, "line_direction": "towards", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person with short blonde hair wearing a dark blue jacket and black trousers, seen from behind.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A person in a blue shirt standing at the front of the queue near the entrance of a small brick building."}
+
+outdoor_092.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in dark winter clothing stepping into the open door of a train.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person in a black hooded winter coat and black pants standing at the back of the line."}
+
+outdoor_093.jpg
+{"number_of_people": 6, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man with dark hair and glasses, wearing a dark suit and white shirt, facing left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man with a beard, wearing a dark suit, facing left."}
+
+outdoor_094.jpg
+{"number_of_people": 6, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Bald man with glasses, wearing a light blue button-down shirt and khaki pants, looking at his phone.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Woman with curly hair, wearing an olive green shirt, blue jeans, and carrying a black messenger bag, looking at a tablet."}
+
+outdoor_095.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "Man in a blue shirt and jeans, facing right, standing near the restaurant entrance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "Man in a light-colored blazer, back to the camera, on the far left."}
+
+outdoor_096.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "man in a white t-shirt and dark shorts using a public phone", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "young man in a white t-shirt and dark shorts"}
+
+outdoor_097.jpg
+{"number_of_people": 12, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a black t-shirt and grey shorts", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "woman in a black t-shirt and denim shorts standing at the coffee truck window"}
+
+outdoor_098.jpg
+{"number_of_people": 5, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a black and white t-shirt standing at the back of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man in a grey suit and blue tie looking at his phone at the front of the line."}
+
+outdoor_099.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Man in a dark shirt, partially visible on the far left edge of the frame.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "Man in a blue long-sleeved shirt and light-colored trousers, standing at the service window of a food truck."}
+
+outdoor_100.jpg
+{"number_of_people": 10, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a black long-sleeved shirt and blue jeans, holding a grey plastic bin.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A man in a green polo shirt and blue jeans, pushing a stroller."}
+
+outdoor_101.jpg
+{"number_of_people": 10, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A person in a dark jacket standing at the doorway.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a long black puffer coat and blue leggings."}
+
+outdoor_102.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "A person in a white shirt and tan pants standing at the food truck window.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a tan jacket and red pants."}
+
+outdoor_103.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "no", "end_location": "far right", "end_camera_direction": "N/A", "end_person_description": "N/A", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A man wearing a blue jacket and dark pants, standing with his back to the camera."}
+
+outdoor_104.jpg
+{"number_of_people": 9, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "woman in a dark blue hoodie and black leggings looking at her phone", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "woman in a white shirt and black vest looking at her phone"}
+
+outdoor_105.jpg
+{"number_of_people": 10, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "woman in a long black coat and black leggings", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "woman in a black jacket and black pants with a brown purse"}
+
+outdoor_106.jpg
+{"number_of_people": 11, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "person in dark clothing at the front of the queue near the entrance", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "man in a dark jacket and dark pants standing at the end of the line"}
+
+outdoor_107.jpg
+{"number_of_people": 24, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a white t-shirt and blue jeans standing at the end of the line on the far left", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "man in a white t-shirt and dark pants standing at the front of the line on the far right"}
+
+outdoor_108.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "Woman with long dark hair, wearing a red short-sleeved shirt, black pants, and carrying a large black bag.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Woman wearing a straw hat, a black sleeveless dress, and sandals."}
+
+outdoor_109.jpg
+{"number_of_people": 10, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "left", "end_person_description": "man in a black shirt standing at the end of the line", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "woman in a light blue shirt standing at the food truck window"}
+
+outdoor_110.jpg
+{"number_of_people": 4, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman with long dark hair wearing a yellow knit sweater and blue jeans.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "Woman with blonde hair wearing a light blue long-sleeved shirt and grey trousers."}
+
+outdoor_111.jpg
+{"number_of_people": 12, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "a person in a dark top standing at the window of an orange food truck", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "a woman with dark hair wearing a dark blue tank top and blue denim shorts"}
+
+outdoor_112.jpg
+{"number_of_people": 10, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "girl in a yellow shirt and pink shorts", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "girl in a pink shirt and blue shorts"}
+
+outdoor_113.jpg
+{"number_of_people": 19, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "a young girl in a pink top and yellow shorts", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "a boy in a white t-shirt and khaki shorts"}
+
+outdoor_114.jpg
+{"number_of_people": 9, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A man in a black suit standing with his back to the camera at the front of the line near the entrance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman in a black dress standing at the back of the line on the far left."}
+
+outdoor_115.jpg
+{"number_of_people": 5, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "man in a brown jacket and blue jeans", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "woman in a beige coat with a black backpack"}
+
+outdoor_116.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A man on the far left edge of the frame, partially visible and facing towards the right.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A man with a beard wearing a brown jacket and blue jeans, standing at the service window of a yellow food truck."}
+
+outdoor_117.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man wearing a colorful short-sleeved shirt, dark shorts, white sneakers, and a grey cap, standing at the end of the line and facing left.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A woman wearing a pink top, light blue jeans, and a pink backpack, stepping into the bus while facing left."}
+
+outdoor_118.jpg
+{"number_of_people": 15, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "Woman in a blue long-sleeved shirt and dark pants, looking at a phone.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "Woman in a beige jacket, white scarf, and jeans, carrying a red bag."}
+
+outdoor_119.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "Man in a white polo shirt and blue jeans", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Man in a dark shirt entering the building"}
+
+outdoor_120.jpg
+{"number_of_people": 10, "line_direction": "towards", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "A person at the very back of the line wearing a dark jacket and a yellow hat.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A woman at the front of the line wearing a clear raincoat and a yellow shirt, holding a yellow flag."}
+
+outdoor_121.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a white shirt and dark jeans looking at his watch.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a green t-shirt and dark jeans looking at his watch."}
+
+outdoor_122.jpg
+{"number_of_people": 45, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person entering a stone archway in the distance.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A man in a blue denim jacket and blue jeans seen from behind."}
+
+outdoor_123.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person with short dark hair, wearing a black leather jacket and a thick grey scarf, looking down at a smartphone.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person with dark hair wearing a dark blue coat, standing at the back of the line and looking forward."}
+
+outdoor_124.jpg
+{"number_of_people": 16, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the queue.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A woman wearing a blue t-shirt and grey shorts."}
+
+outdoor_125.jpg
+{"number_of_people": 15, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Person wearing a red hooded sweatshirt and dark pants", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "Woman wearing a blue tank top, blue jeans, and a blue scarf"}
+
+outdoor_126.jpg
+{"number_of_people": 5, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "left", "end_person_description": "A man in a black t-shirt and blue jeans, looking down at the ground.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A man in a black t-shirt and blue jeans, standing at the end of the line."}
+
+outdoor_127.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a brown jacket and jeans at the end of the line", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "man in a black suit standing at the entrance"}
+
+outdoor_128.jpg
+{"number_of_people": 14, "line_direction": "towards", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A shirtless man with dark curly hair and dark trousers standing barefoot at the end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person in a yellow t-shirt and dark shorts standing at the front of the line near green portable toilets."}
+
+outdoor_129.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A woman with long dark hair wearing a pink top and grey pants.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman with large curly hair wearing a red jacket, yellow top, and dark pants."}
+
+outdoor_130.jpg
+{"number_of_people": 35, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a dark suit standing at the very end of the line, facing away from the camera.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A blonde woman in a dark suit, seen from the back of her head, at the very front of the line."}
+
+outdoor_131.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "A man in a red jacket and dark pants standing at the back of the group with luggage.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "A man in a black jacket standing by the bus door next to a pile of luggage."}
+
+outdoor_132.jpg
+{"number_of_people": 4, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "man in a red and white horizontal striped polo shirt and dark blue pants", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "shirtless older man with grey hair, wearing blue jeans and black shoes"}
+
+outdoor_133.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "woman in a light beige jacket and pants, facing away from the camera, carrying a white shopping bag", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "woman in a white hoodie and dark pants, facing right at the front of the line"}
+
+outdoor_134.jpg
+{"number_of_people": 7, "line_direction": "away", "end_visible": "no", "end_location": "N/A", "end_camera_direction": "N/A", "end_person_description": "A person wearing a black top and green pants, standing at the far right of the visible line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person wearing a light blue sleeveless dress and white sneakers, leaning forward slightly."}
+
+outdoor_135.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "center", "end_camera_direction": "back", "end_person_description": "A person in a white shirt standing at the front of the queue near the white tents.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman wearing a black hat and a white long-sleeved shirt, carrying a large patterned tote bag."}
+
+outdoor_136.jpg
+{"number_of_people": 15, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "man in a light blue shirt and tan pants at the front of the line", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "man in a purple t-shirt and black cap at the back of the line"}
+
+outdoor_137.jpg
+{"number_of_people": 16, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A person partially visible on the far left wearing a light-colored coat.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "A man in a blue shirt and khaki pants standing near the restaurant entrance."}
+
+outdoor_138.jpg
+{"number_of_people": 12, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a navy blue t-shirt with a circular logo, black track pants with white stripes, and white sneakers, facing left.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "Woman in a blue and white patterned shirt and blue jeans, standing at the doorway facing left."}
+
+outdoor_139.jpg
+{"number_of_people": 8, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A man in a light grey shirt and khaki pants facing left at the end of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A woman in a black top and grey skirt facing left at the front of the line."}
+
+outdoor_140.jpg
+{"number_of_people": 9, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a dark suit with a black shoulder bag walking towards the left", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "person in a tan coat facing left at the front of the line"}
+
+outdoor_141.jpg
+{"number_of_people": 25, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in dark clothing at the far end of the line on the sidewalk.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "N/A", "start_person_description": "A woman with curly hair wearing a white polka-dot shirt, dark pants, and a black face mask."}
+
+outdoor_142.jpg
+{"number_of_people": 8, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "woman in a light blue dress at the far left end of the line", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "woman wearing a white sun hat and a green top standing at the food truck window"}
+
+outdoor_143.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Man wearing a white helmet, a green backpack, and khaki shorts.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Person wearing a white shirt and a face mask standing in the doorway."}
+
+outdoor_144.jpg
+{"number_of_people": 6, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "Man wearing a white t-shirt, brown shorts, and a black backpack", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "back", "start_person_description": "Woman with short blonde hair wearing a grey top and black and white patterned pants"}
+
+outdoor_145.jpg
+{"number_of_people": 12, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a light blue t-shirt and blue jeans with arms crossed.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Woman in a grey jacket and light grey pants."}
+
+outdoor_146.jpg
+{"number_of_people": 4, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "man in a grey polo shirt", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "man in a blue t-shirt leaning on the food truck counter"}
+
+outdoor_147.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A child with blonde hair and a red backpack seen through the bus door.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A child with red hair, wearing a light green shirt, white pants, and a yellow backpack."}
+
+outdoor_148.jpg
+{"number_of_people": 18, "line_direction": "sideways-left", "end_visible": "no", "end_location": "far left", "end_camera_direction": "left", "end_person_description": "Woman in a grey jacket and dark skirt standing at the far left of the visible line.", "start_visible": "no", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "Man in a light blue shirt partially visible on the far right edge of the frame."}
+
+outdoor_149.jpg
+{"number_of_people": 20, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A person in a black top and dark pants at the far right end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person wearing a white jacket and blue jeans, facing away from the camera at the far left start of the line."}
+
+outdoor_150.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Woman with reddish hair, wearing a black blazer and orange trousers, standing at the end of the line.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "Man with dark hair and a beard, wearing a light green button-down shirt and dark trousers, standing at the front of the line."}
+
+outdoor_151.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A person in a dark shirt standing at the end of the queue near a red awning.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A man in an orange t-shirt and blue jeans with a black crossbody bag, facing away from the camera."}
+
+outdoor_152.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Man in a light blue button-down shirt and dark trousers, standing with arms crossed.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "right", "start_person_description": "Man in a blue long-sleeved shirt and light-colored trousers, reaching towards the food truck window."}
+
+outdoor_153.jpg
+{"number_of_people": 9, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "A person wearing a white and blue plaid jacket and dark pants at the back of the line.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "left", "start_person_description": "A person wearing a grey coat and dark pants standing at the front of the food stall counter."}
+
+outdoor_154.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person wearing a black shirt and dark pants standing at the front of the line near the bus.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "A person with a bun hairstyle wearing a light blue denim jacket and black pants."}
+
+outdoor_155.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A person in a white shirt at the far end of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "A man in a light-colored shirt and shorts standing near the service window."}
+
+outdoor_156.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "A person in a light blue outfit entering a doorway.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A woman in a black and white patterned dress and black sneakers."}
+
+outdoor_157.jpg
+{"number_of_people": 13, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "a man in a salmon-colored polo shirt standing at the counter", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "a man in a blue and white plaid shirt and light blue jeans"}
+
+outdoor_158.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "man in a red shirt at the service window", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "person in a grey hoodie and hat"}
+
+outdoor_159.jpg
+{"number_of_people": 7, "line_direction": "towards", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person in a dark blue hooded jacket and dark pants, facing away from the camera.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A person in a black jacket with a red hood, standing at the front of the line near the shop entrance."}
+
+outdoor_160.jpg
+{"number_of_people": 8, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "An elderly woman in a maroon top and light-colored pants standing at the end of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A person in dark clothing entering the portable toilet at the front of the line."}
+
+outdoor_161.jpg
+{"number_of_people": 4, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "Man in a black t-shirt and green cap, partially visible on the far left.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "Woman with dark hair in a ponytail, wearing a black t-shirt, standing at the food truck counter."}
+
+outdoor_162.jpg
+{"number_of_people": 12, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "left", "end_person_description": "A person in a black hoodie and black pants, wearing a white face mask, standing near an orange door.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person with a large red bag, wearing black leggings and a dark top, facing towards the right."}
+
+outdoor_163.jpg
+{"number_of_people": 6, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "Person in a green shirt and black pants at the end of the line.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Man in a grey t-shirt and black shorts standing at the food truck window."}
+
+outdoor_164.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in dark clothing standing at the far end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman in a white sweatshirt and black leggings looking at her phone."}
+
+outdoor_165.jpg
+{"number_of_people": 11, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "woman in a white t-shirt and black pants walking away at the end of the line", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "man in a white shirt and blue jeans standing at the front of the line by the food truck"}
+
+outdoor_166.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "woman in a grey shirt and blue jeans standing at the back of the line on the grass", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "woman in a black and white patterned shirt and blue jeans standing at the front of the line on the grass"}
+
+outdoor_167.jpg
+{"number_of_people": 6, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "center", "end_camera_direction": "left", "end_person_description": "man in a tan t-shirt and dark pants", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "woman in a white patterned sleeveless dress"}
+
+outdoor_168.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "woman in a white t-shirt, black shorts, and a visor", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "woman in a beige jacket standing at the food truck window"}
+
+outdoor_169.jpg
+{"number_of_people": 11, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "Woman in a dark jacket and blue jeans with a large yellow shoulder bag", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "Woman in a pink top and white trousers standing near the portable toilets"}
+
+outdoor_170.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "person in a light blue t-shirt, dark pants, and a tan baseball cap", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "person in a dark patterned shirt and dark pants interacting with the food truck vendor"}
+
+outdoor_171.jpg
+{"number_of_people": 3, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "right", "end_person_description": "boy in a grey t-shirt and blue jeans", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "woman in a bright blue dress"}
+
+outdoor_172.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A man in a white t-shirt and dark pants standing furthest from the camera in the visible line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man in a blue t-shirt with a graphic and glasses standing closest to the camera."}
+
+outdoor_173.jpg
+{"number_of_people": 5, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a white shirt looking towards the right", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "man in a blue jacket facing away from the camera"}
+
+outdoor_174.jpg
+{"number_of_people": 11, "line_direction": "towards", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A man wearing a black t-shirt, blue camouflage pants, and a black baseball cap, with tattoos on his arms.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "A person wearing a white t-shirt and tan shorts, standing at the service window of a red food truck."}
+
+outdoor_175.jpg
+{"number_of_people": 10, "line_direction": "towards", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a red and white striped shirt and black pants", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "right", "start_person_description": "woman in a bright yellow dress"}
+
+outdoor_176.jpg
+{"number_of_people": 6, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in a black jacket and blue pants, facing left, standing near a map sign.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person in a tan coat and dark pants, carrying a bag, facing away from the camera."}
+
+outdoor_177.jpg
+{"number_of_people": 9, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "A woman wearing a plaid shirt, dark shorts, white sneakers, and a face mask.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A man wearing a grey t-shirt, dark pants, black boots, a face mask, and blue gloves."}
+
+outdoor_178.jpg
+{"number_of_people": 7, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Woman in a black jacket, blue jeans, and carrying a purple bag, standing at the end of the line.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "Man in a grey jacket and black pants, standing at the front of the line near the bus door."}
+
+outdoor_179.jpg
+{"number_of_people": 8, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "man in a tan jacket and red baseball cap", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "right", "start_person_description": "man in a blue jacket and black baseball cap with a large backpack"}
+
+outdoor_180.jpg
+{"number_of_people": 9, "line_direction": "towards", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "right", "end_person_description": "man in a green button-down shirt", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "person in a blue shirt"}
+
+outdoor_181.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a grey hoodie holding a black umbrella", "start_visible": "yes", "start_location": "center", "start_camera_direction": "right", "start_person_description": "person in a black jacket and dark pants looking at their phone"}
+
+outdoor_182.jpg
+{"number_of_people": 5, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "person in a green jacket and dark pants pushing a shopping cart", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "person with grey hair wearing a dark jacket and a large black backpack"}
+
+outdoor_183.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "man in a grey jacket and dark trousers", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "back", "start_person_description": "person in a dark jacket entering the doorway"}
+
+outdoor_184.jpg
+{"number_of_people": 11, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "A person wearing a dark coat at the end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "back", "start_person_description": "A person with grey hair wearing a cream-colored jacket, seen from behind."}
+
+outdoor_185.jpg
+{"number_of_people": 40, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "back", "end_person_description": "A person in a dark jacket at the very end of the visible line.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A woman wearing a long orange coat and carrying a bright yellow bag."}
+
+outdoor_186.jpg
+{"number_of_people": 7, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "center", "end_camera_direction": "right", "end_person_description": "A person wearing a light grey sweater and black pants, standing at the front of the line by the food truck window.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A person wearing a black jacket and dark pants, standing at the very back of the line on the far left."}
+
+outdoor_187.jpg
+{"number_of_people": 18, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a grey t-shirt and grey shorts", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "person in a blue dress"}
+
+outdoor_188.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "A person in a dark jacket and dark pants standing at the far end of the line near the building entrance.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "A person in a bright blue puffer jacket and dark pants holding a white bag, standing closest to the camera."}
+
+outdoor_189.jpg
+{"number_of_people": 8, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "man in a dark suit and face mask standing on the far right", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "back", "start_person_description": "person in dark clothing boarding the bus"}
+
+outdoor_190.jpg
+{"number_of_people": 9, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "back", "end_person_description": "Man in a black t-shirt and grey pants standing at the end of the line.", "start_visible": "yes", "start_location": "center", "start_camera_direction": "back", "start_person_description": "Man with a red backpack and a green shirt facing the door."}
+
+outdoor_191.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "A person in a dark jacket standing at the far end of the queue on the left side of the image.", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "back", "start_person_description": "Woman in a dark blue jacket and grey pants, facing away from the camera at the front of the line."}
+
+outdoor_192.jpg
+{"number_of_people": 22, "line_direction": "sideways-right", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person wearing an orange shirt and dark shorts at the end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person in dark clothing standing near the blue portable toilets at the front of the line."}
+
+outdoor_193.jpg
+{"number_of_people": 45, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person at the far right end of the line wearing a light-colored dress.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "A person at the front of the line reaching towards the door of the building labeled 'THE SUGAR SHACK'."}
+
+outdoor_194.jpg
+{"number_of_people": 30, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A woman in a dark coat and hat standing at the end of the line, facing left.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "People at the front of the line entering the doorway of a building labeled 'THE SUGAR SHACK'."}
+
+outdoor_195.jpg
+{"number_of_people": 10, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "back", "end_person_description": "woman in a bright pink jacket and black shorts", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "back", "start_person_description": "woman in a pink tank top and dark patterned shorts"}
+
+outdoor_196.jpg
+{"number_of_people": 18, "line_direction": "away", "end_visible": "yes", "end_location": "center right", "end_camera_direction": "right", "end_person_description": "a group of people standing near a red rope barrier at the entrance of a shop with a red awning", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "a woman in a long white coat and black pants looking at her phone"}
+
+outdoor_197.jpg
+{"number_of_people": 15, "line_direction": "away", "end_visible": "yes", "end_location": "far left", "end_camera_direction": "right", "end_person_description": "person in a light-colored top at the far end of the line", "start_visible": "yes", "start_location": "far right", "start_camera_direction": "left", "start_person_description": "woman in a white puffer jacket and glasses looking down"}
+
+outdoor_198.jpg
+{"number_of_people": 12, "line_direction": "away", "end_visible": "yes", "end_location": "center left", "end_camera_direction": "back", "end_person_description": "A person in dark clothing standing at the front of the line furthest from the camera near a shop entrance.", "start_visible": "yes", "start_location": "center right", "start_camera_direction": "back", "start_person_description": "A person wearing a brown and white varsity jacket, black leggings, and white sneakers at the back of the line."}
+
+outdoor_199.jpg
+{"number_of_people": 10, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person wearing a beige and brown varsity jacket with a white logo on the back.", "start_visible": "yes", "start_location": "center left", "start_camera_direction": "left", "start_person_description": "A person in a dark jacket at the front of the line near the shop window."}
+
+outdoor_200.jpg
+{"number_of_people": 11, "line_direction": "sideways-left", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "Man in a dark suit and white mask, holding a smartphone, with a black bag over his shoulder, facing left.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "left", "start_person_description": "Man in a blue jacket and grey pants, carrying a dark bag over his shoulder, facing left."}
+
+outdoor_201.jpg
+{"number_of_people": 9, "line_direction": "away", "end_visible": "yes", "end_location": "far right", "end_camera_direction": "left", "end_person_description": "A person in a black jacket and dark pants standing at the far right end of the line.", "start_visible": "yes", "start_location": "far left", "start_camera_direction": "right", "start_person_description": "A woman in a light blue sweatshirt and dark leggings, wearing a white face mask and looking at her phone."}
+

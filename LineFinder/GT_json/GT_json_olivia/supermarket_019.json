@@ -1,0 +1,31 @@
+{
+    "image_id": "supermarket_019",
+    "image_name": "supermarket_019_start_end.jpg",
+    "image_path": "olivia_start_end/supermarket_019_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "8",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Back-of-queue: bright blue puffer jacket, faded jeans, short messy hair.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Short light-brown hair; dark coat with raised collar; blue jeans; white sneakers; using a phone.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "4",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Back-of-queue: bright blue puffer jacket, faded jeans, short messy hair.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Black hair in a bun, dark green winter jacket with blonde fur trimming, dark blue shirt with red detailing, black leggings, blue shoes.",
+        "Is this image too hard?": "no"
+    }
+}

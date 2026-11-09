@@ -1,0 +1,39 @@
+{
+    "line_shape": {
+        "turns": 0,
+        "description": "Straight"
+    },
+    "people": {
+        "number_of_people": 6,
+        "direction_they_are_facing": "Facing towards",
+        "start_person_description": "person in blue jacket with beanie hat",
+        "end_person_description": "person in dark shirt looking down",
+        "counter_person_description": "unknown"
+    },
+    "boundary": {
+        "boundary_present": false,
+        "boundary_types": "none"
+    },
+    "start_of_line": {
+        "visible": "no",
+        "location_if_visible": "N/A",
+        "direction_to_turn_if_not_visible": "right"
+    },
+    "end_of_line": {
+        "visible": "yes",
+        "location_if_visible": "far left",
+        "direction_to_turn_if_not_visible": "N/A"
+    },
+    "line_purpose": "supermarket",
+    "line_completeness": "partial",
+    "line_coordinates": {
+        "start": {
+            "x": 40,
+            "y": 114
+        },
+        "end": {
+            "x": 423,
+            "y": 115
+        }
+    }
+}

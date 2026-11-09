@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_093",
+    "image_name": "themepark_093_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_093_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "18",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Side-facing person in a dark polo and light blue jeans, tan hiking shoes, sunglasses; holding a black bag.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Short dark spiky hair; gray jacket; faded jeans; white sneakers; standing with one leg bent, back to camera.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "28",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "right",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Woman in teal shirt, mostly blocked from view by others, standing at window of kiosk, wearing gray pants and sneakers.",
+        "Is this image too hard?": "no"
+    }
+}

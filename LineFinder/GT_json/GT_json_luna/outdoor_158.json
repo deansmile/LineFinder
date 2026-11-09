@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_158",
+    "image_name": "outdoor_158_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_158_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "7",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Light sunhat, gray hoodie, olive knee-length shorts, flip-flops; standing side-on with hands in pockets.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Bald person in a red T-shirt and beige shorts, standing sideways holding a white bag.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "7",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Light sunhat, gray hoodie, olive knee-length shorts, flip-flops; standing side-on with hands in pockets.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Bald person in a red T-shirt and beige shorts, standing sideways holding a white bag.",
+        "Is this image too hard?": "no"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "image_id": "supermarket_061",
+    "image_name": "supermarket_061_start_end.jpg",
+    "image_path": "olivia_start_end/supermarket_061_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "4",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Side-profile shopper in a gray polo, blue knee-length shorts, gray sneakers; glasses; carrying a green tote, phone, and groceries.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: short gray hair, black hoodie, dark jeans, leaning forward.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "4",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Side-profile shopper in a gray polo, blue knee-length shorts, gray sneakers; glasses; carrying a green tote, phone, and groceries.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: short gray hair, black hoodie, dark jeans, leaning forward.",
+        "Is this image too hard?": "no"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_005",
+    "image_name": "themepark_005_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_005_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "12",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Camo bucket hat, gray T‑shirt, dark shorts, blue backpack; black slides; standing side-on with hands in pockets, head tilted down.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: long wavy hair, red mouse-ear headband, dark sleeveless top, blue athletic shorts with pink trim, sneakers; one arm raised adjusting headwear.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "12",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Camo bucket hat, gray T‑shirt, dark shorts, blue backpack; black slides; standing side-on with hands in pockets, head tilted down.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: long wavy hair, red mouse-ear headband, dark sleeveless top, blue athletic shorts with pink trim, sneakers; one arm raised adjusting headwear.",
+        "Is this image too hard?": "yes"
+    }
+}

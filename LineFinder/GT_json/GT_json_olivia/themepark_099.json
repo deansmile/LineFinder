@@ -1,0 +1,31 @@
+{
+    "image_id": "themepark_099",
+    "image_name": "themepark_099_start_end.jpg",
+    "image_path": "olivia_start_end/themepark_099_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "16",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Blue polo with a round sticker, khaki shorts, light-blue face mask, black sneakers; short gray hair, standing.",
+        "Do we see the start of line?": "no",
+        "If yes, where is the start of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the start of the line?": "left",
+        "Description of the person at the start of the line": "",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "16",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "right",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "no",
+        "If yes, where is the start of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the start of the line?": "left",
+        "Description of the person at the start of the line": "",
+        "Is this image too hard?": "no"
+    }
+}

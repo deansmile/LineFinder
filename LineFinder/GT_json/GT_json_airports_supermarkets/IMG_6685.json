@@ -1,0 +1,39 @@
+{
+    "line_shape": {
+        "turns": 1,
+        "description": "Angled"
+    },
+    "people": {
+        "number_of_people": 18,
+        "direction_they_are_facing": "Facing away",
+        "start_person_description": "person wearing gray shirt with black pants and backpack",
+        "end_person_description": "woman with long blonde hair and blue jacket",
+        "counter_person_description": "unknown"
+    },
+    "boundary": {
+        "boundary_present": true,
+        "boundary_types": "rope dividers"
+    },
+    "start_of_line": {
+        "visible": "yes",
+        "location_if_visible": "far right",
+        "direction_to_turn_if_not_visible": "N/A"
+    },
+    "end_of_line": {
+        "visible": "no",
+        "location_if_visible": "N/A",
+        "direction_to_turn_if_not_visible": "back"
+    },
+    "line_purpose": "airport",
+    "line_completeness": "partial",
+    "line_coordinates": {
+        "start": {
+            "x": 97,
+            "y": 269
+        },
+        "end": {
+            "x": 531,
+            "y": 235
+        }
+    }
+}

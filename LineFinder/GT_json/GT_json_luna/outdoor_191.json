@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_191",
+    "image_name": "outdoor_191_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_191_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "13",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Back view: dark sweater, gray loose trousers, black crossbody bag, dark hair tied back, maroon shoes.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: dark purple jacket, blue jeans, ponytail, black-and-white sneakers, at queue front.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "5",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "far right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Person with mid-length brown hair held by pink hairclip wearing a black dress over a brown shirt, white socks, and black shoes",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Back view: light pink jacket, black jeans, ponytail, black sneakers, and a white crossbody bag at queue front.",
+        "Is this image too hard?": "no"
+    }
+}

@@ -1,0 +1,409 @@
+image_id,image_path,status,end_of_line_visible,end_of_line_location_if_visible,direction_to_turn_to_see_end_if_not_visible,start_of_line_visible,start_of_line_location_if_visible,direction_to_turn_to_see_start_if_not_visible
+supermarket_001,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_001.jpg,ok,yes,center right,N/A,no,N/A,left
+supermarket_002,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_002.jpg,ok,yes,center right,N/A,no,N/A,left
+supermarket_003,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_003.jpg,ok,yes,center left,N/A,no,N/A,right
+supermarket_004,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_004.jpg,ok,yes,center,N/A,yes,far right,N/A
+supermarket_005,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_005.jpg,ok,no,N/A,right,no,N/A,right
+supermarket_006,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_006.jpg,ok,no,N/A,right,no,N/A,right
+supermarket_007,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_007.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_008,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_008.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_009,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_009.jpg,ok,no,N/A,right,yes,far right,N/A
+supermarket_010,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_010.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_011,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_011.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_012,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_012.jpg,ok,yes,far left,N/A,yes,center left,N/A
+supermarket_013,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_013.jpg,ok,yes,far right,N/A,yes,center,N/A
+supermarket_014,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_014.jpg,ok,no,N/A,right,yes,far left,N/A
+supermarket_015,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_015.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_016,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_016.jpg,ok,yes,far right,N/A,no,N/A,right
+supermarket_017,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_017.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_018,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_018.jpg,ok,yes,center right,N/A,yes,center,N/A
+supermarket_019,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_019.jpg,ok,yes,center left,N/A,yes,center,N/A
+supermarket_020,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_020.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_021,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_021.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_022,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_022.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_023,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_023.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_024,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_024.jpg,ok,yes,center,N/A,yes,center,N/A
+supermarket_025,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_025.jpg,ok,yes,far left,N/A,yes,far right,N/A
+supermarket_026,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_026.jpg,ok,no,N/A,right,yes,far right,N/A
+supermarket_027,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_027.jpg,ok,yes,center,N/A,yes,center,N/A
+supermarket_028,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_028.jpg,ok,yes,center,N/A,no,N/A,right
+supermarket_029,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_029.jpg,ok,yes,center right,N/A,no,N/A,left
+supermarket_030,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_030.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_031,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_031.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_032,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_032.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_033,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_033.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_034,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_034.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_035,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_035.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_036,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_036.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_037,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_037.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_038,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_038.jpg,ok,yes,far right,N/A,yes,far left,N/A
+supermarket_039,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_039.jpg,ok,yes,center,N/A,yes,far right,N/A
+supermarket_040,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_040.jpg,ok,no,N/A,right,yes,far left,N/A
+supermarket_041,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_041.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_042,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_042.jpg,ok,yes,far left,N/A,yes,center,N/A
+supermarket_043,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_043.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_044,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_044.jpg,ok,no,N/A,right,no,N/A,right
+supermarket_045,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_045.jpg,ok,yes,center left,N/A,yes,center right,N/A
+supermarket_046,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_046.jpg,ok,yes,far right,N/A,yes,center left,N/A
+supermarket_047,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_047.jpg,ok,yes,center left,N/A,yes,center right,N/A
+supermarket_048,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_048.jpg,ok,yes,center right,N/A,yes,center,N/A
+supermarket_049,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_049.jpg,ok,yes,far left,N/A,yes,far right,N/A
+supermarket_050,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_050.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_051,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_051.jpg,ok,no,N/A,right,yes,center right,N/A
+supermarket_052,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_052.jpg,ok,yes,center,N/A,no,N/A,right
+supermarket_053,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_053.jpg,ok,yes,center left,N/A,yes,center left,N/A
+supermarket_054,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_054.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_055,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_055.jpg,ok,yes,far right,N/A,yes,far left,N/A
+supermarket_056,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_056.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_057,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_057.jpg,ok,yes,center right,N/A,yes,far right,N/A
+supermarket_058,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_058.jpg,ok,yes,center right,N/A,no,N/A,left
+supermarket_059,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_059.jpg,ok,yes,center,N/A,no,N/A,right
+supermarket_060,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_060.jpg,ok,yes,center,N/A,yes,center left,N/A
+supermarket_061,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_061.jpg,ok,yes,far left,N/A,yes,far right,N/A
+supermarket_062,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_062.jpg,ok,yes,far left,N/A,yes,far right,N/A
+supermarket_063,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_063.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_064,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_064.jpg,ok,yes,center,N/A,yes,center,N/A
+supermarket_065,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_065.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_066,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_066.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_067,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_067.jpg,ok,no,N/A,right,yes,center right,N/A
+supermarket_068,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_068.jpg,ok,yes,center left,N/A,no,N/A,right
+supermarket_069,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_069.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_070,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_070.jpg,ok,no,N/A,left,yes,center right,N/A
+supermarket_071,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_071.jpg,ok,yes,far left,N/A,yes,center,N/A
+supermarket_072,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_072.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_073,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_073.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_074,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_074.jpg,ok,yes,far left,N/A,yes,center left,N/A
+supermarket_075,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_075.jpg,ok,yes,center right,N/A,yes,far right,N/A
+supermarket_076,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_076.jpg,ok,no,N/A,right,yes,far right,N/A
+supermarket_077,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_077.jpg,ok,yes,far right,N/A,no,N/A,left
+supermarket_078,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_078.jpg,ok,yes,far right,N/A,yes,center left,N/A
+supermarket_079,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_079.jpg,ok,yes,far left,N/A,yes,far right,N/A
+supermarket_080,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_080.jpg,ok,yes,center right,N/A,yes,center right,N/A
+supermarket_081,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_081.jpg,ok,yes,far right,N/A,yes,far left,N/A
+supermarket_082,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_082.jpg,ok,yes,center left,N/A,yes,center left,N/A
+supermarket_083,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_083.jpg,ok,yes,center left,N/A,yes,center left,N/A
+supermarket_084,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_084.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_085,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_085.jpg,ok,no,N/A,left,no,N/A,right
+supermarket_086,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_086.jpg,ok,yes,center left,N/A,yes,center,N/A
+supermarket_087,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_087.jpg,ok,yes,far right,N/A,yes,center left,N/A
+supermarket_088,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_088.jpg,ok,yes,far right,N/A,yes,far left,N/A
+supermarket_089,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_089.jpg,ok,no,N/A,left,yes,far right,N/A
+supermarket_090,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_090.jpg,ok,no,N/A,right,no,N/A,left
+supermarket_091,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_091.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_092,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_092.jpg,ok,no,N/A,right,yes,center,N/A
+supermarket_093,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_093.jpg,ok,yes,center right,N/A,yes,center left,N/A
+supermarket_094,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_094.jpg,ok,yes,center right,N/A,yes,center left,N/A
+supermarket_095,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_095.jpg,ok,yes,center right,N/A,yes,center,N/A
+supermarket_096,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_096.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_097,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_097.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_098,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_098.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_099,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_099.jpg,ok,yes,center right,N/A,yes,far left,N/A
+supermarket_100,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_100.jpg,ok,yes,far right,N/A,yes,center,N/A
+supermarket_101,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_101.jpg,ok,no,N/A,right,yes,center left,N/A
+supermarket_102,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_102.jpg,ok,yes,far left,N/A,no,N/A,right
+supermarket_103,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInSupermarketNew/supermarket_103.jpg,ok,yes,far left,N/A,no,N/A,right
+themepark_001,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_001.jpg,ok,yes,far right,N/A,yes,center,N/A
+themepark_002,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_002.jpg,ok,yes,center left,N/A,yes,center,N/A
+themepark_003,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_003.jpg,ok,yes,center right,N/A,yes,center right,N/A
+themepark_004,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_004.jpg,ok,yes,far right,N/A,yes,center,N/A
+themepark_005,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_005.jpg,ok,yes,far right,N/A,yes,center right,N/A
+themepark_006,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_006.jpg,ok,no,N/A,right,no,N/A,left
+themepark_007,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_007.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_008,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_008.jpg,ok,no,N/A,left,yes,far left,N/A
+themepark_009,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_009.jpg,ok,yes,center left,N/A,yes,center right,N/A
+themepark_010,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_010.jpg,ok,no,N/A,right,yes,center,N/A
+themepark_011,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_011.jpg,ok,yes,far left,N/A,yes,center right,N/A
+themepark_012,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_012.jpg,ok,yes,far left,N/A,yes,center right,N/A
+themepark_013,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_013.jpg,ok,yes,center left,N/A,no,N/A,right
+themepark_014,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_014.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_015,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_015.jpg,ok,yes,center left,N/A,no,N/A,right
+themepark_016,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_016.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_017,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_017.jpg,ok,no,N/A,right,yes,far right,N/A
+themepark_018,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_018.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_019,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_019.jpg,ok,yes,far right,N/A,yes,center left,N/A
+themepark_020,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_020.jpg,ok,no,N/A,right,no,N/A,right
+themepark_021,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_021.jpg,ok,yes,center right,N/A,yes,center,N/A
+themepark_022,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_022.jpg,ok,no,N/A,right,yes,center right,N/A
+themepark_023,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_023.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_024,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_024.jpg,ok,yes,center,N/A,no,N/A,left
+themepark_025,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_025.jpg,ok,yes,far right,N/A,yes,center left,N/A
+themepark_026,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_026.jpg,ok,yes,center left,N/A,yes,far left,N/A
+themepark_027,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_027.jpg,ok,yes,far right,N/A,yes,center right,N/A
+themepark_028,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_028.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_029,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_029.jpg,ok,yes,center right,N/A,no,N/A,right
+themepark_030,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_030.jpg,ok,yes,center,N/A,yes,far left,N/A
+themepark_031,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_031.jpg,ok,yes,center right,N/A,no,N/A,left
+themepark_032,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_032.jpg,ok,yes,center,N/A,yes,center left,N/A
+themepark_033,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_033.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_034,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_034.jpg,ok,yes,far left,N/A,yes,far right,N/A
+themepark_035,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_035.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_036,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_036.jpg,ok,no,N/A,left,yes,center,N/A
+themepark_037,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_037.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_038,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_038.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_039,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_039.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_040,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_040.jpg,ok,no,N/A,right,yes,center right,N/A
+themepark_041,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_041.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_042,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_042.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_043,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_043.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_044,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_044.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_045,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_045.jpg,ok,no,N/A,right,no,N/A,left
+themepark_046,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_046.jpg,ok,yes,far left,N/A,yes,center right,N/A
+themepark_047,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_047.jpg,ok,no,N/A,right,no,N/A,right
+themepark_048,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_048.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_049,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_049.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_050,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_050.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_051,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_051.jpg,ok,yes,center right,N/A,no,N/A,right
+themepark_052,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_052.jpg,ok,yes,center left,N/A,yes,center,N/A
+themepark_053,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_053.jpg,ok,yes,far left,N/A,yes,center left,N/A
+themepark_054,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_054.jpg,ok,yes,center,N/A,yes,far right,N/A
+themepark_055,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_055.jpg,ok,yes,far left,N/A,yes,center,N/A
+themepark_056,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_056.jpg,ok,no,N/A,right,no,N/A,left
+themepark_057,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_057.jpg,ok,yes,center left,N/A,yes,center,N/A
+themepark_058,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_058.jpg,ok,yes,far right,N/A,yes,far right,N/A
+themepark_059,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_059.jpg,ok,yes,far right,N/A,yes,center,N/A
+themepark_060,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_060.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_061,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_061.jpg,ok,no,N/A,right,yes,far left,N/A
+themepark_062,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_062.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_063,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_063.jpg,ok,yes,far right,N/A,no,N/A,right
+themepark_064,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_064.jpg,ok,yes,center right,N/A,yes,far left,N/A
+themepark_065,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_065.jpg,ok,yes,center,N/A,yes,center right,N/A
+themepark_066,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_066.jpg,ok,no,N/A,right,yes,center right,N/A
+themepark_067,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_067.jpg,ok,no,N/A,left,yes,center right,N/A
+themepark_068,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_068.jpg,ok,yes,far right,N/A,no,N/A,right
+themepark_069,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_069.jpg,ok,no,N/A,right,no,N/A,right
+themepark_070,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_070.jpg,ok,no,N/A,right,no,N/A,left
+themepark_071,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_071.jpg,ok,yes,center left,N/A,yes,far right,N/A
+themepark_072,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_072.jpg,ok,yes,far left,N/A,yes,center,N/A
+themepark_073,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_073.jpg,ok,yes,center,N/A,yes,far left,N/A
+themepark_074,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_074.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_075,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_075.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_076,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_076.jpg,ok,yes,far left,N/A,no,N/A,right
+themepark_077,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_077.jpg,ok,yes,center,N/A,yes,center,N/A
+themepark_078,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_078.jpg,ok,yes,center left,N/A,no,N/A,left
+themepark_079,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_079.jpg,ok,yes,far left,N/A,yes,center left,N/A
+themepark_080,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_080.jpg,ok,yes,center right,N/A,yes,far right,N/A
+themepark_082,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_082.jpg,ok,yes,center,N/A,yes,far left,N/A
+themepark_083,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_083.jpg,ok,no,N/A,right,no,N/A,left
+themepark_084,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_084.jpg,ok,yes,center,N/A,yes,center,N/A
+themepark_085,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_085.jpg,ok,yes,far right,N/A,yes,center left,N/A
+themepark_086,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_086.jpg,ok,yes,center,N/A,no,N/A,left
+themepark_087,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_087.jpg,ok,yes,center left,N/A,yes,far left,N/A
+themepark_088,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_088.jpg,ok,yes,far left,N/A,yes,center right,N/A
+themepark_089,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_089.jpg,ok,no,N/A,right,yes,center,N/A
+themepark_090,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_090.jpg,ok,yes,far right,N/A,yes,far left,N/A
+themepark_091,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_091.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_092,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_092.jpg,ok,yes,far left,N/A,yes,center,N/A
+themepark_093,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_093.jpg,ok,yes,far right,N/A,yes,center right,N/A
+themepark_094,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_094.jpg,ok,no,N/A,left,yes,far right,N/A
+themepark_095,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_095.jpg,ok,no,N/A,right,no,N/A,left
+themepark_096,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_096.jpg,ok,no,N/A,right,yes,center,N/A
+themepark_097,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_097.jpg,ok,no,N/A,right,yes,center,N/A
+themepark_098,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_098.jpg,ok,no,N/A,right,yes,center,N/A
+themepark_099,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_099.jpg,ok,yes,far right,N/A,no,N/A,left
+themepark_100,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_100.jpg,ok,yes,far left,N/A,no,N/A,right
+themepark_101,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_101.jpg,ok,no,N/A,right,yes,center left,N/A
+themepark_102,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_102.jpg,ok,no,N/A,right,yes,center,N/A
+themepark_103,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_103.jpg,ok,yes,center left,N/A,yes,far right,N/A
+themepark_104,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_104.jpg,ok,yes,center right,N/A,yes,center left,N/A
+themepark_105,/scratch/ds5725/linefinder/LineFinder/Images/QueuesInThemeParks/themepark_105.jpg,ok,yes,center left,N/A,yes,center,N/A
+outdoor_001,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_001.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_002,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_002.jpg,ok,yes,center right,N/A,no,N/A,right
+outdoor_003,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_003.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_004,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_004.jpg,ok,yes,center,N/A,yes,center right,N/A
+outdoor_005,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_005.jpg,ok,no,N/A,right,yes,center right,N/A
+outdoor_006,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_006.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_007,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_007.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_008,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_008.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_009,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_009.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_010,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_010.jpg,ok,yes,center left,N/A,yes,far left,N/A
+outdoor_011,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_011.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_012,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_012.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_013,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_013.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_014,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_014.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_015,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_015.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_016,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_016.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_017,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_017.jpg,ok,no,N/A,right,no,N/A,right
+outdoor_018,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_018.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_019,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_019.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_020,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_020.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_021,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_021.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_022,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_022.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_023,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_023.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_024,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_024.jpg,ok,yes,center right,N/A,yes,far right,N/A
+outdoor_025,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_025.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_026,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_026.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_027,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_027.jpg,ok,yes,center left,N/A,no,N/A,right
+outdoor_028,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_028.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_029,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_029.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_030,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_030.jpg,ok,yes,far left,N/A,no,N/A,right
+outdoor_031,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_031.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_032,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_032.jpg,ok,yes,far right,N/A,yes,center right,N/A
+outdoor_033,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_033.jpg,ok,yes,center left,N/A,yes,center right,N/A
+outdoor_034,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_034.jpg,ok,yes,center left,N/A,yes,center right,N/A
+outdoor_035,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_035.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_036,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_036.jpg,ok,yes,center right,N/A,yes,center right,N/A
+outdoor_037,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_037.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_038,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_038.jpg,ok,no,N/A,right,yes,center right,N/A
+outdoor_039,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_039.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_040,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_040.jpg,ok,yes,far right,N/A,no,N/A,right
+outdoor_041,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_041.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_042,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_042.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_043,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_043.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_044,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_044.jpg,ok,no,N/A,right,no,N/A,right
+outdoor_045,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_045.jpg,ok,yes,far right,N/A,no,N/A,right
+outdoor_046,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_046.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_047,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_047.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_048,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_048.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_049,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_049.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_050,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_050.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_051,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_051.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_052,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_052.jpg,ok,yes,center left,N/A,no,N/A,right
+outdoor_053,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_053.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_054,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_054.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_055,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_055.jpg,ok,yes,far right,N/A,no,N/A,left
+outdoor_056,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_056.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_057,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_057.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_058,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_058.jpg,ok,yes,center right,N/A,yes,far right,N/A
+outdoor_059,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_059.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_060,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_060.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_061,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_061.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_062,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_062.jpg,ok,yes,center right,N/A,yes,far left,N/A
+outdoor_063,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_063.jpg,ok,yes,far right,N/A,no,N/A,right
+outdoor_064,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_064.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_065,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_065.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_066,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_066.jpg,ok,yes,far left,N/A,no,N/A,right
+outdoor_067,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_067.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_068,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_068.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_069,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_069.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_070,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_070.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_071,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_071.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_072,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_072.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_073,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_073.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_074,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_074.jpg,ok,yes,center right,N/A,yes,center,N/A
+outdoor_075,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_075.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_076,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_076.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_077,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_077.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_078,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_078.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_079,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_079.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_080,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_080.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_081,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_081.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_082,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_082.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_083,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_083.jpg,ok,yes,center left,N/A,yes,center,N/A
+outdoor_084,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_084.jpg,ok,yes,center left,N/A,yes,center left,N/A
+outdoor_085,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_085.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_086,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_086.jpg,ok,yes,center right,N/A,yes,far left,N/A
+outdoor_087,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_087.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_088,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_088.jpg,ok,yes,center left,N/A,yes,center left,N/A
+outdoor_089,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_089.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_090,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_090.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_091,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_091.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_092,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_092.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_093,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_093.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_094,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_094.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_095,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_095.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_096,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_096.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_097,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_097.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_098,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_098.jpg,ok,yes,far right,N/A,no,N/A,right
+outdoor_099,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_099.jpg,ok,yes,far left,N/A,yes,center left,N/A
+outdoor_100,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_100.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_101,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_101.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_102,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_102.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_103,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_103.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_104,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_104.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_105,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_105.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_106,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_106.jpg,ok,no,N/A,left,yes,center left,N/A
+outdoor_107,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_107.jpg,ok,yes,far left,N/A,no,N/A,right
+outdoor_108,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_108.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_109,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_109.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_110,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_110.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_111,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_111.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_112,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_112.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_113,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_113.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_114,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_114.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_115,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_115.jpg,ok,yes,center,N/A,no,N/A,right
+outdoor_116,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_116.jpg,ok,no,N/A,right,no,N/A,right
+outdoor_117,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_117.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_118,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_118.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_119,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_119.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_120,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_120.jpg,ok,yes,center,N/A,yes,center,N/A
+outdoor_121,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_121.jpg,ok,yes,far left,N/A,no,N/A,right
+outdoor_122,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_122.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_123,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_123.jpg,ok,no,N/A,right,no,N/A,right
+outdoor_124,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_124.jpg,ok,no,N/A,right,no,N/A,right
+outdoor_125,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_125.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_126,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_126.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_127,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_127.jpg,ok,yes,center right,N/A,no,N/A,right
+outdoor_128,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_128.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_129,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_129.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_130,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_130.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_131,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_131.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_132,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_132.jpg,ok,yes,center left,N/A,yes,center right,N/A
+outdoor_133,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_133.jpg,ok,yes,center,N/A,yes,center right,N/A
+outdoor_134,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_134.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_135,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_135.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_136,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_136.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_137,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_137.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_138,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_138.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_139,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_139.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_140,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_140.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_141,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_141.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_142,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_142.jpg,ok,no,N/A,left,yes,center left,N/A
+outdoor_143,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_143.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_144,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_144.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_145,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_145.jpg,ok,yes,far right,N/A,no,N/A,left
+outdoor_146,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_146.jpg,ok,no,N/A,right,yes,center,N/A
+outdoor_147,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_147.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_148,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_148.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_149,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_149.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_150,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_150.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_151,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_151.jpg,ok,no,N/A,right,yes,center right,N/A
+outdoor_152,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_152.jpg,ok,yes,far left,N/A,yes,center left,N/A
+outdoor_153,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_153.jpg,ok,yes,far right,N/A,yes,center,N/A
+outdoor_154,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_154.jpg,ok,no,N/A,right,yes,far right,N/A
+outdoor_155,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_155.jpg,ok,yes,far left,N/A,yes,center left,N/A
+outdoor_156,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_156.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_157,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_157.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_158,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_158.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_159,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_159.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_160,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_160.jpg,ok,yes,far right,N/A,yes,center,N/A
+outdoor_161,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_161.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_162,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_162.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_163,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_163.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_164,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_164.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_165,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_165.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_166,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_166.jpg,ok,no,N/A,left,yes,far right,N/A
+outdoor_167,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_167.jpg,ok,no,N/A,right,yes,center right,N/A
+outdoor_168,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_168.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_169,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_169.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_170,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_170.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_171,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_171.jpg,ok,yes,center,N/A,yes,center,N/A
+outdoor_172,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_172.jpg,ok,yes,center right,N/A,yes,center right,N/A
+outdoor_173,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_173.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_174,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_174.jpg,ok,yes,center right,N/A,no,N/A,left
+outdoor_175,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_175.jpg,ok,no,N/A,left,yes,center right,N/A
+outdoor_176,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_176.jpg,ok,yes,far right,N/A,yes,far left,N/A
+outdoor_177,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_177.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_178,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_178.jpg,ok,no,N/A,right,no,N/A,left
+outdoor_179,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_179.jpg,ok,yes,far left,N/A,yes,center right,N/A
+outdoor_180,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_180.jpg,ok,no,N/A,left,yes,center,N/A
+outdoor_181,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_181.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_182,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_182.jpg,ok,yes,center left,N/A,yes,far right,N/A
+outdoor_183,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_183.jpg,ok,yes,center left,N/A,yes,center right,N/A
+outdoor_184,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_184.jpg,ok,no,N/A,right,yes,center right,N/A
+outdoor_185,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_185.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_186,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_186.jpg,ok,yes,center,N/A,yes,far left,N/A
+outdoor_187,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_187.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_188,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_188.jpg,ok,yes,far right,N/A,yes,center left,N/A
+outdoor_189,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_189.jpg,ok,yes,far right,N/A,yes,far right,N/A
+outdoor_190,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_190.jpg,ok,no,N/A,right,yes,center left,N/A
+outdoor_191,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_191.jpg,ok,yes,far right,N/A,yes,center,N/A
+outdoor_192,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_192.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_193,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_193.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_194,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_194.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_195,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_195.jpg,ok,yes,far left,N/A,yes,center,N/A
+outdoor_196,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_196.jpg,ok,yes,far left,N/A,yes,far right,N/A
+outdoor_197,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_197.jpg,ok,no,N/A,left,no,N/A,right
+outdoor_198,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_198.jpg,ok,yes,center right,N/A,yes,center left,N/A
+outdoor_199,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_199.jpg,ok,yes,center right,N/A,yes,far left,N/A
+outdoor_200,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_200.jpg,ok,no,N/A,right,yes,far left,N/A
+outdoor_201,/scratch/ds5725/linefinder/LineFinder/Images/QueuesOutdoors/outdoor_201.jpg,ok,yes,far right,N/A,yes,far left,N/A

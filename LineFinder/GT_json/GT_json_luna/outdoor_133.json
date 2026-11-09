@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_133",
+    "image_name": "outdoor_133_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_133_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "9",
+        "What direction is the line facing": "away",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Long wavy brown hair; black ruffled top and long black skirt; beige sneakers; pink shopping bag; holding a small book.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Auburn bob haircut, brown long‑sleeve top with a light crossbody strap, viewed from behind.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "9",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "no",
+        "If yes, where is the end of the line in the image?": "N/A",
+        "If not, in what direction should you move camera to see the end of the line?": "left",
+        "Description of the person at the end of the line": "",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Auburn bob haircut, brown long‑sleeve top with a light crossbody strap, viewed from behind.",
+        "Is this image too hard?": "no"
+    }
+}

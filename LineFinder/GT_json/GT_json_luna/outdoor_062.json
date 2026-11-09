@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_062",
+    "image_name": "outdoor_062_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_062_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "9",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Back view; blue jacket; short dark hair; facing forward in line.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "far left",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Light-gray long jacket, dark trousers, black shoes; short hair, back turned.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "8",
+        "What direction is the line facing": "sideways-left",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center right",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Back view; blue jacket; short dark hair; facing forward in line.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person with short gray hair, black blazer, black pants, and black shoes",
+        "Is this image too hard?": "no"
+    }
+}

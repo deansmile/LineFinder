@@ -1,0 +1,31 @@
+{
+    "image_id": "outdoor_171",
+    "image_name": "outdoor_171_start_end.jpg",
+    "image_path": "C:/Users/sugoi/Downloads/luna_start_end/luna_start_end\\outdoor_171_start_end.jpg",
+    "prediction": {
+        "Number of people in line": "7",
+        "What direction is the line facing": "towards",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Blond ponytail, bright blue top, turned away from camera.",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Short-haired person in a light patterned short-sleeve shirt, blue jeans, and brown shoes, holding a purple tote and standing sideways, looking back.",
+        "Is this image too hard?": "no"
+    },
+    "annotation": {
+        "Number of people in line": "4",
+        "What direction is the line facing": "sideways-right",
+        "Do we see the end of line?": "yes",
+        "If yes, where is the end of the line in the image?": "center left",
+        "If not, in what direction should you move camera to see the end of the line?": "N/A",
+        "Description of the person at the end of the line": "Child wearing short red hair, gray T-shirt, blue denim jeans, and black sneakers",
+        "Do we see the start of line?": "yes",
+        "If yes, where is the start of the line in the image?": "center",
+        "If not, in what direction should you move camera to see the start of the line?": "N/A",
+        "Description of the person at the start of the line": "Person with short blonde hair wearing an electric blue dress, an orange shoes",
+        "Is this image too hard?": "no"
+    }
+}
